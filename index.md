@@ -8,3 +8,13 @@
 
 - [リンク](http://faithandbrave.hateblo.jp/)
 
+
+```cpp
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello World" << std::endl;
+}
+```
+
