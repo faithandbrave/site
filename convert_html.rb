@@ -1,14 +1,21 @@
 require 'fileutils'
 
+def get_site_name()
+  return 'Faith and Brave'
+end
+
 def set_page_title(src_data, dst_data)
-  site_name = 'Faith and Brave'
   front_line = src_data.lines.first.chomp
   title = front_line.gsub(/#(.*?)/, '\1')
-  return dst_data.gsub('META_TITLE', "#{title} - #{site_name}")
+  page_title = if title.empty?
+               then get_site_name
+               else "#{title} - #{get_site_name}"
+               end
+  return dst_data.gsub('META_TITLE', page_title)
 end
 
 def set_site_name(dst_data)
-  return dst_data.gsub('META_SITE_NAME', 'Faith and Brave')
+  return dst_data.gsub('META_SITE_NAME', get_site_name)
 end
 
 def set_project(dst_data)
