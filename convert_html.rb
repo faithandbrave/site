@@ -7,7 +7,7 @@ end
 def set_page_title(src_data, dst_data)
   front_line = src_data.lines.first.chomp
   title = front_line.gsub(/#(.*?)/, '\1')
-  page_title = if title.empty?
+  page_title = if title == front_line
                then get_site_name
                else "#{title} - #{get_site_name}"
                end
