@@ -62,3 +62,30 @@ Scala、Haskellなどもある程度使える。
 - [Amazon wish list](http://www.amazon.co.jp/registry/wishlist/1FUDGIO7C0HW/ref=cm_wl_rlist_go_o_C-1_d)
 
 
+##写真
+
+<img src="./image/akira_wankuma_photo1.jpg">
+
+<img src="./image/akira_wankuma_photo2.jpg">
+
+わんくま同盟 東京勉強会 #22 「C++0x 言語の未来を語る」にて。
+
+
+<img src="./image/akira_devsumi_photo1.jpg">
+
+<img src="./image/akira_devsumi_photo2.jpg">
+
+<img src="./image/akira_devsumi_photo3.jpg">
+
+Developers Summit 2010 「C++0x、Ruby、ECMAScript5 言語の国際標準化について」にて。
+
+
+<img src="./image/akira_boost_study_photo1.jpg">
+
+Boost.勉強会 #6 札幌にて。
+
+
+<img src="./image/akira_gree_tech_talk_photo1.jpg" width="90%">
+
+GREE Tech Talk #05にて。
+
