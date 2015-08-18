@@ -53,6 +53,7 @@ Scala、Haskellなどもある程度使える。
 ##勉強会参加情報
 - [ATND](http://atnd.org/users/3333)
 - [PARTAKE](http://partake.in/users/05d895a6-5ca5-4777-b38f-c8a5a8c699d9)
+- [connpass](http://connpass.com/user/faithandbrave/)
 
 
 ##その他利用サービス
