@@ -40,15 +40,9 @@ def convert(src_filename, dst_filename)
   convert_after(src_filename, dst_filename)
 end
 
-def replace_extension(md_filename)
-  return md_filename.gsub(/(.*?)\.md/, '\1.html')
-end
-
-target_file_list = ['index.md', 'profile.md']
-target_file_list.each {|filename|
-  dest_directory = '../website/'
-  convert(filename, replace_extension(dest_directory + filename))
-}
+src_filename = 'index.md'
+dst_filename = '../website/index.html'
+convert(src_filename, dst_filename)
 
 FileUtils.copy('theme.css', '../website/theme.css')
 
