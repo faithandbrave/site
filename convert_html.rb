@@ -14,6 +14,17 @@ def set_page_title(src_data, dst_data)
   return dst_data.gsub('META_TITLE', page_title)
 end
 
+def set_root_path(src_filename, dst_data)
+  depth = src_filename.count('/')
+  root_path = if depth == 0
+              then '.'
+              else
+                path = '../' * depth
+                path[0, path.length - 1]
+              end
+  return dst_data.gsub('META_ROOT_PATH', root_path)
+end
+
 def set_site_name(dst_data)
   return dst_data.gsub('META_SITE_NAME', get_site_name)
 end
@@ -26,6 +37,7 @@ def convert_after(src_filename, dst_filename)
   src_data = File.open(src_filename).read
   dst_data = File.open(dst_filename).read
 
+  dst_data = set_root_path(src_filename, dst_data)
   dst_data = set_site_name(dst_data)
   dst_data = set_project(dst_data)
   dst_data = set_page_title(src_data, dst_data)
@@ -44,7 +56,7 @@ def replace_extension(md_filename)
   return md_filename.gsub(/(.*?)\.md/, '\1.html')
 end
 
-target_file_list = ['index.md', 'profile.md']
+target_file_list = ['index.md', 'profile.md', 'profile/english.md']
 target_file_list.each {|filename|
   dest_directory = '../website/'
   convert(filename, replace_extension(dest_directory + filename))
