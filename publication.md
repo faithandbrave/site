@@ -12,7 +12,7 @@
 - \[[pdf][boost_life_pdf]\]\[[pptx][boost_life_pptx]\]\[[slideshare][boost_life_slide]\] 「Boostのあるプログラミング生活」 [わんくま同盟 横浜勉強会 #3][wankuma_yokohama3] 2010/08/28
 - \[[pdf][boost_tour_1_44_pdf]\]\[[pptx][boost_tour_1_44_pptx]\]\[[slideshare][boost_tour_1_44_slide]\] 「Boostライブラリ一周の旅 1.44.0 diff」 [Boost.勉強会 #2][boost2] 2010/09/11
 - \[[pdf][boost_tour_1_44_all_pdf]\]\[[pptx][boost_tour_1_44_all_pptx]\]\[[slideshare][boost_tour_1_44_all_slide]\] 「Boostライブラリ一周の旅 1.44.0 all」 [Boost.勉強会 #2][boost2] 2010/09/11
-- \[[pdf][scala_evo_pdfl]\]\[[pptx][scala_evol_pptx]\]\[[slideshare][scala_evol_slide]\] 「Scalaがもたらす言語の進化」 [Scala勉強会第9回 in 渋谷][scala_shibuya9] 2010/10/27
+- \[[pdf][scala_evol_pdf]\]\[[pptx][scala_evol_pptx]\]\[[slideshare][scala_evol_slide]\] 「Scalaがもたらす言語の進化」 [Scala勉強会第9回 in 渋谷][scala_shibuya9] 2010/10/27
 - \[[pdf][boost_fusion_pdf]\]\[[pptx][boost_fusion_pptx]\]\[[slideshare][boost_fusion_slide]\] 「Boost Fusion Library」 [Boost.勉強会 #4][boost4] 2011/02/26
 - \[[pdf][bjarne_pdf]\]\[[pptx][bjarne_pptx]\]\[[slideshare][bjarne_slide]\] 「『ストラウストラップのプログラミング入門』で語られなかったいくつかのこと」 [わんくま同盟 東京勉強会 #62][wankuma62] 2011/08/27
 - \[[pdf][doc_and_error_pdf]\]\[[pptx][doc_and_error_pptx]\]\[[slideshare][doc_and_error_slide]\] 「ドキュメントとエラーハンドリング」 [エラーハンドリング勉強会][error_handling] 2011/09/04
