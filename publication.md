@@ -1,48 +1,48 @@
 #発表資料や出版物
 
 ##発表履歴
-- [[pdf][cpp0x_future_pdf]][[pptx][cpp0x_future_pdf]][[slideshare][cpp0x_future_slide]] 「C++0x 言語の未来を語る」 [わんくま同盟 東京勉強会 #22][wankuma22] 2008/07/12
-- 「C++ Dayパネル・ディスカッション」 パネラーとして登壇 [わんくま同盟 横浜勉強会 #1][wankuma_yokohama1] 2008/08/30
-- [[pdf][cpp0x_tmp_pdf]][[pptx][cpp0x_tmp_pptx]][[slideshare][cpp0x_tmp_slide]] 「C++テンプレートメタプログラミング」 [型レベルプログラミングの会][type_level] 2009/04/18
-- [[pdf][cpp0x_typelist_pdf]][[pptx][cpp0x_typelist_pptx]][[slideshare][cpp0x_typelist_slide]] 「C++0x 可変引数テンプレートでの型リスト」 [型レベルプログラミングの会][type_level] 2009/04/18
-- [[pdf][cpp0x_concept_pdf]][[pptx][cpp0x_concept_pptx]][[slideshare][cpp0x_concept_slide]] 「C++0x コンセプト」 [わんくま同盟 東京勉強会 #33][wankuma33] 2009/05/12
-- [[pdf][boost_tour_1_40_pdf]][[pptx][boost_tour_1_40_pptx]][[slideshare][boost_tour_1_40_slide]] 「Boostライブラリ一周の旅」[Boost.勉強会 #1][boost1] 2009/12/12
-- [[pdf][cpp0x_iso_pdf]][[ppt][cpp0x_iso_ppt]][[slideshare][cpp0x_iso_slide]] 「C++0x、Ruby、ECMAScript5 言語の国際標準化について - C++0xの概要」 [Developers Summit 2010][devsumi2010] 2010/02/18
-- [[pdf][wave_pdf]][[pptx][wave_pptx]][[slideshare][wave_slide]] 「Google Waveの事例と問題点と折り合いのつけ方」 [Google Waveを便利に使ってる人になんか語って欲しい][google_wave] 2010/05/12
-- [[pdf][boost_life_pdf]][[pptx][boost_life_pptx]][[slideshare][boost_life_slide]] 「Boostのあるプログラミング生活」 [わんくま同盟 横浜勉強会 #3][wankuma_yokohama3] 2010/08/28
-- [[pdf][boost_tour_1_44_pdf]][[pptx](boost_tour_1_44_pptx)][[slideshare][boost_tour_1_44_slide]] 「Boostライブラリ一周の旅 1.44.0 diff」 [Boost.勉強会 #2][boost2] 2010/09/11
-- [[pdf][boost_tour_1_44_all_pdf]][[pptx][boost_tour_1_44_all_pptx]][[slideshare][boost_tour_1_44_all_slide]] 「Boostライブラリ一周の旅 1.44.0 all」 [Boost.勉強会 #2][boost2] 2010/09/11
-- [[pdf][scala_evo_pdfl]][[pptx][scala_evol_pptx]][[slideshare][scala_evol_slide]] 「Scalaがもたらす言語の進化」 [Scala勉強会第9回 in 渋谷][scala_shibuya9] 2010/10/27
-- [[pdf][boost_fusion_pdf]][[pptx][boost_fusion_pptx]][[slideshare][boost_fusion_slide]] 「Boost Fusion Library」 [Boost.勉強会 #4][boost4] 2011/02/26
-- [[pdf][bjarne_pdf]][[pptx][bjarne_pptx]][[slideshare][bjarne_slide]] 「『ストラウストラップのプログラミング入門』で語られなかったいくつかのこと」 [わんくま同盟 東京勉強会 #62][wankuma62] 2011/08/27
-- [[pdf][doc_and_error_pdf]][[pptx][doc_and_error_pptx]][[slideshare][doc_and_error_slide]] 「ドキュメントとエラーハンドリング」 [エラーハンドリング勉強会][error_handling] 2011/09/04
-- [[pdf][boost_geometry_pdf]][[pptx][boost_geometry_pptx]][[slideshare][boost_geometry_slide]] 「Boost.Geometryに学ぶテンプレートライブラリの設計」 [Boost.勉強会 #6 札幌][boost6] 2011/11/05
-- [[pdf][boost_overview_pdf]][[pptx][boost_overview_pptx]][[slideshare][boost_overview_slide]] 「Boost C++ Librariesの概要」 [Boost.勉強会 #7 東京][boost7] 2011/12/03
-- [[pdf][boost_tour_1_48_pdf]][[pptx][boost_tour_1_48_pptx]][[slideshare][boost_tour_1_48_slide]] 「Boostライブラリ一周の旅 1.48.0 diff」 [Boost.勉強会 #7 東京][boost7] 2011/12/03
-- [[pdf][boost_tour_1_48_all_pdf]][[pptx][boost_tour_1_48_all_pptx]][[slideshare][boost_tour_1_48_all_slide]] 「Boostライブラリ一周の旅 1.48.0 all」 [Boost.勉強会 #7 東京][boost7] 2011/12/03
-- [[pdf][scope_exit_pdf]][[pptx][scope_exit_pptx]][[slideshare][scope_exit_slide]] 「メンバ変数のメンバ関数内でのリソース管理」 [Boost.勉強会 #8 大阪][boost8] 2012/02/11
-- [[pdf][boost_context_pdf]][[pptx][boost_context_pptx]][[slideshare][boost_context_slide]] 「Boost.Contextで継続」 [Boost.Contextオンリーイベント][boost_context_event]  2012/04/08
-- [[pdf][out_iter_pdf]][[pptx][out_iter_pptx]][[slideshare][out_iter_slide]][[text][out_iter_text]] 「Output Iteratorの置き換えとRangeの拡張」 [C++Now! 2012][cppnow2012] 2012/05/16
-- [[pdf][out_iter_jp_pdf]][[pptx][out_iter_jp_pptx]][[slideshare][out_iter_jp_slide]] 「Output Iteratorの置き換えとRangeの拡張(日本語)」 [Boost.勉強会 #9 つくば][boost9] 2012/05/26
-- [[pdf][boost_tour_1_50_pdf]][[pptx][boost_tour_1_50_pptx]][[slideshare][boost_tour_1_50_slide]] 「Boostライブラリ一周の旅 1.50.0 diff」 [Boost.勉強会 #10 東京][boost10] 2012/07/28
-- [[pdf][boost_tour_1_50_merge_pdf]][[pptx][boost_tour_1_50_merge_pptx]][[slideshare][boost_tour_1_50_merge_slide]] 「Boostライブラリ一周の旅 1.50.0 merge」 [Boost.勉強会 #10][boost10] 東京 2012/07/28
-- [[pdf][cppnow2012_report_pdf]][[pptx][cppnow2012_report_pptx]][[slideshare][cppnow2012_report_slide]] 「C++Now! 2012参加レポート」 [Boost.勉強会 #10 東京][boost10] 2012/07/28
-- [[pdf][collective_pdf]][[pptx][collective_pptx]][[slideshare][collective_slide]] 「集合知によって得られる大切なこと」 [第2回 闇鍋プログラミング勉強会][yaminabe2] 2012/09/15、[Aizu.LT::Tokyo #2][aizu_lt2] 2012/09/16
-- [[pdf][template_pdf]][[pptx][template_pptx]][[slideshare][template_slide]] 「テンプレートとは何か」 [Effective C++ 読書会 vol.11 大阪～第7章特別編～][effective3_reading11] 2012/11/23
-- [[pdf][boost_tour_1_53_pdf]][[pptx][boost_tour_1_53_pptx]][[slideshare][boost_tour_1_53_slide]] 「Boostライブラリ一周の旅 1.51.0～1.53.0 diff」 [Boost.勉強会 #11 東京][boost11] 2013/06/01
-- [[pdf][boost_tour_1_53_merge_pdf]][[pptx][boost_tour_1_53_merge_pptx]][[slideshare][boost_tour_1_53_merge_slide]] 「Boostライブラリ一周の旅 1.51.0～1.53.0 marge」 [Boost.勉強会 #11 東京][boost11] 2013/06/01
-- [[pdf][cpp14_overview_pdf]][[pptx][cpp14_overview_pptx]][[slideshare][cpp14_overview_slide]] 「C++14の概要(draft)」 [Boost.勉強会 #11 東京][boost11] 2013/06/01
-- [[pdf][cpp_community_pdf]][[pptx][cpp_community_pptx]][[slideshare][cpp_community_slide]] 「C++コミュニティを作る」 [Boost.勉強会 #12 大阪][boost12] 2013/06/22
-- [[pdf][boost_random_pdf]][[key][boost_random_key]][[slideshare][boost_random_slide]] 「Boost.Randomで乱数を学ぼう」 [Boost.勉強会 #13 仙台][boost13] 2013/10/19
-- [[pdf][cpp14_binary_literal_pdf]][[key][cpp14_binary_literal_key]][[slideshare][cpp14_binary_literal_slide]] 「C++14 2進数リテラル」 [C++14規格レビュー勉強会 #1][cpp14_review1] 2013/10/26
-- [[pdf][cpp14_constexpr_pdf]][[key][cpp14_constexpr_key]][[slideshare][cpp14_constexpr_slide]] 「C++14 constexprの制限緩和」 [C++14規格レビュー勉強会 #1][cpp14_review1] 2013/10/26
-- [[pdf][cpp14_variable_template_pdf]][[key][cpp14_variable_template_key]][[slideshare][cpp14_variable_template_slide]] 「C++14 変数テンプレート」 [C++14規格レビュー勉強会 #1][cpp14_review1] 2013/10/26
-- [[pdf][concurrency_ts_future_pdf]][[key][concurrency_ts_future_key]][[slideshare][concurrency_ts_future_slide]] 「C++14 Concurrency TS - Future APIの改善」 [C++14規格レビュー勉強会 #2][cpp14_review2] 2013/12/14
-- [[pdf][concurrency_ts_executor_pdf]][[key][concurrency_ts_executor_key]][[slideshare][concurrency_ts_executor_slide]] 「C++14 Concurrency TS - ExecutorとScheduler」 [C++14規格レビュー勉強会 #2][cpp14_review2] 2013/12/14
-- [[pdf][boost_graph_shortest_pdf]][[key][boost_graph_shortest_key]][[slideshare][boost_graph_shortest_slide]] 「Boost.Graphの設計と、最短経路アルゴリズムの使い方いろいろ」 [Boost.勉強会 #14 東京][boost14] 2014/03/01
-- [[pdf][programmer_mind_pdf]][[key][programmer_mind_key]][[slideshare][programmer_mind_slide]] 「プログラマとしての自分よ、こうあれ」 [kyon_mm * kaori_t_spica 結婚祝いLT大会 in Tokyo][kyon_kaori_wedding] 2014/03/29
-- [[pdf][start_concurrent_pdf]][[key][start_concurrent_key]][[slideshare][start_concurrent_slide]] 「ここから始める並行プログラミング」 [GREE Tech Talk #05][gree_tech_talk5] 2014/05/14
-- [[pdf][multi_paradigm_pdf]][[key][multi_paradigm_key]][[slideshare][multi_paradigm_slide]] 「マルチパラダイムデザイン - 再利用性の高いアプリケーションの設計」 [Boost.勉強会 #15 札幌][boost15] 2014/05/24
+- \[[pdf][cpp0x_future_pdf]\]\[[pptx][cpp0x_future_pdf]\]\[[slideshare][cpp0x_future_slide]\] 「C++0x 言語の未来を語る」 [わんくま同盟 東京勉強会 #22][wankuma22] 2008/07/12
+- \「C++ Dayパネル・ディスカッション」 パネラーとして登壇 [わんくま同盟 横浜勉強会 #1][wankuma_yokohama1] 2008/08/30
+- \[[pdf][cpp0x_tmp_pdf]\]\[[pptx][cpp0x_tmp_pptx]\]\[[slideshare][cpp0x_tmp_slide]\] 「C++テンプレートメタプログラミング」 [型レベルプログラミングの会][type_level] 2009/04/18
+- \[[pdf][cpp0x_typelist_pdf]\]\[[pptx][cpp0x_typelist_pptx]\]\[[slideshare][cpp0x_typelist_slide]\] 「C++0x 可変引数テンプレートでの型リスト」 [型レベルプログラミングの会][type_level] 2009/04/18
+- \[[pdf][cpp0x_concept_pdf]\]\[[pptx][cpp0x_concept_pptx]\]\[[slideshare][cpp0x_concept_slide]\] 「C++0x コンセプト」 [わんくま同盟 東京勉強会 #33][wankuma33] 2009/05/12
+- \[[pdf][boost_tour_1_40_pdf]\]\[[pptx][boost_tour_1_40_pptx]\]\[[slideshare][boost_tour_1_40_slide]\] 「Boostライブラリ一周の旅」[Boost.勉強会 #1][boost1] 2009/12/12
+- \[[pdf][cpp0x_iso_pdf]\]\[[ppt][cpp0x_iso_ppt]\]\[[slideshare][cpp0x_iso_slide]\] 「C++0x、Ruby、ECMAScript5 言語の国際標準化について - C++0xの概要」 [Developers Summit 2010][devsumi2010] 2010/02/18
+- \[[pdf][wave_pdf]\]\[[pptx][wave_pptx]\]\[[slideshare][wave_slide]\] 「Google Waveの事例と問題点と折り合いのつけ方」 [Google Waveを便利に使ってる人になんか語って欲しい][google_wave] 2010/05/12
+- \[[pdf][boost_life_pdf]\]\[[pptx][boost_life_pptx]\]\[[slideshare][boost_life_slide]\] 「Boostのあるプログラミング生活」 [わんくま同盟 横浜勉強会 #3][wankuma_yokohama3] 2010/08/28
+- \[[pdf][boost_tour_1_44_pdf]\]\[[pptx][boost_tour_1_44_pptx]\]\[[slideshare][boost_tour_1_44_slide]\] 「Boostライブラリ一周の旅 1.44.0 diff」 [Boost.勉強会 #2][boost2] 2010/09/11
+- \[[pdf][boost_tour_1_44_all_pdf]\]\[[pptx][boost_tour_1_44_all_pptx]\]\[[slideshare][boost_tour_1_44_all_slide]\] 「Boostライブラリ一周の旅 1.44.0 all」 [Boost.勉強会 #2][boost2] 2010/09/11
+- \[[pdf][scala_evo_pdfl]\]\[[pptx][scala_evol_pptx]\]\[[slideshare][scala_evol_slide]\] 「Scalaがもたらす言語の進化」 [Scala勉強会第9回 in 渋谷][scala_shibuya9] 2010/10/27
+- \[[pdf][boost_fusion_pdf]\]\[[pptx][boost_fusion_pptx]\]\[[slideshare][boost_fusion_slide]\] 「Boost Fusion Library」 [Boost.勉強会 #4][boost4] 2011/02/26
+- \[[pdf][bjarne_pdf]\]\[[pptx][bjarne_pptx]\]\[[slideshare][bjarne_slide]\] 「『ストラウストラップのプログラミング入門』で語られなかったいくつかのこと」 [わんくま同盟 東京勉強会 #62][wankuma62] 2011/08/27
+- \[[pdf][doc_and_error_pdf]\]\[[pptx][doc_and_error_pptx]\]\[[slideshare][doc_and_error_slide]\] 「ドキュメントとエラーハンドリング」 [エラーハンドリング勉強会][error_handling] 2011/09/04
+- \[[pdf][boost_geometry_pdf]\]\[[pptx][boost_geometry_pptx]\]\[[slideshare][boost_geometry_slide]\] 「Boost.Geometryに学ぶテンプレートライブラリの設計」 [Boost.勉強会 #6 札幌][boost6] 2011/11/05
+- \[[pdf][boost_overview_pdf]\]\[[pptx][boost_overview_pptx]\]\[[slideshare][boost_overview_slide]\] 「Boost C++ Librariesの概要」 [Boost.勉強会 #7 東京][boost7] 2011/12/03
+- \[[pdf][boost_tour_1_48_pdf]\]\[[pptx][boost_tour_1_48_pptx]\]\[[slideshare][boost_tour_1_48_slide]\] 「Boostライブラリ一周の旅 1.48.0 diff」 [Boost.勉強会 #7 東京][boost7] 2011/12/03
+- \[[pdf][boost_tour_1_48_all_pdf]\]\[[pptx][boost_tour_1_48_all_pptx]\]\[[slideshare][boost_tour_1_48_all_slide]\] 「Boostライブラリ一周の旅 1.48.0 all」 [Boost.勉強会 #7 東京][boost7] 2011/12/03
+- \[[pdf][scope_exit_pdf]\]\[[pptx][scope_exit_pptx]\]\[[slideshare][scope_exit_slide]\] 「メンバ変数のメンバ関数内でのリソース管理」 [Boost.勉強会 #8 大阪][boost8] 2012/02/11
+- \[[pdf][boost_context_pdf]\]\[[pptx][boost_context_pptx]\]\[[slideshare][boost_context_slide]\] 「Boost.Contextで継続」 [Boost.Contextオンリーイベント][boost_context_event]  2012/04/08
+- \[[pdf][out_iter_pdf]\]\[[pptx][out_iter_pptx]\]\[[slideshare][out_iter_slide]\]\[[text][out_iter_text]] 「Output Iteratorの置き換えとRangeの拡張」 [C++Now! 2012][cppnow2012] 2012/05/16
+- \[[pdf][out_iter_jp_pdf]\]\[[pptx][out_iter_jp_pptx]\]\[[slideshare][out_iter_jp_slide]\] 「Output Iteratorの置き換えとRangeの拡張(日本語)」 [Boost.勉強会 #9 つくば][boost9] 2012/05/26
+- \[[pdf][boost_tour_1_50_pdf]\]\[[pptx][boost_tour_1_50_pptx]\]\[[slideshare][boost_tour_1_50_slide]\] 「Boostライブラリ一周の旅 1.50.0 diff」 [Boost.勉強会 #10 東京][boost10] 2012/07/28
+- \[[pdf][boost_tour_1_50_merge_pdf]\]\[[pptx][boost_tour_1_50_merge_pptx]\]\[[slideshare][boost_tour_1_50_merge_slide]\] 「Boostライブラリ一周の旅 1.50.0 merge」 [Boost.勉強会 #10][boost10] 東京 2012/07/28
+- \[[pdf][cppnow2012_report_pdf]\]\[[pptx][cppnow2012_report_pptx]\]\[[slideshare][cppnow2012_report_slide]\] 「C++Now! 2012参加レポート」 [Boost.勉強会 #10 東京][boost10] 2012/07/28
+- \[[pdf][collective_pdf]\]\[[pptx][collective_pptx]\]\[[slideshare][collective_slide]\] 「集合知によって得られる大切なこと」 [第2回 闇鍋プログラミング勉強会][yaminabe2] 2012/09/15、[Aizu.LT::Tokyo #2][aizu_lt2] 2012/09/16
+- \[[pdf][template_pdf]\]\[[pptx][template_pptx]\]\[[slideshare][template_slide]\] 「テンプレートとは何か」 [Effective C++ 読書会 vol.11 大阪～第7章特別編～][effective3_reading11] 2012/11/23
+- \[[pdf][boost_tour_1_53_pdf]\]\[[pptx][boost_tour_1_53_pptx]\]\[[slideshare][boost_tour_1_53_slide]\] 「Boostライブラリ一周の旅 1.51.0～1.53.0 diff」 [Boost.勉強会 #11 東京][boost11] 2013/06/01
+- \[[pdf][boost_tour_1_53_merge_pdf]\]\[[pptx][boost_tour_1_53_merge_pptx]\]\[[slideshare][boost_tour_1_53_merge_slide]\] 「Boostライブラリ一周の旅 1.51.0～1.53.0 marge」 [Boost.勉強会 #11 東京][boost11] 2013/06/01
+- \[[pdf][cpp14_overview_pdf]\]\[[pptx][cpp14_overview_pptx]\]\[[slideshare][cpp14_overview_slide]\] 「C++14の概要(draft)」 [Boost.勉強会 #11 東京][boost11] 2013/06/01
+- \[[pdf][cpp_community_pdf]\]\[[pptx][cpp_community_pptx]\]\[[slideshare][cpp_community_slide]\] 「C++コミュニティを作る」 [Boost.勉強会 #12 大阪][boost12] 2013/06/22
+- \[[pdf][boost_random_pdf]\]\[[key][boost_random_key]\]\[[slideshare][boost_random_slide]\] 「Boost.Randomで乱数を学ぼう」 [Boost.勉強会 #13 仙台][boost13] 2013/10/19
+- \[[pdf][cpp14_binary_literal_pdf]\]\[[key][cpp14_binary_literal_key]\]\[[slideshare][cpp14_binary_literal_slide]\] 「C++14 2進数リテラル」 [C++14規格レビュー勉強会 #1][cpp14_review1] 2013/10/26
+- \[[pdf][cpp14_constexpr_pdf]\]\[[key][cpp14_constexpr_key]\]\[[slideshare][cpp14_constexpr_slide]\] 「C++14 constexprの制限緩和」 [C++14規格レビュー勉強会 #1][cpp14_review1] 2013/10/26
+- \[[pdf][cpp14_variable_template_pdf]\]\[[key][cpp14_variable_template_key]\]\[[slideshare][cpp14_variable_template_slide]\] 「C++14 変数テンプレート」 [C++14規格レビュー勉強会 #1][cpp14_review1] 2013/10/26
+- \[[pdf][concurrency_ts_future_pdf]\]\[[key][concurrency_ts_future_key]\]\[[slideshare][concurrency_ts_future_slide]\] 「C++14 Concurrency TS - Future APIの改善」 [C++14規格レビュー勉強会 #2][cpp14_review2] 2013/12/14
+- \[[pdf][concurrency_ts_executor_pdf]\]\[[key][concurrency_ts_executor_key]\]\[[slideshare][concurrency_ts_executor_slide]\] 「C++14 Concurrency TS - ExecutorとScheduler」 [C++14規格レビュー勉強会 #2][cpp14_review2] 2013/12/14
+- \[[pdf][boost_graph_shortest_pdf]\]\[[key][boost_graph_shortest_key]\]\[[slideshare][boost_graph_shortest_slide]\] 「Boost.Graphの設計と、最短経路アルゴリズムの使い方いろいろ」 [Boost.勉強会 #14 東京][boost14] 2014/03/01
+- \[[pdf][programmer_mind_pdf]\]\[[key][programmer_mind_key]\]\[[slideshare][programmer_mind_slide]\] 「プログラマとしての自分よ、こうあれ」 [kyon_mm * kaori_t_spica 結婚祝いLT大会 in Tokyo][kyon_kaori_wedding] 2014/03/29
+- \[[pdf][start_concurrent_pdf]\]\[[key][start_concurrent_key]\]\[[slideshare][start_concurrent_slide]\] 「ここから始める並行プログラミング」 [GREE Tech Talk #05][gree_tech_talk5] 2014/05/14
+- \[[pdf][multi_paradigm_pdf]\]\[[key][multi_paradigm_key]\]\[[slideshare][multi_paradigm_slide]\] 「マルチパラダイムデザイン - 再利用性の高いアプリケーションの設計」 [Boost.勉強会 #15 札幌][boost15] 2014/05/24
 
 [cpp0x_future_pdf]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_future/cpp0x_future.pdf
 [cpp0x_future_pptx]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_future/cpp0x_future.pptx
