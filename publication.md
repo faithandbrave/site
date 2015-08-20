@@ -171,6 +171,7 @@
 
 [boost1]: http://boostjp.github.io/study_meeting/study1.html
 [boost2]: http://boostjp.github.io/study_meeting/study2.html
+[boost3]: http://boostjp.github.io/study_meeting/study3.html
 [boost4]: http://boostjp.github.io/study_meeting/study4.html
 [boost6]: http://boostjp.github.io/study_meeting/study6.html
 [boost7]: http://boostjp.github.io/study_meeting/study7.html
@@ -204,40 +205,74 @@
 
 
 ##翻訳
-- [pdf][origin] 「N1377 C++言語にMove Semanticsのサポートを加える提案」
-- [pdf][origin] 「N1385 転送問題：引数」
-- [pdf][origin] 「N2027 右辺値参照の簡易入門」
-- [pdf][origin] 「N2098 Scoped Concept Maps」
-- [pdf][origin] 「N2235 一般化された定数式」
-- [pdf][origin] 「N2666 More STL algorithms (revision 2)」
-- [pdf][origin] 「N2680 Placement Insertのための提案(Revision 1)」
-- [pdf][origin] 「N2778 Working for Range-based for-loop (revision 4)」
-- [pdf][origin] 「N2927 New wording for C++0x Lambdas(rev.2)」
-- [pdf][origin] 「TR542 C++による科学計算のためのテクニック」
-- [slideshare][origin] 「Iterators Must Go」 BoostCon 2009 Andrei Alexandrescu
-- [slideshare][origin] 「Boost.SIMDによる実用的なSIMDアクセラレーション」 BoostCon 2011, Joel Falcou
-- [pdf][pptx][slideshare][origin] 「Functional Reactive Programming (FRP)」 HaL7, Heinrich Apfelmus
+- \[[pdf][n1377_pdf]\]\[[origin][n1377_org]\] 「N1377 C++言語にMove Semanticsのサポートを加える提案」
+- \[[pdf][n1385_pdf]\]\[[origin][n1385_org]\] 「N1385 転送問題：引数」
+- \[[pdf][n2027_pdf]\]\[[origin][n2027_org]\] 「N2027 右辺値参照の簡易入門」
+- \[[pdf][n2098_pdf]\]\[[origin][n2098_org]\] 「N2098 Scoped Concept Maps」
+- \[[pdf][n2235_pdf]\]\[[origin][n2235_org]\] 「N2235 一般化された定数式」
+- \[[pdf][n2666_pdf]\]\[[origin][n2666_org]\] 「N2666 More STL algorithms (revision 2)」
+- \[[pdf][n2680_pdf]\]\[[origin][n2680_org]\] 「N2680 Placement Insertのための提案(Revision 1)」
+- \[[pdf][n2778_pdf]\]\[[origin][n2778_org]\] 「N2778 Working for Range-based for-loop (revision 4)」
+- \[[pdf][n2927_pdf]\]\[[origin][n2927_org]\] 「N2927 New wording for C++0x Lambdas(rev.2)」
+- \[[pdf][tr542_pdf]\]\[[origin][tr542_org]\] 「TR542 C++による科学計算のためのテクニック」
+- \[[slideshare][iter_must_go_slide]\]\[[origin][iter_must_go_org]\] 「Iterators Must Go」 BoostCon 2009 Andrei Alexandrescu
+- \[[slideshare][boost_simd_slide]\]\[[origin][boost_simd_org]\] 「Boost.SIMDによる実用的なSIMDアクセラレーション」 BoostCon 2011, Joel Falcou
+- \[[pdf][frp_pdf]\]\[[pptx][frp_pptx]\]\[[slideshare][frp_slide]\]\[[origin][frp_org]\] 「Functional Reactive Programming (FRP)」 HaL7, Heinrich Apfelmus
+
+[n1377_pdf]: http://dl.dropbox.com/u/1682460/translation/C%2B%2B0x/N1377%20A%20Proposal%20to%20Add%20Move%20Semantics%20Support%20to%20the%20C%2B%2B%20Language.pdf
+[n1377_org]: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2002/n1377.htm
+[n1385_pdf]: http://dl.dropbox.com/u/1682460/translation/C%2B%2B0x/N1385%20The%20Forwarding%20Problem%20-%20Arguments.pdf
+[n1385_org]: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2002/n1385.htm
+[n2027_pdf]: http://dl.dropbox.com/u/1682460/translation/C%2B%2B0x/N2027%20A%20Brief%20Introduction%20to%20Rvalue%20References.pdf
+[n2027_org]: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2027.html
+[n2098_pdf]: http://dl.dropbox.com/u/1682460/translation/C%2B%2B0x/N2098%20Scoped%20Concept%20Map.pdf
+[n2098_org]: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2098.pdf
+[n2235_pdf]: http://dl.dropbox.com/u/1682460/translation/C%2B%2B0x/N2235%20Generalized%20Constant%20Expressions.pdf
+[n2235_org]: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2235.pdf
+[n2666_pdf]: http://dl.dropbox.com/u/1682460/translation/C%2B%2B0x/N2666%20More%20STL%20Algorithms.pdf
+[n2666_org]: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2008/n2666.pdf
+[n2680_pdf]: http://dl.dropbox.com/u/1682460/translation/C%2B%2B0x/N2680%20Placement%20Insert.pdf
+[n2680_org]: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2008/n2680.pdf
+[n2778_pdf]: http://dl.dropbox.com/u/1682460/translation/C%2B%2B0x/N2778%20Wording%20for%20Range-based%20for-loop%28revision%204%29.pdf
+[n2778_org]: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2008/n2778.htm
+[n2927_pdf]: http://dl.dropbox.com/u/1682460/translation/C%2B%2B0x/N2927_New_wording_for_C%2B%2B0x_Lambdas%28rev.2%29.pdf
+[n2927_org]: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2009/n2927.pdf
+[tr542_pdf]: http://dl.dropbox.com/u/1682460/translation/TR542%28jp%29.pdf
+[tr542_org]: http://www.cs.indiana.edu/cgi-bin/techreports/TRNNN.cgi?trnum=TR542
+[iter_must_go_slide]: http://www.slideshare.net/faithandbrave/iterators-mustgoja
+[iter_must_go_org]: http://www.boostcon.com/site-media/var/sphene/sphwiki/attachment/2009/05/08/iterators-must-go.pdf
+[boost_simd_slide]: http://www.slideshare.net/faithandbrave/boostsimd
+[boost_simd_org]: https://github.com/boostcon/2011_presentations/raw/master/thu/simd.pdf
+[frp_pdf]: https://dl.dropbox.com/u/1682460/presentation/frp_tutorial/frp_tutorial.pdf
+[frp_pptx]: https://dl.dropbox.com/u/1682460/presentation/frp_tutorial/frp_tutorial.pptx
+[frp_slide]: http://www.slideshare.net/faithandbrave/frp-tutorial
+[frp_org]: http://apfelmus.nfshost.com/blog/2012/07/15-frp-tutorial-slides.html
 
 
 ##開催したイベント
-- Boost.勉強会 #1 東京 2009/12/12
-- Boost.勉強会 #2 東京 2010/09/11
-- Boost.勉強会 #3 関西 2010/10/23
-- Boost.勉強会 #4 東京 2011/02/26
-- ゲーム開発者を問い詰める会 in Twitter 2011/03/20
-- Boost.勉強会 #7 東京 2011/12/03
-- Boost Advent Calendar 2011 2011/12/01 - 2011/12/25
-- Haskell Advent Calendar 2011 2011/12/01 - 2011/12/25
-- C++ Advent Calendar 2012 2012/12/01 - 2012/12/29
-- Boost.勉強会 #10 東京 2012/07/28
-- Boost.勉強会 #11 東京 2013/06/01
-- Boost.勉強会 #14 東京 2014/03/01
+- [Boost.勉強会 #1 東京][boost1] 2009/12/12
+- [Boost.勉強会 #2 東京][boost2] 2010/09/11
+- [Boost.勉強会 #3 関西][boost3] 2010/10/23
+- [Boost.勉強会 #4 東京][boost4] 2011/02/26
+- [ゲーム開発者を問い詰める会 in Twitter][game_dev] 2011/03/20
+- [Boost.勉強会 #7 東京][boost7] 2011/12/03
+- [Boost Advent Calendar 2011][boost_adv_2011] 2011/12/01 - 2011/12/25
+- [Haskell Advent Calendar 2011][haskell_adv_2011] 2011/12/01 - 2011/12/25
+- [C++ Advent Calendar 2012][cpp_adv_2012] 2012/12/01 - 2012/12/29
+- [Boost.勉強会 #10 東京][boost10] 2012/07/28
+- [Boost.勉強会 #11 東京][boost11] 2013/06/01
+- [Boost.勉強会 #14 東京][boost14] 2014/03/01
+
+[game_dev]: http://partake.in/events/ce57b266-069e-4feb-8a56-94bc4764b0e8
+[boost_adv_2011]: http://partake.in/events/597a0fc3-0e3a-47a3-8fc3-4f32ad846a3d
+[haskell_adv_2011]: http://partake.in/events/eaea52c2-61ef-46d5-a855-3a2dde459e3a
+[cpp_adv_2012]: http://partake.in/events/a02d7049-1473-4b69-b5ad-25ed416c5557
 
 
 ##書籍
 - 『C++テンプレートテクニック』 ソフトバンククリエイティブより出版 2009/04
 - 『プログラミングの魔導書 vol.1 Construct the World, C++』 株式会社ロングゲートより出版 2010/08
-- 「ジェネレーティブプログラマへの道」 『100人のプロが選んだソフトウェア開発の名著 君のために選んだ1冊』 翔泳社より出版 2012/02
+-  書籍『100人のプロが選んだソフトウェア開発の名著 君のために選んだ1冊』中の記事「ジェネレーティブプログラマへの道」 翔泳社より出版 2012/02
 - 『C++ポケットリファレンス』 技術評論社より出版 2013/05
 - 『プログラミングの魔導書 vol.3 Parallel, Concurrent, and Distributed Programming』 株式会社ロングゲートより出版 2013/12
 - 『C++テンプレートテクニック 第2版』 SBクリエイティブより出版 2014/04
