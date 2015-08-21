@@ -93,7 +93,7 @@
 
 
 ##執筆後の思い出
-私が[近藤さん][redboltz]さんとC++Now! 2012に参加したとき、書籍[『C++ Templates: The Complete Guide』][cpp_templates]の著者である[Daveed Vandevoordeさん](http://www.vandevoorde.com/Daveed/)がキーノートの発表者として来ていました。そのとき、私たちの『C++テンプレートテクニック』をDaveedさんにプレゼントしました。[『C++ Templates』][cpp_templates]はすばらしい書籍でした。その著者の方をお会いでき、さらに自分が書いた本を受け取っていただけて、非常にうれしかったです。
+私が[近藤さん][redboltz]さんとC++Now! 2012に参加したとき、書籍[『C++ Templates: The Complete Guide』][cpp_templates]の著者である[Daveed Vandevoordeさん](http://www.vandevoorde.com/Daveed/)がキーノートの発表者として来ていました。そのとき、私たちの『C++テンプレートテクニック』をDaveedさんにプレゼントしました。[『C++ Templates』][cpp_templates]はすばらしい書籍でした。その著者の方とお会いでき、さらに自分が書いた本を受け取っていただけて、非常にうれしかったです。
 私が持参した[『C++ Templates』][cpp_templates]に、サインもいただけました。
 
 <img src="../image/david_signiture.jpg" width="60%">
@@ -103,7 +103,7 @@ Daveにも、私が持参した[『C++ Template Metaprogramming』][cpp_tmp]に�
 
 <img src="../image/dave_signiture.jpg" width="60%">
 
-C++テンプレートに関する偉大な名著を書かれたこのお二人に会えて、サインをもらえて感謝感激です。
+C++テンプレートに関する偉大な名著を書かれたこのお二人に会えて、サインもいただけて、感謝感激です。
 
 
 ##関連ページ
