@@ -279,12 +279,12 @@
 
 
 ##記事寄稿
-- 「まもなく訪れるC++0x」 情報処理 【2011】Vol.52 No.7 通巻556号 2011/06
-- 「Boost C++ Libraries」 プログラミングの魔導少女 2011/06
-- 「C++の新たなる世界」 日経ソフトウエア 2011年12月号 2011/11
+- 「まもなく訪れるC++0x」 [情報処理 【2011】Vol.52 No.7 通巻556号](http://www.bookpark.ne.jp/cm/ipsj/mokuji.asp?category1=Magazine&vol=52&no=7) 2011/06
+- 「Boost C++ Libraries」 [プログラミングの魔導少女](https://sites.google.com/site/sapporocpp/linguamagi) 2011/06
+- 「C++の新たなる世界」 [日経ソフトウエア 2011年12月号](http://www.amazon.co.jp/gp/product/B005STT0ZY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=faithandbrave-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B005STT0ZY) 2011/11
 
 
 ##レビューへの参加
-- 『ストラウストラップのプログラミング入門 - C++によるプログラミングの原則と実践』 Bjarne Stroustrup著 邦訳監修επιστημη 翔泳社より出版 2011/08
+- [『ストラウストラップのプログラミング入門 - C++によるプログラミングの原則と実践』](http://www.amazon.co.jp/gp/product/4798119598?ie=UTF8&tag=faithandbrave-22&linkCode=xm2&camp=247&creativeASIN=4798119598) Bjarne Stroustrup著 邦訳監修επιστημη 翔泳社より出版 2011/08
 
 
