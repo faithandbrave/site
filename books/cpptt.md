@@ -27,8 +27,8 @@
 
 
 ##コンセプト
-- C++入門書に記載されているテンプレートの解説と、難しいと言われているテンプレート技法の書籍『Modern C++ Design』の中間になる本を出そう。
-- 執筆当時は、C++テンプレートの有名な書籍である『C++ Templates: The Complete Guide』や『C++ Template Metaprogramming』がまだ日本語訳されていなかったので、そのあたりもカバーしよう。
+- C++入門書に記載されているテンプレートの解説と、難しいと言われているテンプレート技法の書籍[『Modern C++ Design』][modern_cpp_design]の中間になる本を出そう。
+- 執筆当時は、C++テンプレートの有名な書籍である[『C++ Templates: The Complete Guide』][cpp_templates]や[『C++ Template Metaprogramming』][cpp_tmp]がまだ日本語訳されていなかったので、そのあたりもカバーしよう。
 
 
 ##本書執筆の経緯
@@ -44,7 +44,7 @@
 
 ##書かなかったこと
 当時知っていながら書かなかった技法がいくつかあります。
-まず、型リスト。『Modern C++ Design』でも大きく取り上げられ、実際に有用な技法でした。しかし、C++03でBoost.MPLのような優れた型リストを実装するのは困難がともなうのと、当時C++0xに可変引数テンプレートが導入予定だということがわかっていたこともあり、本書初版では紹介しませんでした。
+まず、型リスト。[『Modern C++ Design』][modern_cpp_design]でも大きく取り上げられ、実際に有用な技法でした。しかし、C++03でBoost.MPLのような優れた型リストを実装するのは困難がともなうのと、当時C++0xに可変引数テンプレートが導入予定だということがわかっていたこともあり、本書初版では紹介しませんでした。
 型リストは、第2版でC++11に対応する際、改めて紹介を書きました。
 
 (あと1〜2個あったと思うので、思い出したら書く)
@@ -93,13 +93,13 @@
 
 
 ##執筆後の思い出
-私が[近藤さん][redboltz]さんとC++Now! 2012に参加したとき、書籍『C++ Templates: The Complete Guide』の著者である[Daveed Vandevoordeさん](http://www.vandevoorde.com/Daveed/)がキーノートの発表者として来ていました。そのとき、私たちの『C++テンプレートテクニック』をDaveedさんにプレゼントしました。『C++ Templates』はすばらしい書籍でした。その著者の方をお会いでき、さらに自分が書いた本を受け取っていただけて、非常にうれしかったです。
-私が持参した『C++ Templates』に、サインもいただけました。
+私が[近藤さん][redboltz]さんとC++Now! 2012に参加したとき、書籍[『C++ Templates: The Complete Guide』][cpp_templates]の著者である[Daveed Vandevoordeさん](http://www.vandevoorde.com/Daveed/)がキーノートの発表者として来ていました。そのとき、私たちの『C++テンプレートテクニック』をDaveedさんにプレゼントしました。[『C++ Templates』][cpp_templates]はすばらしい書籍でした。その著者の方をお会いでき、さらに自分が書いた本を受け取っていただけて、非常にうれしかったです。
+私が持参した[『C++ Templates』][cpp_templates]に、サインもいただけました。
 
 <img src="../image/david_signiture.jpg" width="60%">
 
-また、そのときのC++Now!では、書籍『C++ Template Metaprogramming』の著者である[Dave Abrahamsさん](http://daveabrahams.com/)にもお会いできました。じつはそのときは、彼に用事があったからC++Now!に行ったのでした(『プログラミングの魔導書 Vol.2』で彼にインタビューをしたので、その関係です)。
-Daveにも、私が持参した『C++ Template Metaprogramming』に、サインをいただけました。
+また、そのときのC++Now!では、書籍[『C++ Template Metaprogramming』][cpp_tmp]の著者である[Dave Abrahamsさん](http://daveabrahams.com/)にもお会いできました。じつはそのときは、彼に用事があったからC++Now!に行ったのでした(『プログラミングの魔導書 Vol.2』で彼にインタビューをしたので、その関係です)。
+Daveにも、私が持参した[『C++ Template Metaprogramming』][cpp_tmp]に、サインをいただけました。
 
 <img src="../image/dave_signiture.jpg" width="60%">
 
@@ -109,4 +109,9 @@ C++テンプレートに関する偉大な名著を書かれたこのお二人�
 ##関連ページ
 - [『C++テンプレートテクニック』もうすぐ発売です。 - Faith and Brave - C++で遊ぼう](http://faithandbrave.hateblo.jp/entry/20090408/1239205628)
 - [C++Now2012体験記 - redboltzの日記](http://d.hatena.ne.jp/redboltz/20120519/1337385881)
+
+[modern_cpp_design]: https://www.amazon.co.jp/dp/4894714353?tag=faithandbrave-22&camp=1027&creative=7407&linkCode=as4&creativeASIN=4894714353&adid=1P3B388D777W6VBNQR7Y&
+[cpp_templates]: https://www.amazon.co.jp/dp/0201734842?tag=faithandbrave-22&camp=1027&creative=7407&linkCode=as4&creativeASIN=0201734842&adid=0YKDDDCSSPTSDY2MXQFN&
+[cpp_tmp]: https://www.amazon.co.jp/dp/B003XNTTBW?tag=faithandbrave-22&camp=1027&creative=7407&linkCode=as4&creativeASIN=B003XNTTBW&adid=0ET2VW05FGP32TVE8HYD&
+
 
