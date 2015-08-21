@@ -1,4 +1,6 @@
 #C++テンプレートテクニック 初版
+[本書の最新版はこちらです。](http://www.amazon.co.jp/dp/4797376686/ref=as_sl_pc_tf_lc?tag=faithandbrave-22&camp=243&creative=1615&linkCode=as1&creativeASIN=4797376686&adid=1DEH8ZMYCH8VJ1SAJRZB&&ref-refURL=http%3A%2F%2Ffaithandbrave.hateblo.jp%2F)
+
 <img src="../image/cpptt.jpg">
 
 - 書名 : 『C++テンプレートテクニック - 簡潔で再利用しやすいコードのためのC++活用術』
