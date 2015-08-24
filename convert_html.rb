@@ -56,7 +56,7 @@ def replace_extension(md_filename)
   return md_filename.gsub(/(.*?)\.md/, '\1.html')
 end
 
-target_file_list = ['index.md', 'profile.md', 'profile/english.md', 'publication.md', 'books/cpptt.md']
+target_file_list = ['index.md', 'profile.md', 'profile/english.md', 'publication.md', 'books.md', 'books/cpptt.md']
 target_file_list.each {|filename|
   dest_directory = '../website/'
   convert(filename, replace_extension(dest_directory + filename))
