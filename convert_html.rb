@@ -33,6 +33,10 @@ def set_project(dst_data)
   return dst_data.gsub('META_PROJECT', '<a href="https://github.com/faithandbrave/site">GitHub Project</a>')
 end
 
+def set_blog(dst_data)
+  return dst_data.gsub('META_BLOG', '<a href="http://faithandbrave.hateblo.jp/">Blog</a>')
+end
+
 def convert_after(src_filename, dst_filename)
   src_data = File.open(src_filename).read
   dst_data = File.open(dst_filename).read
@@ -40,6 +44,7 @@ def convert_after(src_filename, dst_filename)
   dst_data = set_root_path(src_filename, dst_data)
   dst_data = set_site_name(dst_data)
   dst_data = set_project(dst_data)
+  dst_data = set_blog(dst_data)
   dst_data = set_page_title(src_data, dst_data)
 
   File.open(dst_filename, 'w') {|f|
