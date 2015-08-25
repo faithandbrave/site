@@ -1,50 +1,47 @@
-#発表資料や出版物
+#Publication
 
-[English version](./publication/english.html)
-
-##発表履歴
-- \[[pdf][cpp0x_future_pdf]\]\[[pptx][cpp0x_future_pdf]\]\[[slideshare][cpp0x_future_slide]\] 「C++0x 言語の未来を語る」 [わんくま同盟 東京勉強会 #22][wankuma22] 2008/07/12
-- \「C++ Dayパネル・ディスカッション」 パネラーとして登壇 [わんくま同盟 横浜勉強会 #1][wankuma_yokohama1] 2008/08/30
-- \[[pdf][cpp0x_tmp_pdf]\]\[[pptx][cpp0x_tmp_pptx]\]\[[slideshare][cpp0x_tmp_slide]\] 「C++テンプレートメタプログラミング」 [型レベルプログラミングの会][type_level] 2009/04/18
-- \[[pdf][cpp0x_typelist_pdf]\]\[[pptx][cpp0x_typelist_pptx]\]\[[slideshare][cpp0x_typelist_slide]\] 「C++0x 可変引数テンプレートでの型リスト」 [型レベルプログラミングの会][type_level] 2009/04/18
-- \[[pdf][cpp0x_concept_pdf]\]\[[pptx][cpp0x_concept_pptx]\]\[[slideshare][cpp0x_concept_slide]\] 「C++0x コンセプト」 [わんくま同盟 東京勉強会 #33][wankuma33] 2009/05/12
-- \[[pdf][boost_tour_1_40_pdf]\]\[[pptx][boost_tour_1_40_pptx]\]\[[slideshare][boost_tour_1_40_slide]\] 「Boostライブラリ一周の旅」[Boost.勉強会 #1][boost1] 2009/12/12
-- \[[pdf][cpp0x_iso_pdf]\]\[[ppt][cpp0x_iso_ppt]\]\[[slideshare][cpp0x_iso_slide]\] 「C++0x、Ruby、ECMAScript5 言語の国際標準化について - C++0xの概要」 [Developers Summit 2010][devsumi2010] 2010/02/18
-- \[[pdf][wave_pdf]\]\[[pptx][wave_pptx]\]\[[slideshare][wave_slide]\] 「Google Waveの事例と問題点と折り合いのつけ方」 [Google Waveを便利に使ってる人になんか語って欲しい][google_wave] 2010/05/12
-- \[[pdf][boost_life_pdf]\]\[[pptx][boost_life_pptx]\]\[[slideshare][boost_life_slide]\] 「Boostのあるプログラミング生活」 [わんくま同盟 横浜勉強会 #3][wankuma_yokohama3] 2010/08/28
-- \[[pdf][boost_tour_1_44_pdf]\]\[[pptx][boost_tour_1_44_pptx]\]\[[slideshare][boost_tour_1_44_slide]\] 「Boostライブラリ一周の旅 1.44.0 diff」 [Boost.勉強会 #2][boost2] 2010/09/11
-- \[[pdf][boost_tour_1_44_all_pdf]\]\[[pptx][boost_tour_1_44_all_pptx]\]\[[slideshare][boost_tour_1_44_all_slide]\] 「Boostライブラリ一周の旅 1.44.0 all」 [Boost.勉強会 #2][boost2] 2010/09/11
-- \[[pdf][scala_evol_pdf]\]\[[pptx][scala_evol_pptx]\]\[[slideshare][scala_evol_slide]\] 「Scalaがもたらす言語の進化」 [Scala勉強会第9回 in 渋谷][scala_shibuya9] 2010/10/27
-- \[[pdf][boost_fusion_pdf]\]\[[pptx][boost_fusion_pptx]\]\[[slideshare][boost_fusion_slide]\] 「Boost Fusion Library」 [Boost.勉強会 #4][boost4] 2011/02/26
-- \[[pdf][bjarne_pdf]\]\[[pptx][bjarne_pptx]\]\[[slideshare][bjarne_slide]\] 「『ストラウストラップのプログラミング入門』で語られなかったいくつかのこと」 [わんくま同盟 東京勉強会 #62][wankuma62] 2011/08/27
-- \[[pdf][doc_and_error_pdf]\]\[[pptx][doc_and_error_pptx]\]\[[slideshare][doc_and_error_slide]\] 「ドキュメントとエラーハンドリング」 [エラーハンドリング勉強会][error_handling] 2011/09/04
-- \[[pdf][boost_geometry_pdf]\]\[[pptx][boost_geometry_pptx]\]\[[slideshare][boost_geometry_slide]\] 「Boost.Geometryに学ぶテンプレートライブラリの設計」 [Boost.勉強会 #6 札幌][boost6] 2011/11/05
-- \[[pdf][boost_overview_pdf]\]\[[pptx][boost_overview_pptx]\]\[[slideshare][boost_overview_slide]\] 「Boost C++ Librariesの概要」 [Boost.勉強会 #7 東京][boost7] 2011/12/03
-- \[[pdf][boost_tour_1_48_pdf]\]\[[pptx][boost_tour_1_48_pptx]\]\[[slideshare][boost_tour_1_48_slide]\] 「Boostライブラリ一周の旅 1.48.0 diff」 [Boost.勉強会 #7 東京][boost7] 2011/12/03
-- \[[pdf][boost_tour_1_48_all_pdf]\]\[[pptx][boost_tour_1_48_all_pptx]\]\[[slideshare][boost_tour_1_48_all_slide]\] 「Boostライブラリ一周の旅 1.48.0 all」 [Boost.勉強会 #7 東京][boost7] 2011/12/03
-- \[[pdf][scope_exit_pdf]\]\[[pptx][scope_exit_pptx]\]\[[slideshare][scope_exit_slide]\] 「メンバ変数のメンバ関数内でのリソース管理」 [Boost.勉強会 #8 大阪][boost8] 2012/02/11
-- \[[pdf][boost_context_pdf]\]\[[pptx][boost_context_pptx]\]\[[slideshare][boost_context_slide]\] 「Boost.Contextで継続」 [Boost.Contextオンリーイベント][boost_context_event]  2012/04/08
-- \[[pdf][out_iter_pdf]\]\[[pptx][out_iter_pptx]\]\[[slideshare][out_iter_slide]\]\[[text][out_iter_text]] 「Output Iteratorの置き換えとRangeの拡張」 [C++Now! 2012][cppnow2012] 2012/05/16
-- \[[pdf][out_iter_jp_pdf]\]\[[pptx][out_iter_jp_pptx]\]\[[slideshare][out_iter_jp_slide]\] 「Output Iteratorの置き換えとRangeの拡張(日本語)」 [Boost.勉強会 #9 つくば][boost9] 2012/05/26
-- \[[pdf][boost_tour_1_50_pdf]\]\[[pptx][boost_tour_1_50_pptx]\]\[[slideshare][boost_tour_1_50_slide]\] 「Boostライブラリ一周の旅 1.50.0 diff」 [Boost.勉強会 #10 東京][boost10] 2012/07/28
-- \[[pdf][boost_tour_1_50_merge_pdf]\]\[[pptx][boost_tour_1_50_merge_pptx]\]\[[slideshare][boost_tour_1_50_merge_slide]\] 「Boostライブラリ一周の旅 1.50.0 merge」 [Boost.勉強会 #10][boost10] 東京 2012/07/28
-- \[[pdf][cppnow2012_report_pdf]\]\[[pptx][cppnow2012_report_pptx]\]\[[slideshare][cppnow2012_report_slide]\] 「C++Now! 2012参加レポート」 [Boost.勉強会 #10 東京][boost10] 2012/07/28
-- \[[pdf][collective_pdf]\]\[[pptx][collective_pptx]\]\[[slideshare][collective_slide]\] 「集合知によって得られる大切なこと」 [第2回 闇鍋プログラミング勉強会][yaminabe2] 2012/09/15、[Aizu.LT::Tokyo #2][aizu_lt2] 2012/09/16
-- \[[pdf][template_pdf]\]\[[pptx][template_pptx]\]\[[slideshare][template_slide]\] 「テンプレートとは何か」 [Effective C++ 読書会 vol.11 大阪～第7章特別編～][effective3_reading11] 2012/11/23
-- \[[pdf][boost_tour_1_53_pdf]\]\[[pptx][boost_tour_1_53_pptx]\]\[[slideshare][boost_tour_1_53_slide]\] 「Boostライブラリ一周の旅 1.51.0～1.53.0 diff」 [Boost.勉強会 #11 東京][boost11] 2013/06/01
-- \[[pdf][boost_tour_1_53_merge_pdf]\]\[[pptx][boost_tour_1_53_merge_pptx]\]\[[slideshare][boost_tour_1_53_merge_slide]\] 「Boostライブラリ一周の旅 1.51.0～1.53.0 marge」 [Boost.勉強会 #11 東京][boost11] 2013/06/01
-- \[[pdf][cpp14_overview_pdf]\]\[[pptx][cpp14_overview_pptx]\]\[[slideshare][cpp14_overview_slide]\] 「C++14の概要(draft)」 [Boost.勉強会 #11 東京][boost11] 2013/06/01
-- \[[pdf][cpp_community_pdf]\]\[[pptx][cpp_community_pptx]\]\[[slideshare][cpp_community_slide]\] 「C++コミュニティを作る」 [Boost.勉強会 #12 大阪][boost12] 2013/06/22
-- \[[pdf][boost_random_pdf]\]\[[key][boost_random_key]\]\[[slideshare][boost_random_slide]\] 「Boost.Randomで乱数を学ぼう」 [Boost.勉強会 #13 仙台][boost13] 2013/10/19
-- \[[pdf][cpp14_binary_literal_pdf]\]\[[key][cpp14_binary_literal_key]\]\[[slideshare][cpp14_binary_literal_slide]\] 「C++14 2進数リテラル」 [C++14規格レビュー勉強会 #1][cpp14_review1] 2013/10/26
-- \[[pdf][cpp14_constexpr_pdf]\]\[[key][cpp14_constexpr_key]\]\[[slideshare][cpp14_constexpr_slide]\] 「C++14 constexprの制限緩和」 [C++14規格レビュー勉強会 #1][cpp14_review1] 2013/10/26
-- \[[pdf][cpp14_variable_template_pdf]\]\[[key][cpp14_variable_template_key]\]\[[slideshare][cpp14_variable_template_slide]\] 「C++14 変数テンプレート」 [C++14規格レビュー勉強会 #1][cpp14_review1] 2013/10/26
-- \[[pdf][concurrency_ts_future_pdf]\]\[[key][concurrency_ts_future_key]\]\[[slideshare][concurrency_ts_future_slide]\] 「C++14 Concurrency TS - Future APIの改善」 [C++14規格レビュー勉強会 #2][cpp14_review2] 2013/12/14
-- \[[pdf][concurrency_ts_executor_pdf]\]\[[key][concurrency_ts_executor_key]\]\[[slideshare][concurrency_ts_executor_slide]\] 「C++14 Concurrency TS - ExecutorとScheduler」 [C++14規格レビュー勉強会 #2][cpp14_review2] 2013/12/14
-- \[[pdf][boost_graph_shortest_pdf]\]\[[key][boost_graph_shortest_key]\]\[[slideshare][boost_graph_shortest_slide]\] 「Boost.Graphの設計と、最短経路アルゴリズムの使い方いろいろ」 [Boost.勉強会 #14 東京][boost14] 2014/03/01
-- \[[pdf][programmer_mind_pdf]\]\[[key][programmer_mind_key]\]\[[slideshare][programmer_mind_slide]\] 「プログラマとしての自分よ、こうあれ」 [kyon_mm * kaori_t_spica 結婚祝いLT大会 in Tokyo][kyon_kaori_wedding] 2014/03/29
-- \[[pdf][start_concurrent_pdf]\]\[[key][start_concurrent_key]\]\[[slideshare][start_concurrent_slide]\] 「ここから始める並行プログラミング」 [GREE Tech Talk #05][gree_tech_talk5] 2014/05/14
-- \[[pdf][multi_paradigm_pdf]\]\[[key][multi_paradigm_key]\]\[[slideshare][multi_paradigm_slide]\] 「マルチパラダイムデザイン - 再利用性の高いアプリケーションの設計」 [Boost.勉強会 #15 札幌][boost15] 2014/05/24
+##Public Presentations (in Japanese)
+- \[[pdf][cpp0x_future_pdf]\]\[[pptx][cpp0x_future_pdf]\]\[[slideshare][cpp0x_future_slide]\] "C++0x - Talk about the future of language" at [Wankuma Study Meeting in Tokyo #22][wankuma22] (July 12, 2008)
+- A panelist of C++ Day panel discussion at [Wankuma Study Meeting in Yokohama #1][wankuma_yokohama1] (August 30, 2008)
+- \[[pdf][cpp0x_tmp_pdf]\]\[[pptx][cpp0x_tmp_pptx]\]\[[slideshare][cpp0x_tmp_slide]\] "C++ Template Metaprogramming" at [Society of Type Level Programming][type_level] (April 18, 2009)
+- \[[pdf][cpp0x_typelist_pdf]\]\[[pptx][cpp0x_typelist_pptx]\]\[[slideshare][cpp0x_typelist_slide]\] "C++0x Type List using Variadic Templates" at [Society of Type Level Programming][type_level] (April 18, 2009)
+- \[[pdf][cpp0x_concept_pdf]\]\[[pptx][cpp0x_concept_pptx]\]\[[slideshare][cpp0x_concept_slide]\] "C++0x Concept" at [Wankuma Study Meeting in Tokyo #33][wankuma33] (May 12, 2009)
+- \[[pdf][boost_tour_1_40_pdf]\]\[[pptx][boost_tour_1_40_pptx]\]\[[slideshare][boost_tour_1_40_slide]\] "An Around-the-Boost Libraries Tour" at [Boost.StudyMeeting #1][boost1] (December 12, 2009)
+- \[[pdf][cpp0x_iso_pdf]\]\[[ppt][cpp0x_iso_ppt]\]\[[slideshare][cpp0x_iso_slide]\] "About International Standardization, C++0x, Ruby, ECMAScript5 - C++0x Overview" at [Developers Summit 2010][devsumi2010] (February 18, 2010)
+- \[[pdf][wave_pdf]\]\[[pptx][wave_pptx]\]\[[slideshare][wave_slide]\] "Google Wave - Experiences, Issues, and Solutions" at [Google Wave Talk][google_wave] (May 12, 2010)
+- \[[pdf][boost_life_pdf]\]\[[pptx][boost_life_pptx]\]\[[slideshare][boost_life_slide]\] "Programming Life with Boost Libraries" at [Wankuma Study Meeting in Yokohama #3][wankuma_yokohama3] (August 28, 2010)
+- \[[pdf][boost_tour_1_44_pdf]\]\[[pptx][boost_tour_1_44_pptx]\]\[[slideshare][boost_tour_1_44_slide]\] "An Around-the-Boost Libraries Tour (1.44.0 diff ver.)" at [Boost.StudyMeeting #2][boost2] (September 11, 2010)
+- \[[pdf][boost_tour_1_44_all_pdf]\]\[[pptx][boost_tour_1_44_all_pptx]\]\[[slideshare][boost_tour_1_44_all_slide]\] "An Around-the-Boost Libraries Tour (1.44.0 all ver.)" at [Boost.StudyMeeting #2][boost2] (September 11, 2010)
+- \[[pdf][scala_evol_pdf]\]\[[pptx][scala_evol_pptx]\]\[[slideshare][scala_evol_slide]\] "Scala will brings evolution of language" at [Scala Study Meeting #9 in Shibuya][scala_shibuya9] (October 27, 2010)
+- \[[pdf][boost_fusion_pdf]\]\[[pptx][boost_fusion_pptx]\]\[[slideshare][boost_fusion_slide]\] "Boost Fusion Library" at [Boost.StudyMeeting #4][boost4] (February 26, 2011)
+- \[[pdf][bjarne_pdf]\]\[[pptx][bjarne_pptx]\]\[[slideshare][bjarne_slide]\] "The Untold Things on Stroustrup: Programming" at [Wankuma Study Meeting in Tokyo #62][wankuma62] (August 27, 2011)
+- \[[pdf][doc_and_error_pdf]\]\[[pptx][doc_and_error_pptx]\]\[[slideshare][doc_and_error_slide]\] "Documentation and Error Handling" at [Error Handling Study Meeting][error_handling] (September 4, 2011)
+- \[[pdf][boost_geometry_pdf]\]\[[pptx][boost_geometry_pptx]\]\[[slideshare][boost_geometry_slide]\] "Learning Template Library Design from Boost.Geometry" at [Boost.StudyMeeting #6 Sapporo][boost6] (November 5, 2011)
+- \[[pdf][boost_overview_pdf]\]\[[pptx][boost_overview_pptx]\]\[[slideshare][boost_overview_slide]\] "Boost C++ Libraries Overview" at [Boost.StudyMeeting #7 Tokyo][boost7] (December 3, 2011)
+- \[[pdf][boost_tour_1_48_pdf]\]\[[pptx][boost_tour_1_48_pptx]\]\[[slideshare][boost_tour_1_48_slide]\] "An Around-the-Boost Libraries Tour (1.48.0 diff ver.)" at [Boost.StudyMeeting #7 Tokyo][boost7] (December 3, 2011)
+- \[[pdf][boost_tour_1_48_all_pdf]\]\[[pptx][boost_tour_1_48_all_pptx]\]\[[slideshare][boost_tour_1_48_all_slide]\] "An Around-the-Boost Libraries Tour (1.48.0 all ver.)" at [Boost.StudyMeeting #7 Tokyo][boost7] (December 3, 2011)
+- \[[pdf][scope_exit_pdf]\]\[[pptx][scope_exit_pptx]\]\[[slideshare][scope_exit_slide]\] "Resource Management of member variables in member function" at [Boost.StudyMeeting #8 Osaka][boost8] (February 11, 2012)
+- \[[pdf][boost_context_pdf]\]\[[pptx][boost_context_pptx]\]\[[slideshare][boost_context_slide]\] "Continuation with Boost.Context" at [Boost.Context Only Event][boost_context_event] (April, 5, 2012)
+- \[[pdf][out_iter_jp_pdf]\]\[[pptx][out_iter_jp_pptx]\]\[[slideshare][out_iter_jp_slide]\] "Replace Output Iterator and Extended Range" at [Boost.StudyMeeting #9 Tsukuba][boost9] (May, 26, 2012)
+- \[[pdf][boost_tour_1_50_pdf]\]\[[pptx][boost_tour_1_50_pptx]\]\[[slideshare][boost_tour_1_50_slide]\] "An Around-the-Boost Libraries Tour (1.50.0 diff ver.)" at [Boost.StudyMeeting #10 Tokyo][boost10] (July, 28, 2012)
+- \[[pdf][boost_tour_1_50_merge_pdf]\]\[[pptx][boost_tour_1_50_merge_pptx]\]\[[slideshare][boost_tour_1_50_merge_slide]\] "An Around-the-Boost Libraries Tour (1.50.0 all ver.)" at [Boost.StudyMeeting #10 Tokyo][boost10] (July, 28, 2012)
+- \[[pdf][cppnow2012_report_pdf]\]\[[pptx][cppnow2012_report_pptx]\]\[[slideshare][cppnow2012_report_slide]\] "C++Now! 2012 Report" at [Boost.StudyMeeting #10 Tokyo][boost10] (July, 28, 2012)
+- \[[pdf][collective_pdf]\]\[[pptx][collective_pptx]\]\[[slideshare][collective_slide]\] "Collective Intelligence" at [Yaminabe Programming Study Meeting #2][yaminabe2] 2012/09/15、[Aizu.LT::Tokyo #2][aizu_lt2] (September, 16, 2012)
+- \[[pdf][template_pdf]\]\[[pptx][template_pptx]\]\[[slideshare][template_slide]\] "What's template" at [Effective C++ Reading vol.11 Osaka -Chapter 7-][effective3_reading11] (November, 23, 2012)
+- \[[pdf][boost_tour_1_53_pdf]\]\[[pptx][boost_tour_1_53_pptx]\]\[[slideshare][boost_tour_1_53_slide]\] "An Around-the-Boost Libraries Tour (1.51.0-1.53.0 diff ver.)" at [Boost.StudyMeeting #11 Tokyo][boost11] (June, 1, 2013)
+- \[[pdf][boost_tour_1_53_merge_pdf]\]\[[pptx][boost_tour_1_53_merge_pptx]\]\[[slideshare][boost_tour_1_53_merge_slide]\] "An Around-the-Boost Libraries Tour (1.51.0-1.53.0 merge ver.)" at [Boost.StudyMeeting #11 Tokyo][boost11] (June, 1, 2013)
+- \[[pdf][cpp14_overview_pdf]\]\[[pptx][cpp14_overview_pptx]\]\[[slideshare][cpp14_overview_slide]\] "C++14 Overview (draft)" at [Boost.StudyMeeting #11 Tokyo][boost11] (June, 1, 2013)
+- \[[pdf][cpp_community_pdf]\]\[[pptx][cpp_community_pptx]\]\[[slideshare][cpp_community_slide]\] "Development C++ Community" at [Boost.StudyMeeting #12 Osaka][boost12] (June, 22, 2013)
+- \[[pdf][boost_random_pdf]\]\[[key][boost_random_key]\]\[[slideshare][boost_random_slide]\] "Learning random using Boost.Random" at [Boost.StudyMeeting #13 Sendai][boost13] (October, 19, 2013)
+- \[[pdf][cpp14_binary_literal_pdf]\]\[[key][cpp14_binary_literal_key]\]\[[slideshare][cpp14_binary_literal_slide]\] "C++14 Binary Literals" at [C++14 Specification Study #1][cpp14_review1] (October 26, 2013)
+- \[[pdf][cpp14_constexpr_pdf]\]\[[key][cpp14_constexpr_key]\]\[[slideshare][cpp14_constexpr_slide]\] "C++14 relaxing constraints on constexpr" at [C++14 Specification Study #1][cpp14_review1] (October 26, 2013)
+- \[[pdf][cpp14_variable_template_pdf]\]\[[key][cpp14_variable_template_key]\]\[[slideshare][cpp14_variable_template_slide]\] "C++14 Variable Templates" at [C++14 Specification Study #1][cpp14_review1] (October 26, 2013)
+- \[[pdf][concurrency_ts_future_pdf]\]\[[key][concurrency_ts_future_key]\]\[[slideshare][concurrency_ts_future_slide]\] "C++14 Concurrency TS - Improvements Future API" at [C++14 Specification Study #2][cpp14_review2] (December, 14, 2013)
+- \[[pdf][concurrency_ts_executor_pdf]\]\[[key][concurrency_ts_executor_key]\]\[[slideshare][concurrency_ts_executor_slide]\] "C++14 Concurrency TS - Executors and Schedulers" at [C++14 Specification Study #2][cpp14_review2] (December, 14, 2013)
+- \[[pdf][boost_graph_shortest_pdf]\]\[[key][boost_graph_shortest_key]\]\[[slideshare][boost_graph_shortest_slide]\] "Boost.Graph Design and shortest path algorithm" at [Boost.StudyMeeting #14 Tokyo][boost14] (Match, 1, 2014)
+- \[[pdf][programmer_mind_pdf]\]\[[key][programmer_mind_key]\]\[[slideshare][programmer_mind_slide]\] "Programmer mind" at [kyon_mm * kaori_t_spica wedding LT in Tokyo][kyon_kaori_wedding] (March, 29, 2014)
+- \[[pdf][start_concurrent_pdf]\]\[[key][start_concurrent_key]\]\[[slideshare][start_concurrent_slide]\] "Start Concurrent Programming" at [GREE Tech Talk #05][gree_tech_talk5] (May, 14, 2014)
+- \[[pdf][multi_paradigm_pdf]\]\[[key][multi_paradigm_key]\]\[[slideshare][multi_paradigm_slide]\] "Multi-paradigm Design" at [Boost.StudyMeeting #15 Sapporo][boost15] (May, 24, 2014)
 
 [cpp0x_future_pdf]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_future/cpp0x_future.pdf
 [cpp0x_future_pptx]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_future/cpp0x_future.pptx
@@ -206,20 +203,24 @@
 [gree_tech_talk5]: http://techtalk5.labs.gree.jp/
 
 
-##翻訳
-- \[[pdf][n1377_pdf]\]\[[origin][n1377_org]\] 「N1377 C++言語にMove Semanticsのサポートを加える提案」
-- \[[pdf][n1385_pdf]\]\[[origin][n1385_org]\] 「N1385 転送問題：引数」
-- \[[pdf][n2027_pdf]\]\[[origin][n2027_org]\] 「N2027 右辺値参照の簡易入門」
-- \[[pdf][n2098_pdf]\]\[[origin][n2098_org]\] 「N2098 Scoped Concept Maps」
-- \[[pdf][n2235_pdf]\]\[[origin][n2235_org]\] 「N2235 一般化された定数式」
-- \[[pdf][n2666_pdf]\]\[[origin][n2666_org]\] 「N2666 More STL algorithms (revision 2)」
-- \[[pdf][n2680_pdf]\]\[[origin][n2680_org]\] 「N2680 Placement Insertのための提案(Revision 1)」
-- \[[pdf][n2778_pdf]\]\[[origin][n2778_org]\] 「N2778 Working for Range-based for-loop (revision 4)」
-- \[[pdf][n2927_pdf]\]\[[origin][n2927_org]\] 「N2927 New wording for C++0x Lambdas(rev.2)」
-- \[[pdf][tr542_pdf]\]\[[origin][tr542_org]\] 「TR542 C++による科学計算のためのテクニック」
-- \[[slideshare][iter_must_go_slide]\]\[[origin][iter_must_go_org]\] 「Iterators Must Go」 BoostCon 2009 Andrei Alexandrescu
-- \[[slideshare][boost_simd_slide]\]\[[origin][boost_simd_org]\] 「Boost.SIMDによる実用的なSIMDアクセラレーション」 BoostCon 2011, Joel Falcou
-- \[[pdf][frp_pdf]\]\[[pptx][frp_pptx]\]\[[slideshare][frp_slide]\]\[[origin][frp_org]\] 「Functional Reactive Programming (FRP)」 HaL7, Heinrich Apfelmus
+##Public Presentations (in English)
+- \[[pdf][out_iter_pdf]\]\[[pptx][out_iter_pptx]\]\[[slideshare][out_iter_slide]\]\[[text][out_iter_text]] "Replace Output Iterator and Extended Range" at [C++Now! 2012][cppnow2012] (May, 26, 2012)
+
+
+##Translations (English to Japanese)
+- \[[pdf][n1377_pdf]\]\[[origin][n1377_org]\] N1377 A Proposal to Add Move Semantics Support to the C++ Language
+- \[[pdf][n1385_pdf]\]\[[origin][n1385_org]\] N1385 The Forwarding Problem: Arguments
+- \[[pdf][n2027_pdf]\]\[[origin][n2027_org]\] N2027 A Brief Introduction to Rvalue References
+- \[[pdf][n2098_pdf]\]\[[origin][n2098_org]\] N2098 Scoped Concept Maps
+- \[[pdf][n2235_pdf]\]\[[origin][n2235_org]\] N2235 Generalized Constant Expressions — Revision 5
+- \[[pdf][n2666_pdf]\]\[[origin][n2666_org]\] N2666 More STL algorithms (revision 2)
+- \[[pdf][n2680_pdf]\]\[[origin][n2680_org]\] N2680 Proposed Wording for Placement Insert (Revision 1)
+- \[[pdf][n2778_pdf]\]\[[origin][n2778_org]\] N2778 Working for Range-based for-loop (revision 4)
+- \[[pdf][n2927_pdf]\]\[[origin][n2927_org]\] N2927 New wording for C++0x Lambdas(rev.2)
+- \[[pdf][tr542_pdf]\]\[[origin][tr542_org]\] TR542:Techniques for Scientific C++, Todd Veldhuizen
+- \[[slideshare][iter_must_go_slide]\]\[[origin][iter_must_go_org]\] Iterators Must Go, BoostCon 2009 Andrei Alexandrescu
+- \[[slideshare][boost_simd_slide]\]\[[origin][boost_simd_org]\] Practical SIMD acceleration with Boost.SIMD, BoostCon 2011, Joel Falcou
+- \[[pdf][frp_pdf]\]\[[pptx][frp_pptx]\]\[[slideshare][frp_slide]\]\[[origin][frp_org]\] Functional Reactive Programming (FRP), HaL7, Heinrich Apfelmus
 
 [n1377_pdf]: http://dl.dropbox.com/u/1682460/translation/C%2B%2B0x/N1377%20A%20Proposal%20to%20Add%20Move%20Semantics%20Support%20to%20the%20C%2B%2B%20Language.pdf
 [n1377_org]: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2002/n1377.htm
@@ -251,19 +252,19 @@
 [frp_org]: http://apfelmus.nfshost.com/blog/2012/07/15-frp-tutorial-slides.html
 
 
-##開催したイベント
-- [Boost.勉強会 #1 東京][boost1] 2009/12/12
-- [Boost.勉強会 #2 東京][boost2] 2010/09/11
-- [Boost.勉強会 #3 関西][boost3] 2010/10/23
-- [Boost.勉強会 #4 東京][boost4] 2011/02/26
-- [ゲーム開発者を問い詰める会 in Twitter][game_dev] 2011/03/20
-- [Boost.勉強会 #7 東京][boost7] 2011/12/03
-- [Boost Advent Calendar 2011][boost_adv_2011] 2011/12/01 - 2011/12/25
-- [Haskell Advent Calendar 2011][haskell_adv_2011] 2011/12/01 - 2011/12/25
-- [C++ Advent Calendar 2012][cpp_adv_2012] 2012/12/01 - 2012/12/29
-- [Boost.勉強会 #10 東京][boost10] 2012/07/28
-- [Boost.勉強会 #11 東京][boost11] 2013/06/01
-- [Boost.勉強会 #14 東京][boost14] 2014/03/01
+##Organized Events
+- [Boost.StudyMeeting #1 Tokyo][boost1] December 12, 2009
+- [Boost.StudyMeeting #2 Tokyo][boost2] November 11, 2010
+- [Boost.StudyMeeting #3 Osaka][boost3] October 23, 2010
+- [Boost.StudyMeeting #4 Tokyo][boost4] February 26, 2011
+- [Game Developer Question Meeting in Twitter][game_dev] March 03, 2011
+- [Boost.StudyMeeting #7 Tokyo][boost7] December 03, 2011
+- [Boost Advent Calendar 2011][boost_adv_2011] December 01, 2011 - December 25, 2011
+- [Haskell Advent Calendar 2011][haskell_adv_2011] December 01, 2011 - December 25, 2011
+- [C++ Advent Calendar 2012][cpp_adv_2012] December 01, 2012 - December 29, 2012
+- [Boost.StudyMeeting #10 Tokyo][boost10] July 28, 2012
+- [Boost.StudyMeeting #11 Tokyo][boost11] June, 01, 2013
+- [Boost.StudyMeeting #14 Tokyo][boost14] Match, 1, 2014
 
 [game_dev]: http://partake.in/events/ce57b266-069e-4feb-8a56-94bc4764b0e8
 [boost_adv_2011]: http://partake.in/events/597a0fc3-0e3a-47a3-8fc3-4f32ad846a3d
@@ -271,22 +272,22 @@
 [cpp_adv_2012]: http://partake.in/events/a02d7049-1473-4b69-b5ad-25ed416c5557
 
 
-##書籍
-- [『C++テンプレートテクニック』](./books/cpptt.html) ソフトバンククリエイティブより出版 2009/04
-- 『プログラミングの魔導書 vol.1 Construct the World, C++』 株式会社ロングゲートより出版 2010/08
--  書籍『100人のプロが選んだソフトウェア開発の名著 君のために選んだ1冊』中の記事「ジェネレーティブプログラマへの道」 翔泳社より出版 2012/02
-- 『C++ポケットリファレンス』 技術評論社より出版 2013/05
-- 『プログラミングの魔導書 vol.3 Parallel, Concurrent, and Distributed Programming』 株式会社ロングゲートより出版 2013/12
-- 『C++テンプレートテクニック 第2版』 SBクリエイティブより出版 2014/04
+##Published Books
+- ["C++ Template Techniques"](./books/cpptt.html) published by SOFTBANK Creative (April 2009)
+- "Programmers' Grimoire vol.1 Construct the World, C++" published by LongGate (August 2010)
+- "Road to Generative Programmer" of "The Great Books of Software Development - 100 Professionals recommend for You" published by SHOEISHA (February 2012)
+- "C++ Pocket Reference" published by Gijutsu-Hyohron (May 2013)
+- "Programmers' Grimoire vol.3 Parallel, Concurrent, and Distributed Programming" published by LongGate (December 2013)
+- "C++ Template Techniques 2nd Edition" SB Creative (April 2014)
 
 
-##記事寄稿
-- 「まもなく訪れるC++0x」 [情報処理 【2011】Vol.52 No.7 通巻556号](http://www.bookpark.ne.jp/cm/ipsj/mokuji.asp?category1=Magazine&vol=52&no=7) 2011/06
-- 「Boost C++ Libraries」 [プログラミングの魔導少女](https://sites.google.com/site/sapporocpp/linguamagi) 2011/06
-- 「C++の新たなる世界」 [日経ソフトウエア 2011年12月号](http://www.amazon.co.jp/gp/product/B005STT0ZY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=faithandbrave-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B005STT0ZY) 2011/11
+##Articles and Papers
+- "Coming Soon C++0x" [ISPJ 2011 Vol.52 No.7](http://www.bookpark.ne.jp/cm/ipsj/mokuji.asp?category1=Magazine&vol=52&no=7) (June 2011)
+- "Boost C++ Libraries" [Puella Magi of Programming](https://sites.google.com/site/sapporocpp/linguamagi) (June 2011)
+- "C++ New World" [Nikkei Software December 2011](http://www.amazon.co.jp/gp/product/B005STT0ZY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=faithandbrave-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B005STT0ZY) (November 2011)
 
 
-##レビューへの参加
-- [『ストラウストラップのプログラミング入門 - C++によるプログラミングの原則と実践』](http://www.amazon.co.jp/gp/product/4798119598?ie=UTF8&tag=faithandbrave-22&linkCode=xm2&camp=247&creativeASIN=4798119598) Bjarne Stroustrup著 邦訳監修επιστημη 翔泳社より出版 2011/08
+##Reviewed Books
+- ["Stroustrup's Programming Primer - Principles and Practice Using C++"](http://www.amazon.co.jp/gp/product/4798119598?ie=UTF8&tag=faithandbrave-22&linkCode=xm2&camp=247&creativeASIN=4798119598) Bjarne Stroustrup, Editorial Supervisor: επιστημη published by Shoeisha August 2011
 
 
