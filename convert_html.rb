@@ -53,6 +53,9 @@ def convert_after(src_filename, dst_filename)
 end
 
 def convert(src_filename, dst_filename)
+  dirname = File.dirname(dst_filename)
+  FileUtils.mkdir_p(dirname) unless FileTest.exist?(dirname)
+
   system("pandoc -o #{dst_filename} #{src_filename} -f markdown+hard_line_breaks --template=template.html")
   convert_after(src_filename, dst_filename)
 end
@@ -61,8 +64,36 @@ def replace_extension(md_filename)
   return md_filename.gsub(/(.*?)\.md/, '\1.html')
 end
 
-target_file_list = ['index.md', 'profile.md', 'profile/english.md', 'publication.md', 'publication/english.md', 'books.md', 'books/cpptt.md']
-target_file_list.each {|filename|
+def enumerate_recursive_dir(path)
+  Dir::foreach(path) {|f|
+    next if f == '.' or  f == '..'
+    if path =~ /\/$/
+      f = path + f
+    else
+      f = path + '/' + f
+    end
+    if FileTest::directory?(f)
+      enumerate_recursive_dir(f) {|nested_file|
+        yield nested_file
+      }
+    else
+      yield f
+    end
+  }
+end
+
+enumerate_recursive_dir('.') {|md_path|
+  if File.extname(md_path) != '.md'
+    next
+  end
+
+  basename = File.basename(md_path, '.*')
+  if basename == basename.upcase
+    next
+  end
+
+  filename = if md_path.start_with?('./') then md_path[2, md_path.length - 2] else md_path end
+
   dest_directory = '../website/'
   convert(filename, replace_extension(dest_directory + filename))
 }
