@@ -42,6 +42,9 @@
 - \[[pdf][programmer_mind_pdf]\]\[[key][programmer_mind_key]\]\[[slideshare][programmer_mind_slide]\] "Programmer mind" at [kyon_mm * kaori_t_spica wedding LT in Tokyo][kyon_kaori_wedding] (March, 29, 2014)
 - \[[pdf][start_concurrent_pdf]\]\[[key][start_concurrent_key]\]\[[slideshare][start_concurrent_slide]\] "Start Concurrent Programming" at [GREE Tech Talk #05][gree_tech_talk5] (May, 14, 2014)
 - \[[pdf][multi_paradigm_pdf]\]\[[key][multi_paradigm_key]\]\[[slideshare][multi_paradigm_slide]\] "Multi-paradigm Design" at [Boost.StudyMeeting #15 Sapporo][boost15] (May, 24, 2014)
+- \[[pdf][boost_tour_1_58_pdf]\]\[[key][boost_tour_1_58_key]\]\[[slide][boost_tour_1_58_slide]\] "An Around-the-Boost Libraries Tour (1.54.0-1.58.0 diff ver.)" [Boost.StudyMeeting #17 Tokyo][boost17] (May, 30, 2015)
+- \[[pdf][boost_tour_1_58_merge_pdf]\]\[[key][boost_tour_1_58_merge_key]\]\[[slide][boost_tour_1_58_merge_slide]\] "An Around-the-Boost Libraries Tour (1.54.0-1.58.0 merge ver.)" [Boost.StudyMeeting #17 Tokyo][boost17] (May, 30, 2015)
+- \[[pdf][boost_container_pdf]\]\[[key][boost_container_key]\]\[[slide][boost_container_slide]\] "Boost.Container features" [Boost.StudyMeeting #17 Tokyo][boost17] (May, 30, 2015)
 
 [cpp0x_future_pdf]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_future/cpp0x_future.pdf
 [cpp0x_future_pptx]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_future/cpp0x_future.pptx
@@ -167,6 +170,15 @@
 [multi_paradigm_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_15/multi_paradigm_design.pdf
 [multi_paradigm_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_15/multi_paradigm_design.key
 [multi_paradigm_slide]: http://www.slideshare.net/faithandbrave/multi-paradigm-design
+[boost_tour_1_58_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_tour_1_58_0.pdf
+[boost_tour_1_58_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_tour_1_58_0.key
+[boost_tour_1_58_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1580
+[boost_tour_1_58_merge_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_tour_1_58_0_merge.pdf
+[boost_tour_1_58_merge_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_tour_1_58_0_merge.key
+[boost_tour_1_58_merge_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1580-merge
+[boost_container_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_container_feature.pdf
+[boost_container_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_container_feature.key
+[boost_container_slide]: http://www.slideshare.net/faithandbrave/boost-container-feature
 
 [boost1]: http://boostjp.github.io/study_meeting/study1.html
 [boost2]: http://boostjp.github.io/study_meeting/study2.html
@@ -182,6 +194,7 @@
 [boost13]: http://boostjp.github.io/study_meeting/study13.html
 [boost14]: http://boostjp.github.io/study_meeting/study14.html
 [boost15]: http://boostjp.github.io/study_meeting/study15.html
+[boost17]: http://boostjp.github.io/study_meeting/study17.html
 [wankuma22]: http://www.wankuma.com/seminar/20080712tokyo22/Default.aspx
 [wankuma33]: http://www.wankuma.com/seminar/20090516tokyo33/Default.aspx
 [wankuma62]: http://www.wankuma.com/seminar/20110827tokyo62/
