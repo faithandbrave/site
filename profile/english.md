@@ -1,5 +1,7 @@
 #Akira Takahashi
 
+[Japanese version (日本語バージョン)](./profile.html)
+
 ![](../image/akira_face.png)
 
 Akira Takahashi
