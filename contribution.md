@@ -124,3 +124,8 @@ C++をJavaScriptにコンパイルする、LLVMベースのコンパイラ。
 1. [#3005 Fix deadlink to release note](https://github.com/kripken/emscripten/pull/3005)
 
 
+##Expected
+C++の、正常値とエラー値のどちらかを保持できる型。
+
+1. [#86 remove extra semicolon](https://github.com/ptal/expected/pull/86)
+
