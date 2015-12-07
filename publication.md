@@ -48,6 +48,9 @@
 - \[[pdf][boost_tour_1_58_pdf]\]\[[key][boost_tour_1_58_key]\]\[[slide][boost_tour_1_58_slide]\] 「Boostライブラリ一周の旅 1.54.0-1.58.0 diff」 [Boost.勉強会 #17 東京][boost17] 2015/05/30
 - \[[pdf][boost_tour_1_58_merge_pdf]\]\[[key][boost_tour_1_58_merge_key]\]\[[slide][boost_tour_1_58_merge_slide]\] 「Boostライブラリ一周の旅 1.54.0-1.58.0 merge」 [Boost.勉強会 #17 東京][boost17] 2015/05/30
 - \[[pdf][boost_container_pdf]\]\[[key][boost_container_key]\]\[[slide][boost_container_slide]\] 「Boost.Container特有の機能」 [Boost.勉強会 #17 東京][boost17] 2015/05/30
+- \[[pdf][boost_tour_1_60_pdf]\]\[[key][boost_tour_1_60_key]\]\[[slide][boost_tour_1_60_slide]\] 「Boostライブラリ一周の旅 1.59.0-1.60.0 diff」 [Boost.勉強会 #19 東京][boost19] 2015/12/05
+- \[[pdf][boost_tour_1_60_merge_pdf]\]\[[key][boost_tour_1_60_merge_key]\]\[[slide][boost_tour_1_60_merge_slide]\] 「Boostライブラリ一周の旅 1.59.0-1.60.0 merge」 [Boost.勉強会 #19 東京][boost19] 2015/12/05
+- \[[pdf][expected_pdf]\]\[[key][expected_key]\]\[[slide][expected_slide]\] 「expectedによるエラーハンドリング」 [Boost.勉強会 #19 東京][boost19] 2015/12/05
 
 [cpp0x_future_pdf]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_future/cpp0x_future.pdf
 [cpp0x_future_pptx]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_future/cpp0x_future.pptx
@@ -182,6 +185,15 @@
 [boost_container_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_container_feature.pdf
 [boost_container_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_container_feature.key
 [boost_container_slide]: http://www.slideshare.net/faithandbrave/boost-container-feature
+[boost_tour_1_60_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_19/boost_tour_1_60_0.pdf
+[boost_tour_1_60_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_19/boost_tour_1_60_0.key
+[boost_tour_1_60_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1600
+[boost_tour_1_60_merge_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_19/boost_tour_1_60_0_merge.pdf
+[boost_tour_1_60_merge_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_19/boost_tour_1_60_0_merge.key
+[boost_tour_1_60_merge_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1600-merge
+[expected_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_19/expected.pdf
+[expected_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_19/expected.key
+[expected_slide]: http://www.slideshare.net/faithandbrave/error-handling-using-expected
 
 [boost1]: http://boostjp.github.io/study_meeting/study1.html
 [boost2]: http://boostjp.github.io/study_meeting/study2.html
@@ -198,6 +210,7 @@
 [boost14]: http://boostjp.github.io/study_meeting/study14.html
 [boost15]: http://boostjp.github.io/study_meeting/study15.html
 [boost17]: http://boostjp.github.io/study_meeting/study17.html
+[boost19]: http://boostjp.github.io/study_meeting/study19.html
 [wankuma22]: http://www.wankuma.com/seminar/20080712tokyo22/Default.aspx
 [wankuma33]: http://www.wankuma.com/seminar/20090516tokyo33/Default.aspx
 [wankuma62]: http://www.wankuma.com/seminar/20110827tokyo62/
