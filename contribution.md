@@ -129,4 +129,5 @@ C++の、正常値とエラー値のどちらかを保持できる型。
 
 1. [#86 remove extra semicolon](https://github.com/ptal/expected/pull/86)
 1. [#90 fix unused parameter warning](https://github.com/ptal/expected/pull/90)
+1. [#91 fix unused parameter warning](https://github.com/ptal/expected/pull/91)
 
