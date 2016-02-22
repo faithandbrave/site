@@ -71,6 +71,8 @@ C++の準標準ライブラリBoost。
 1. [GitHub graph #25 fix minor mistake](https://github.com/boostorg/graph/pull/25)
 1. [GitHub graph #26 `breadth_first_search` doc : fix figure number](https://github.com/boostorg/graph/pull/26)
 1. [GitHub website #74 [1.58.0] Move release note : remove duplicate identifier](https://github.com/boostorg/website/pull/74)
+1. [GitHub type_erasure #8 fix unused parameter warning](https://github.com/boostorg/type_erasure/pull/8)
+
 
 ###機能のコミット(Commit features)
 - [[geometry] fusion adapt is missing](http://thread.gmane.org/gmane.comp.lib.boost.devel/212456/)
