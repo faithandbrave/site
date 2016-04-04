@@ -72,6 +72,9 @@ C++の準標準ライブラリBoost。
 1. [GitHub graph #26 `breadth_first_search` doc : fix figure number](https://github.com/boostorg/graph/pull/26)
 1. [GitHub website #74 [1.58.0] Move release note : remove duplicate identifier](https://github.com/boostorg/website/pull/74)
 1. [GitHub type_erasure #8 fix unused parameter warning](https://github.com/boostorg/type_erasure/pull/8)
+1. [GitHub website #147 [1.61.0 release note] fix alphabetical order](https://github.com/boostorg/website/pull/147)
+1. [GitHub test #98 fix ticket number](https://github.com/boostorg/test/pull/98)
+1. [GitHub website #148 [1.61.0 release note][test] fix ticket number](https://github.com/boostorg/website/pull/148)
 
 
 ###機能のコミット(Commit features)
