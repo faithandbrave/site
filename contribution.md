@@ -76,9 +76,9 @@ C++の準標準ライブラリBoost。
 
 ###機能のコミット(Commit features)
 - [[geometry] fusion adapt is missing](http://thread.gmane.org/gmane.comp.lib.boost.devel/212456/)
-	- Boost.Geometryに、Boost.Fusionにアダプトされた全ての型をアダプトする機構を送付
+    - Boost.Geometryに、Boost.Fusionにアダプトされた全ての型をアダプトする機構を送付
 - [[1.47.0][fusion] `fusion::copy` is undocumented?](http://thread.gmane.org/gmane.comp.lib.boost.devel/221179)
-	- `boost::fusion::copy()`アルゴリズムのドキュメントを送付
+    - `boost::fusion::copy()`アルゴリズムのドキュメントを送付
 
 
 ###現在作業中の機能(Now working)
