@@ -1,6 +1,6 @@
-#Publication
+# Publication
 
-##Public Presentations (in Japanese)
+## Public Presentations (in Japanese)
 - \[[pdf][cpp0x_future_pdf]\]\[[pptx][cpp0x_future_pdf]\]\[[slideshare][cpp0x_future_slide]\] "C++0x - Talk about the future of language" at [Wankuma Study Meeting in Tokyo #22][wankuma22] (July 12, 2008)
 - A panelist of C++ Day panel discussion at [Wankuma Study Meeting in Yokohama #1][wankuma_yokohama1] (August 30, 2008)
 - \[[pdf][cpp0x_tmp_pdf]\]\[[pptx][cpp0x_tmp_pptx]\]\[[slideshare][cpp0x_tmp_slide]\] "C++ Template Metaprogramming" at [Society of Type Level Programming][type_level] (April 18, 2009)
@@ -229,11 +229,11 @@
 [gree_tech_talk5]: http://techtalk5.labs.gree.jp/
 
 
-##Public Presentations (in English)
+## Public Presentations (in English)
 - \[[pdf][out_iter_pdf]\]\[[pptx][out_iter_pptx]\]\[[slideshare][out_iter_slide]\]\[[text][out_iter_text]] "Replace Output Iterator and Extended Range" at [C++Now! 2012][cppnow2012] (May, 26, 2012)
 
 
-##Translations (English to Japanese)
+## Translations (English to Japanese)
 - \[[pdf][n1377_pdf]\]\[[origin][n1377_org]\] N1377 A Proposal to Add Move Semantics Support to the C++ Language
 - \[[pdf][n1385_pdf]\]\[[origin][n1385_org]\] N1385 The Forwarding Problem: Arguments
 - \[[pdf][n2027_pdf]\]\[[origin][n2027_org]\] N2027 A Brief Introduction to Rvalue References
@@ -278,7 +278,7 @@
 [frp_org]: http://apfelmus.nfshost.com/blog/2012/07/15-frp-tutorial-slides.html
 
 
-##Organized Events
+## Organized Events
 - [Boost.StudyMeeting #1 Tokyo][boost1] December 12, 2009
 - [Boost.StudyMeeting #2 Tokyo][boost2] November 11, 2010
 - [Boost.StudyMeeting #3 Osaka][boost3] October 23, 2010
@@ -298,7 +298,7 @@
 [cpp_adv_2012]: http://partake.in/events/a02d7049-1473-4b69-b5ad-25ed416c5557
 
 
-##Published Books
+## Published Books
 - ["C++ Template Techniques"](./books/cpptt.html) published by SOFTBANK Creative (April 2009)
 - "Programmers' Grimoire vol.1 Construct the World, C++" published by LongGate (August 2010)
 - "Road to Generative Programmer" of "The Great Books of Software Development - 100 Professionals recommend for You" published by SHOEISHA (February 2012)
@@ -307,13 +307,13 @@
 - "C++ Template Techniques 2nd Edition" SB Creative (April 2014)
 
 
-##Articles and Papers
+## Articles and Papers
 - "Coming Soon C++0x" [ISPJ 2011 Vol.52 No.7](http://www.bookpark.ne.jp/cm/ipsj/mokuji.asp?category1=Magazine&vol=52&no=7) (June 2011)
 - "Boost C++ Libraries" [Puella Magi of Programming](https://sites.google.com/site/sapporocpp/linguamagi) (June 2011)
 - "C++ New World" [Nikkei Software December 2011](http://www.amazon.co.jp/gp/product/B005STT0ZY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=faithandbrave-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B005STT0ZY) (November 2011)
 
 
-##Reviewed Books
+## Reviewed Books
 - ["Stroustrup's Programming Primer - Principles and Practice Using C++"](http://www.amazon.co.jp/gp/product/4798119598?ie=UTF8&tag=faithandbrave-22&linkCode=xm2&camp=247&creativeASIN=4798119598) Bjarne Stroustrup, Editorial Supervisor: επιστημη published by Shoeisha August 2011
 
 

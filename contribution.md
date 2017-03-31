@@ -1,8 +1,8 @@
-#コントリビュート履歴(Contribution History)
+# コントリビュート履歴 (Contribution History)
 
 私がオープンソースソフトウェアにコントリビュートしてきた履歴を、以下にまとめます。
 
-##Boost C++ Libraries
+## Boost C++ Libraries
 <http://www.boost.org/>
 C++の準標準ライブラリBoost。
 
@@ -83,22 +83,22 @@ C++の準標準ライブラリBoost。
 1. [GitHub interprocess #36 fix typo history : s/booststamp/bootstamp/](https://github.com/boostorg/interprocess/pull/36)
 
 
-###機能のコミット(Commit features)
+### 機能のコミット(Commit features)
 - [[geometry] fusion adapt is missing](http://thread.gmane.org/gmane.comp.lib.boost.devel/212456/)
     - Boost.Geometryに、Boost.Fusionにアダプトされた全ての型をアダプトする機構を送付
 - [[1.47.0][fusion] `fusion::copy` is undocumented?](http://thread.gmane.org/gmane.comp.lib.boost.devel/221179)
     - `boost::fusion::copy()`アルゴリズムのドキュメントを送付
 
 
-###現在作業中の機能(Now working)
+### 現在作業中の機能(Now working)
 - PStade.Ovenの機能をBoost.Rangeに移植([OvenToBoost](https://github.com/faithandbrave/OvenToBoost))
 
 
-##C++ standards draft
+## C++ standards draft
 <https://github.com/cplusplus/draft>
 C++標準言語仕様のドラフト。
 
-###pull request
+### pull request
 1. [#27 "free functions" to "non member functions"](https://github.com/cplusplus/draft/pull/27)
 1. [#30 fixed typo : `mersenne_twister_engine`'s template parameter](https://github.com/cplusplus/draft/pull/30)
 1. [#164 `weibull_distribution` : add missing semicolon](https://github.com/cplusplus/draft/pull/164)
@@ -110,7 +110,7 @@ C++標準言語仕様のドラフト。
 1. [#345 fix missing `<T>` to `valarray::operator=(initializer_list<T>)`](https://github.com/cplusplus/draft/pull/345)
 
 
-##GCC - GNU C++ Compiler
+## GCC - GNU C++ Compiler
 GCCと、libstdc++(GCC付属のC++標準ライブラリ + α)へのバグ報告
 
 1. [Bug 53080 - `tuple` interface to `std::array` doesn't check bounds](http://gcc.gnu.org/bugzilla/show_bug.cgi?id=53080)
@@ -123,19 +123,19 @@ GCCと、libstdc++(GCC付属のC++標準ライブラリ + α)へのバグ報告
 1. [Bug 65790 - compilation error : receive `std::index_sequnece`](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=65790)
 
 
-##vmg/sundown
+## vmg/sundown
 GitHubで使われていたMarkDownパーサー
 
 1. [#145 Table parsing error](https://github.com/vmg/sundown/issues/145)
 
 
-##kripken/emscripten
+## kripken/emscripten
 C++をJavaScriptにコンパイルする、LLVMベースのコンパイラ。
 
 1. [#3005 Fix deadlink to release note](https://github.com/kripken/emscripten/pull/3005)
 
 
-##ptal/Expected
+## ptal/Expected
 C++の、正常値とエラー値のどちらかを保持できる型。
 
 1. [#86 remove extra semicolon](https://github.com/ptal/expected/pull/86)
@@ -143,19 +143,19 @@ C++の、正常値とエラー値のどちらかを保持できる型。
 1. [#91 fix unused parameter warning](https://github.com/ptal/expected/pull/91)
 
 
-##apolukhin/stacktrace
+## apolukhin/stacktrace
 C++で、マルチプラットフォームでスタックトレースを取得するライブラリ。
 
 1. [#1 Add header-only option](https://github.com/apolukhin/stacktrace/pull/1)
 
 
-##gumi/spreadsheetconverter
+## gumi/spreadsheetconverter
 Pythonでxls/xlsxをJSONに変換するコンバーター
 
 1. [#1 Exampleのuser/user.yamlがsample/yamlディレクトリにない](https://github.com/gumi/spreadsheetconverter/issues/1)
 
 
-##bitwalker/distillery
+## bitwalker/distillery
 Elixirのリリースマネージャー
 
 1. [#126 fix changed output color](https://github.com/bitwalker/distillery/pull/126)

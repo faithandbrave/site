@@ -1,4 +1,4 @@
-#Akira Takahashi
+# Akira Takahashi
 
 [Japanese version (日本語バージョン)](./profile.html)
 
@@ -8,7 +8,7 @@ Akira Takahashi
 Born March 1, 1985 Miyagi-ken. Japan
 
 
-##Affiliations
+## Affiliations
 - [LongGate CO.,LTD.](http://longgate.co.jp/)
 - [boostjp community](http://boostjp.github.io/) core member
 - [cpprefjp community](http://cpprefjp.github.io/) core member
@@ -17,50 +17,50 @@ Born March 1, 1985 Miyagi-ken. Japan
 - [Boost.StudyMeeting](http://boostjp.github.io/study_meeting.html) organizer
 
 
-##Blogs
+## Blogs
 - [Faith and Brave - C++で遊ぼう](http://faithandbrave.hateblo.jp/)
 - [信念と勇気、その先へ](http://faithandbrave.blogspot.com/)
 
 
-##GitHub Repository
+## GitHub Repository
 - <https://github.com/faithandbrave>
 
 
-##Contact
+## Contact
 - Personal mail address : faithandbrave@gmail.com
 - My Company mail address : faithandbrave@longgate.co.jp
 - Twitter : [@cpp_akira](https://twitter.com/cpp_akira)
 
 
-##Skill in Programming Language
-C++, Haskell, Scala, C#, Objective-C++, Ruby, PHP.
+## Skill in Programming Language
+C++, Elixir, Ruby, Haskell, Scala, C#, Objective-C++, PHP.
 
 
-##Fields of Programming
+## Fields of Programming
 Metaprogramming, Object-Oriented Programming, Functional Programming, Generic Programming, Multi-Paradigm Design, EDSL, Domain Driven Development, Game Programming, Network Programming, Parallel Programming, Syntax Analysis, Image Processing, Testable Design, Syntactic Analysis, Asynchronous Processing, Coroutine.
 
 
-##Fields of Management
+## Fields of Management
 Agile、Unified Process。
 
 
-##Interested in Programming Skills (2013/10/16)
+## Interested in Programming Skills (2013/10/16)
 Parallel Program Abstraction, GPGPU, Functional Reactive Programming, Distribution Processing, Graph Theory, Image Recognition, Statistics。
 
 
-##Study Meeting Activities
+## Study Meeting Activities
 - [ATND](http://atnd.org/users/3333)
 - [PARTAKE](http://partake.in/users/05d895a6-5ca5-4777-b38f-c8a5a8c699d9)
 - [connpass](http://connpass.com/user/faithandbrave/)
 
 
-##Use Web Servies
+## Use Web Servies
 - [Facebook](http://www.facebook.com/faithandbrave)
 - [Google+](https://plus.google.com/114861732104629916415/about)
 - [Booklog](http://booklog.jp/users/faithandbrave)
 
 
-##Pictures
+## Pictures
 
 <img src="../image/akira_wankuma_photo1.jpg">
 

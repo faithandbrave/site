@@ -11,7 +11,7 @@ def set_page_title(src_data, dst_data)
                then get_site_name
                else "#{title} - #{get_site_name}"
                end
-  return dst_data.gsub('META_TITLE', page_title)
+  return dst_data.gsub('META_TITLE', page_title.strip)
 end
 
 def set_root_path(src_filename, dst_data)

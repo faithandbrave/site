@@ -1,8 +1,8 @@
-#発表資料や出版物
+# 発表資料や出版物
 
 [English version](./publication/english.html)
 
-##発表履歴
+## 発表履歴
 - \[[pdf][cpp0x_future_pdf]\]\[[pptx][cpp0x_future_pdf]\]\[[slideshare][cpp0x_future_slide]\] 「C++0x 言語の未来を語る」 [わんくま同盟 東京勉強会 #22][wankuma22] 2008/07/12
 - \「C++ Dayパネル・ディスカッション」 パネラーとして登壇 [わんくま同盟 横浜勉強会 #1][wankuma_yokohama1] 2008/08/30
 - \[[pdf][cpp0x_tmp_pdf]\]\[[pptx][cpp0x_tmp_pptx]\]\[[slideshare][cpp0x_tmp_slide]\] 「C++テンプレートメタプログラミング」 [型レベルプログラミングの会][type_level] 2009/04/18
@@ -232,7 +232,7 @@
 [gree_tech_talk5]: http://techtalk5.labs.gree.jp/
 
 
-##翻訳
+## 翻訳
 - \[[pdf][n1377_pdf]\]\[[origin][n1377_org]\] 「N1377 C++言語にMove Semanticsのサポートを加える提案」
 - \[[pdf][n1385_pdf]\]\[[origin][n1385_org]\] 「N1385 転送問題：引数」
 - \[[pdf][n2027_pdf]\]\[[origin][n2027_org]\] 「N2027 右辺値参照の簡易入門」
@@ -277,7 +277,7 @@
 [frp_org]: http://apfelmus.nfshost.com/blog/2012/07/15-frp-tutorial-slides.html
 
 
-##開催したイベント
+## 開催したイベント
 - [Boost.勉強会 #1 東京][boost1] 2009/12/12
 - [Boost.勉強会 #2 東京][boost2] 2010/09/11
 - [Boost.勉強会 #3 関西][boost3] 2010/10/23
@@ -297,7 +297,7 @@
 [cpp_adv_2012]: http://partake.in/events/a02d7049-1473-4b69-b5ad-25ed416c5557
 
 
-##書籍
+## 書籍
 - [『C++テンプレートテクニック』](./books/cpptt.html) ソフトバンククリエイティブより出版 2009/04
 - 『プログラミングの魔導書 vol.1 Construct the World, C++』 株式会社ロングゲートより出版 2010/08
 -  書籍『100人のプロが選んだソフトウェア開発の名著 君のために選んだ1冊』中の記事「ジェネレーティブプログラマへの道」 翔泳社より出版 2012/02
@@ -306,13 +306,13 @@
 - 『C++テンプレートテクニック 第2版』 SBクリエイティブより出版 2014/04
 
 
-##記事寄稿
+## 記事寄稿
 - 「まもなく訪れるC++0x」 [情報処理 【2011】Vol.52 No.7 通巻556号](http://www.bookpark.ne.jp/cm/ipsj/mokuji.asp?category1=Magazine&vol=52&no=7) 2011/06
 - 「Boost C++ Libraries」 [プログラミングの魔導少女](https://sites.google.com/site/sapporocpp/linguamagi) 2011/06
 - 「C++の新たなる世界」 [日経ソフトウエア 2011年12月号](http://www.amazon.co.jp/gp/product/B005STT0ZY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=faithandbrave-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B005STT0ZY) 2011/11
 
 
-##レビューへの参加
+## レビューへの参加
 - [『ストラウストラップのプログラミング入門 - C++によるプログラミングの原則と実践』](http://www.amazon.co.jp/gp/product/4798119598?ie=UTF8&tag=faithandbrave-22&linkCode=xm2&camp=247&creativeASIN=4798119598) Bjarne Stroustrup著 邦訳監修επιστημη 翔泳社より出版 2011/08
 
 
