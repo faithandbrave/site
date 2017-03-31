@@ -75,6 +75,12 @@ C++の準標準ライブラリBoost。
 1. [GitHub website #147 [1.61.0 release note] fix alphabetical order](https://github.com/boostorg/website/pull/147)
 1. [GitHub test #98 fix ticket number](https://github.com/boostorg/test/pull/98)
 1. [GitHub website #148 [1.61.0 release note][test] fix ticket number](https://github.com/boostorg/website/pull/148)
+1. [GitHub website #157 [1.61] fix typo geometry function names](https://github.com/boostorg/website/pull/157)
+1. [GitHub filesystem #31 fix signature stem(), extension() member functions](https://github.com/boostorg/filesystem/pull/31)
+1. [GitHub website #179 Fix function name for Boost.Math release note](https://github.com/boostorg/website/pull/179)
+1. [GitHub website #203 1.63.0 release note : fix link](https://github.com/boostorg/website/pull/203)
+1. [GitHub website #227 1.64.0 : fix typo s/booststamp/bootstamp/](https://github.com/boostorg/website/pull/227)
+1. [GitHub interprocess #36 fix typo history : s/booststamp/bootstamp/](https://github.com/boostorg/interprocess/pull/36)
 
 
 ###機能のコミット(Commit features)
@@ -123,16 +129,35 @@ GitHubで使われていたMarkDownパーサー
 1. [#145 Table parsing error](https://github.com/vmg/sundown/issues/145)
 
 
-##Emscripten
+##kripken/emscripten
 C++をJavaScriptにコンパイルする、LLVMベースのコンパイラ。
 
 1. [#3005 Fix deadlink to release note](https://github.com/kripken/emscripten/pull/3005)
 
 
-##Expected
+##ptal/Expected
 C++の、正常値とエラー値のどちらかを保持できる型。
 
 1. [#86 remove extra semicolon](https://github.com/ptal/expected/pull/86)
 1. [#90 fix unused parameter warning](https://github.com/ptal/expected/pull/90)
 1. [#91 fix unused parameter warning](https://github.com/ptal/expected/pull/91)
+
+
+##apolukhin/stacktrace
+C++で、マルチプラットフォームでスタックトレースを取得するライブラリ。
+
+1. [#1 Add header-only option](https://github.com/apolukhin/stacktrace/pull/1)
+
+
+##gumi/spreadsheetconverter
+Pythonでxls/xlsxをJSONに変換するコンバーター
+
+1. [#1 Exampleのuser/user.yamlがsample/yamlディレクトリにない](https://github.com/gumi/spreadsheetconverter/issues/1)
+
+
+##bitwalker/distillery
+Elixirのリリースマネージャー
+
+1. [#126 fix changed output color](https://github.com/bitwalker/distillery/pull/126)
+
 
