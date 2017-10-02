@@ -10,7 +10,7 @@
 
 
 ## 所属
-- [株式会社ロングゲート](http://longgate.co.jp/) 取締役
+- [Preferred Networks, Inc.](https://www.preferred-networks.jp/) エンジニア
 - [boostjpコミュニティ](http://boostjp.github.io/) コアメンバ
 - [cpprefjpコミュニティ](http://cpprefjp.github.io/) コアメンバ
 - [P-Stade C++ Libraries](http://p-stade.sourceforge.net/) 現マネージャ

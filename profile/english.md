@@ -9,7 +9,7 @@ Born March 1, 1985 Miyagi-ken. Japan
 
 
 ## Affiliations
-- [LongGate CO.,LTD.](http://longgate.co.jp/)
+- [Preferred Networks, Inc.](https://www.preferred-networks.jp/) engineer
 - [boostjp community](http://boostjp.github.io/) core member
 - [cpprefjp community](http://cpprefjp.github.io/) core member
 - [P-Stade C++ Libraries](http://p-stade.sourceforge.net/) manager
