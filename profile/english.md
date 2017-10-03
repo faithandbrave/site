@@ -28,7 +28,7 @@ Born March 1, 1985 Miyagi-ken. Japan
 
 ## Contact
 - Personal mail address : faithandbrave@gmail.com
-- My Company mail address : faithandbrave@longgate.co.jp
+- My Company mail address : akirat@preferred.jp
 - Twitter : [@cpp_akira](https://twitter.com/cpp_akira)
 
 

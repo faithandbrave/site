@@ -29,7 +29,7 @@
 
 ## 連絡先
 - 個人メールアドレス : faithandbrave@gmail.com
-- 会社メールアドレス : faithandbrave@longgate.co.jp
+- 会社メールアドレス : akirat@preferred.jp
 - Twitter : [@cpp_akira](https://twitter.com/cpp_akira)
 
 
