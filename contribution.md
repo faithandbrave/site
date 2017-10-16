@@ -108,6 +108,7 @@ C++標準言語仕様のドラフト。
 1. [#264 `function::swap` : remove `noexcept`.](https://github.com/cplusplus/draft/pull/264)
 1. [#286 `shared_ptr` : fix missing semicolon](https://github.com/cplusplus/draft/pull/286)
 1. [#345 fix missing `<T>` to `valarray::operator=(initializer_list<T>)`](https://github.com/cplusplus/draft/pull/345)
+1. [#1770 `shared_ptr` `operator<` : add missing typename](https://github.com/cplusplus/draft/pull/1770)
 
 
 ## GCC - GNU C++ Compiler
