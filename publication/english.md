@@ -42,155 +42,180 @@
 - \[[pdf][programmer_mind_pdf]\]\[[key][programmer_mind_key]\]\[[slideshare][programmer_mind_slide]\] "Programmer mind" at [kyon_mm * kaori_t_spica wedding LT in Tokyo][kyon_kaori_wedding] (March, 29, 2014)
 - \[[pdf][start_concurrent_pdf]\]\[[key][start_concurrent_key]\]\[[slideshare][start_concurrent_slide]\] "Start Concurrent Programming" at [GREE Tech Talk #05][gree_tech_talk5] (May, 14, 2014)
 - \[[pdf][multi_paradigm_pdf]\]\[[key][multi_paradigm_key]\]\[[slideshare][multi_paradigm_slide]\] "Multi-paradigm Design" at [Boost.StudyMeeting #15 Sapporo][boost15] (May, 24, 2014)
+- \[[pdf][cpp14_enum_hash_pdf]\]\[[key][cpp14_enum_hash_key]\]\[[slideshare][cpp14_enum_hash_slide]\] "C++14 LWG.2148 enum hash support" C++14 DIS review meeting (June, 27, 2014)
+- \[[pdf][cpp14_explicit_default_ctor_pdf]\]\[[key][cpp14_explicit_default_ctor_key]\]\[[slideshare][cpp14_explicit_default_ctor_slide]\] "C++14 LWG.2193 solve explicit default constructor" C++14 DIS review meeting (June, 27, 2014)
 - \[[pdf][boost_tour_1_58_pdf]\]\[[key][boost_tour_1_58_key]\]\[[slide][boost_tour_1_58_slide]\] "An Around-the-Boost Libraries Tour (1.54.0-1.58.0 diff ver.)" [Boost.StudyMeeting #17 Tokyo][boost17] (May, 30, 2015)
 - \[[pdf][boost_tour_1_58_merge_pdf]\]\[[key][boost_tour_1_58_merge_key]\]\[[slide][boost_tour_1_58_merge_slide]\] "An Around-the-Boost Libraries Tour (1.54.0-1.58.0 merge ver.)" [Boost.StudyMeeting #17 Tokyo][boost17] (May, 30, 2015)
 - \[[pdf][boost_container_pdf]\]\[[key][boost_container_key]\]\[[slide][boost_container_slide]\] "Boost.Container features" [Boost.StudyMeeting #17 Tokyo][boost17] (May, 30, 2015)
 - \[[pdf][boost_tour_1_60_pdf]\]\[[key][boost_tour_1_60_key]\]\[[slide][boost_tour_1_60_slide]\] "An Around-the-Boost Libraries Tour (1.59.0-1.60.0 diff ver.)" [Boost.StudyMeeting #19 Tokyo][boost19] (December, 05, 2015)
 - \[[pdf][boost_tour_1_60_merge_pdf]\]\[[key][boost_tour_1_60_merge_key]\]\[[slide][boost_tour_1_60_merge_slide]\]  "An Around-the-Boost Libraries Tour (1.59.0-1.60.0 merge ver.)" [Boost.StudyMeeting #19 Tokyo][boost19] (December, 05, 2015)
 - \[[pdf][expected_pdf]\]\[[key][expected_key]\]\[[slide][expected_slide]\] "Error handling using expected" [Boost.StudyMeeting #19 Tokyo][boost19] (December, 05, 2015)
+- \[[pdf][boost_tour_1_61_pdf]\]\[[key][boost_tour_1_61_key]\]\[[slide][boost_tour_1_61_slide]\] "An Around-the-Boost Libraries Tour (1.61.0 diff ver.)" [Boost.StudyMeeting #20 Tokyo][boost20] (July, 23, 2016)
+- \[[pdf][boost_tour_1_61_merge_pdf]\]\[[key][boost_tour_1_61_merge_key]\]\[[slide][boost_tour_1_61_merge_slide]\] "An Around-the-Boost Libraries Tour (1.61.0 merge ver.)" [Boost.StudyMeeting #20 Tokyo][boost20] (July, 23, 2016)
+- \[[pdf][cpp1z_overview_pdf]\]\[[key][cpp1z_overview_key]\]\[[slide][cpp1z_overview_slide]\] "C++1z Overview" [Boost.StudyMeeting #20 Tokyo][boost20] (July, 23, 2016)
+- \[[pdf][cpprefjp_docs_pdf]\]\[[key][cpprefjp_docs_key]\]\[[slide][cpprefjp_docs_slide]\] "cpprefjp documentation" [OSS documentation meeting][oss_docs] (November, 18, 2017)
 
-[cpp0x_future_pdf]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_future/cpp0x_future.pdf
-[cpp0x_future_pptx]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_future/cpp0x_future.pptx
+
+[cpp0x_future_pdf]: https://github.com/faithandbrave/presentations/blob/master/2008.07.12_cpp0x_future/cpp0x_future.pdf
+[cpp0x_future_pptx]: https://github.com/faithandbrave/presentations/blob/master/2008.07.12_cpp0x_future/cpp0x_future.pptx
 [cpp0x_future_slide]: http://www.slideshare.net/faithandbrave/c0x-8778006
-[cpp0x_tmp_pdf]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_variadic_type_list/template_meta_programming.pdf
-[cpp0x_tmp_pptx]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_variadic_type_list/template_meta_programming.pptx
+[cpp0x_tmp_pdf]: https://github.com/faithandbrave/presentations/blob/master/2009.04.18_cpp0x_variadic_type_list/template_meta_programming.pdf
+[cpp0x_tmp_pptx]: https://github.com/faithandbrave/presentations/blob/master/2009.04.18_cpp0x_variadic_type_list/template_meta_programming.pptx
 [cpp0x_tmp_slide]: http://www.slideshare.net/faithandbrave/c-template-metaprogramming
-[cpp0x_typelist_pdf]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_variadic_type_list/cpp0x_variadic_type_list.pdf
-[cpp0x_typelist_pptx]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_variadic_type_list/cpp0x_variadic_type_list.pptx
+[cpp0x_typelist_pdf]: https://github.com/faithandbrave/presentations/blob/master/2009.04.18_cpp0x_variadic_type_list/cpp0x_variadic_type_list.pdf
+[cpp0x_typelist_pptx]: https://github.com/faithandbrave/presentations/blob/master/2009.04.18_cpp0x_variadic_type_list/cpp0x_variadic_type_list.pptx
 [cpp0x_typelist_slide]: http://www.slideshare.net/faithandbrave/c0x-variadic-type-list
-[cpp0x_concept_pdf]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_concept/C%2B%2B0x_Concept.pdf
-[cpp0x_concept_pptx]: http://dl.dropbox.com/u/1682460/presentation/cpp0x_concept/C%2B%2B0x_Concept.pptx
+[cpp0x_concept_pdf]: https://github.com/faithandbrave/presentations/blob/master/2009.05.12_cpp0x_concept/C%2B%2B0x_Concept.pdf
+[cpp0x_concept_pptx]: https://github.com/faithandbrave/presentations/blob/master/2009.05.12_cpp0x_concept/C%2B%2B0x_Concept.pptx
 [cpp0x_concept_slide]: http://www.slideshare.net/faithandbrave/c0x-concept
-[boost_tour_1_40_pdf]: http://dl.dropbox.com/u/1682460/presentation/boost_tour_1_40_0/boost_tour_1_40_0.pdf
-[boost_tour_1_40_pptx]: http://dl.dropbox.com/u/1682460/presentation/boost_tour_1_40_0/boost_tour_1_40_0.pptx
+[boost_tour_1_40_pdf]: https://github.com/faithandbrave/presentations/blob/master/2009.12.12_boost_tour_1_40_0/boost_tour_1_40_0.pdf
+[boost_tour_1_40_pptx]: https://github.com/faithandbrave/presentations/blob/master/2009.12.12_boost_tour_1_40_0/boost_tour_1_40_0.pptx
 [boost_tour_1_40_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1400
-[cpp0x_iso_pdf]: http://dl.dropbox.com/u/1682460/presentation/devsumi2010/dev10_ppt_cpp0x.pdf
-[cpp0x_iso_ppt]: http://dl.dropbox.com/u/1682460/presentation/devsumi2010/dev10_ppt_cpp0x.ppt
+[cpp0x_iso_pdf]: https://github.com/faithandbrave/presentations/blob/master/2010.02.18_devsumi2010/dev10_ppt_cpp0x.pdf
+[cpp0x_iso_ppt]: https://github.com/faithandbrave/presentations/blob/master/2010.02.18_devsumi2010/dev10_ppt_cpp0x.ppt
 [cpp0x_iso_slide]: http://www.slideshare.net/faithandbrave/dev10-c0x
-[wave_pdf]: http://dl.dropbox.com/u/1682460/presentation/Wave_in_Goole/Wave.pdf
-[wave_pptx]: http://dl.dropbox.com/u/1682460/presentation/Wave_in_Goole/Wave.pptx
+[wave_pdf]: https://github.com/faithandbrave/presentations/blob/master/2010.05.12_wave_in_goole/Wave.pdf
+[wave_pptx]: https://github.com/faithandbrave/presentations/blob/master/2010.05.12_wave_in_goole/Wave.pptx
 [wave_slide]: http://www.slideshare.net/faithandbrave/wave
-[boost_life_pdf]: http://dl.dropbox.com/u/1682460/presentation/boost_life/boost_life.pdf
-[boost_life_pptx]: http://dl.dropbox.com/u/1682460/presentation/boost_life/boost_life.pptx
+[boost_life_pdf]: https://github.com/faithandbrave/presentations/blob/master/2010.08.28_boost_life/boost_life.pdf
+[boost_life_pptx]: https://github.com/faithandbrave/presentations/blob/master/2010.08.28_boost_life/boost_life.pptx
 [boost_life_slide]: http://www.slideshare.net/faithandbrave/boost
-[boost_tour_1_44_pdf]: http://dl.dropbox.com/u/1682460/presentation/boost_tour_1_44_0/boost_tour_1_44_0.pdf
-[boost_tour_1_44_pptx]: http://dl.dropbox.com/u/1682460/presentation/boost_tour_1_44_0/boost_tour_1_44_0.pptx
+[boost_tour_1_44_pdf]: https://github.com/faithandbrave/presentations/blob/master/2010.09.11_boost_tour_1_44_0/boost_tour_1_44_0.pdf
+[boost_tour_1_44_pptx]: https://github.com/faithandbrave/presentations/blob/master/2010.09.11_boost_tour_1_44_0/boost_tour_1_44_0.pptx
 [boost_tour_1_44_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1440
-[boost_tour_1_44_all_pdf]: http://dl.dropbox.com/u/1682460/presentation/boost_tour_1_44_0/boost_tour_1_44_0_all.pdf
-[boost_tour_1_44_all_pptx]: http://dl.dropbox.com/u/1682460/presentation/boost_tour_1_44_0/boost_tour_1_44_0_all.pptx
+[boost_tour_1_44_all_pdf]: https://github.com/faithandbrave/presentations/blob/master/2010.09.11_boost_tour_1_44_0/boost_tour_1_44_0_all.pdf
+[boost_tour_1_44_all_pptx]: https://github.com/faithandbrave/presentations/blob/master/2010.09.11_boost_tour_1_44_0/boost_tour_1_44_0_all.pptx
 [boost_tour_1_44_all_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1440all
-[scala_evol_pdf]: http://dl.dropbox.com/u/1682460/presentation/scala_lang_evolution/scala_lang_evolution.pdf
-[scala_evol_pptx]: (http://dl.dropbox.com/u/1682460/presentation/scala_lang_evolution/scala_lang_evolution.pptx
+[scala_evol_pdf]: https://github.com/faithandbrave/presentations/blob/master/2010.10.27_scala_lang_evolution/scala_lang_evolution.pdf
+[scala_evol_pptx]: https://github.com/faithandbrave/presentations/blob/master/2010.10.27_scala_lang_evolution/scala_lang_evolution.pptx
 [scala_evol_slide]: http://www.slideshare.net/faithandbrave/scala-lang-evolution
-[boost_fusion_pdf]: http://dl.dropbox.com/u/1682460/presentation/boost_fusion/boost_fusion.pdf
-[boost_fusion_pptx]: http://dl.dropbox.com/u/1682460/presentation/boost_fusion/boost_fusion.pptx
+[boost_fusion_pdf]: https://github.com/faithandbrave/presentations/blob/master/2011.02.26_boost_fusion/boost_fusion.pdf
+[boost_fusion_pptx]: https://github.com/faithandbrave/presentations/blob/master/2011.02.26_boost_fusion/boost_fusion.pptx
 [boost_fusion_slide]: http://www.slideshare.net/faithandbrave/boost-fusion-library
-[bjarne_pdf]: http://dl.dropbox.com/u/1682460/presentation/bjarne_dont_speaking/bjarne_dont_speaking.pdf
-[bjarne_pptx]: http://dl.dropbox.com/u/1682460/presentation/bjarne_dont_speaking/bjarne_dont_speaking.pptx
+[bjarne_pdf]: https://github.com/faithandbrave/presentations/blob/master/2011.08.27_bjarne_dont_speaking/bjarne_dont_speaking.pdf
+[bjarne_pptx]: https://github.com/faithandbrave/presentations/blob/master/2011.08.27_bjarne_dont_speaking/bjarne_dont_speaking.pptx
 [bjarne_slide]: http://www.slideshare.net/faithandbrave/bjarne-dont-speaking
-[doc_and_error_pdf]: http://dl.dropbox.com/u/1682460/presentation/error_handling/doc_and_errorhandling.pdf
-[doc_and_error_pptx]: http://dl.dropbox.com/u/1682460/presentation/error_handling/doc_and_errorhandling.pptx
+[doc_and_error_pdf]: https://github.com/faithandbrave/presentations/blob/master/2011.09.04_error_handling/doc_and_errorhandling.pdf
+[doc_and_error_pptx]: https://github.com/faithandbrave/presentations/blob/master/2011.09.04_error_handling/doc_and_errorhandling.pptx
 [doc_and_error_slide]: http://www.slideshare.net/faithandbrave/doc-and-error-handling
-[boost_geometry_pdf]: http://dl.dropbox.com/u/1682460/presentation/learning_template_library_design_using_boost_geometry/boost_geomtry.pdf
-[boost_geometry_pptx]: http://dl.dropbox.com/u/1682460/presentation/learning_template_library_design_using_boost_geometry/boost_geomtry.pptx
+[boost_geometry_pdf]: https://github.com/faithandbrave/presentations/blob/master/2011.11.05_learning_template_library_design_using_boost_geometry/boost_geomtry.pdf
+[boost_geometry_pptx]: https://github.com/faithandbrave/presentations/blob/master/2011.11.05_learning_template_library_design_using_boost_geometry/boost_geomtry.pptx
 [boost_geometry_slide]: http://www.slideshare.net/faithandbrave/boostgeomtry
-[boost_overview_pdf]: http://dl.dropbox.com/u/1682460/presentation/boost_7/boost_overview.pdf
-[boost_overview_pptx]: http://dl.dropbox.com/u/1682460/presentation/boost_7/boost_overview.pptx
+[boost_overview_pdf]: https://github.com/faithandbrave/presentations/blob/master/2011.12.03_boost_7/boost_overview.pdf
+[boost_overview_pptx]: https://github.com/faithandbrave/presentations/blob/master/2011.12.03_boost_7/boost_overview.pptx
 [boost_overview_slide]: http://www.slideshare.net/faithandbrave/boost-overview
-[boost_tour_1_48_pdf]: http://dl.dropbox.com/u/1682460/presentation/boost_7/boost_tour_1_48_0.pdf
-[boost_tour_1_48_pptx]: http://dl.dropbox.com/u/1682460/presentation/boost_7/boost_tour_1_48_0.pptx
+[boost_tour_1_48_pdf]: https://github.com/faithandbrave/presentations/blob/master/2011.12.03_boost_7/boost_tour_1_48_0.pdf
+[boost_tour_1_48_pptx]: https://github.com/faithandbrave/presentations/blob/master/2011.12.03_boost_7/boost_tour_1_48_0.pptx
 [boost_tour_1_48_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1480-diff
-[boost_tour_1_48_all_pdf]: http://dl.dropbox.com/u/1682460/presentation/boost_7/boost_tour_1_48_0_all.pdf
-[boost_tour_1_48_all_pptx]: http://dl.dropbox.com/u/1682460/presentation/boost_7/boost_tour_1_48_0_all.pptx
+[boost_tour_1_48_all_pdf]: https://github.com/faithandbrave/presentations/blob/master/2011.12.03_boost_7/boost_tour_1_48_0_all.pdf
+[boost_tour_1_48_all_pptx]: https://github.com/faithandbrave/presentations/blob/master/2011.12.03_boost_7/boost_tour_1_48_0_all.pptx
 [boost_tour_1_48_all_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1480-all
-[scope_exit_pdf]: http://dl.dropbox.com/u/1682460/presentation/scope_exit/scope_exit.pdf
-[scope_exit_pptx]: http://dl.dropbox.com/u/1682460/presentation/scope_exit/scope_exit.pptx
+[scope_exit_pdf]: https://github.com/faithandbrave/presentations/blob/master/2012.02.11_scope_exit/scope_exit.pdf
+[scope_exit_pptx]: https://github.com/faithandbrave/presentations/blob/master/2012.02.11_scope_exit/scope_exit.pptx
 [scope_exit_slide]: http://www.slideshare.net/faithandbrave/scope-exit
-[boost_context_pdf]: http://dl.dropbox.com/u/1682460/presentation/boost_context/boost_context.pdf
-[boost_context_pptx]: http://dl.dropbox.com/u/1682460/presentation/boost_context/boost_context.pptx
+[boost_context_pdf]: https://github.com/faithandbrave/presentations/blob/master/2012.04.08_boost_context/boost_context.pdf
+[boost_context_pptx]: https://github.com/faithandbrave/presentations/blob/master/2012.04.08_boost_context/boost_context.pptx
 [boost_context_slide]: http://www.slideshare.net/faithandbrave/continuation-with-boostcontext
-[out_iter_pdf]: http://dl.dropbox.com/u/1682460/presentation/cppnow2012/replace_outiter_and_extend_range.pdf
-[out_iter_pptx]: http://dl.dropbox.com/u/1682460/presentation/cppnow2012/replace_outiter_and_extend_range.pptx
+[out_iter_pdf]: https://github.com/faithandbrave/presentations/blob/master/2012.05.16_cppnow2012/replace_outiter_and_extend_range.pdf
+[out_iter_pptx]: https://github.com/faithandbrave/presentations/blob/master/2012.05.16_cppnow2012/replace_outiter_and_extend_range.pptx
 [out_iter_slide]: http://www.slideshare.net/faithandbrave/replace-outputiterator-and-extend-range
-[out_iter_text]: http://dl.dropbox.com/u/1682460/presentation/cppnow2012/text.txt
-[out_iter_jp_pdf]: https://dl.dropbox.com/u/1682460/presentation/boost_9/replace_outiter_and_extend_range_jp.pdf
-[out_iter_jp_pptx]: https://dl.dropbox.com/u/1682460/presentation/boost_9/replace_outiter_and_extend_range_jp.pptx
+[out_iter_text]: https://github.com/faithandbrave/presentations/blob/master/2012.05.16_cppnow2012/text.txt
+[out_iter_jp_pdf]: https://github.com/faithandbrave/presentations/blob/master/2012.05.26_boost_9/replace_outiter_and_extend_range_jp.pdf
+[out_iter_jp_pptx]: https://github.com/faithandbrave/presentations/blob/master/2012.05.26_boost_9/replace_outiter_and_extend_range_jp.pptx
 [out_iter_jp_slide]: http://www.slideshare.net/faithandbrave/replace-output-iterator-and-extend-range-jp
-[boost_tour_1_50_pdf]: https://dl.dropbox.com/u/1682460/presentation/boost_10/boost_tour_1_50_0.pdf
-[boost_tour_1_50_pptx]: https://dl.dropbox.com/u/1682460/presentation/boost_10/boost_tour_1_50_0.pptx
+[boost_tour_1_50_pdf]: https://github.com/faithandbrave/presentations/blob/master/2012.07.28_boost_10/boost_tour_1_50_0.pdf
+[boost_tour_1_50_pptx]: https://github.com/faithandbrave/presentations/blob/master/2012.07.28_boost_10/boost_tour_1_50_0.pptx
 [boost_tour_1_50_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1500
-[boost_tour_1_50_merge_pdf]: https://dl.dropbox.com/u/1682460/presentation/boost_10/boost_tour_1_50_0_all.pdf
-[boost_tour_1_50_merge_pptx]: https://dl.dropbox.com/u/1682460/presentation/boost_10/boost_tour_1_50_0_all.pptx
+[boost_tour_1_50_merge_pdf]: https://github.com/faithandbrave/presentations/blob/master/2012.07.28_boost_10/boost_tour_1_50_0_all.pdf
+[boost_tour_1_50_merge_pptx]: https://github.com/faithandbrave/presentations/blob/master/2012.07.28_boost_10/boost_tour_1_50_0_all.pptx
 [boost_tour_1_50_merge_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1500-all
-[cppnow2012_report_pdf]: https://dl.dropbox.com/u/1682460/presentation/boost_10/cppnow2012.pdf
-[cppnow2012_report_pptx]: https://dl.dropbox.com/u/1682460/presentation/boost_10/cppnow2012.pptx
+[cppnow2012_report_pdf]: https://github.com/faithandbrave/presentations/blob/master/2012.07.28_boost_10/cppnow2012.pdf
+[cppnow2012_report_pptx]: https://github.com/faithandbrave/presentations/blob/master/2012.07.28_boost_10/cppnow2012.pptx
 [cppnow2012_report_slide]: http://www.slideshare.net/faithandbrave/c-now-2012-report
-[collective_pdf]: https://dl.dropbox.com/u/1682460/presentation/aizu_tokyo2/collective_intelligence.pdf
-[collective_pptx]: https://dl.dropbox.com/u/1682460/presentation/aizu_tokyo2/collective_intelligence.pptx
+[collective_pdf]: https://github.com/faithandbrave/presentations/blob/master/2012.09.16_aizu_tokyo2/collective_intelligence.pdf
+[collective_pptx]: https://github.com/faithandbrave/presentations/blob/master/2012.09.16_aizu_tokyo2/collective_intelligence.pptx
 [collective_slide]: http://www.slideshare.net/faithandbrave/collective-intelligence-14303165
-[template_pdf]: https://dl.dropbox.com/u/1682460/presentation/effective_cpp_reading_09/what_is_template.pdf
-[template_pptx]: https://dl.dropbox.com/u/1682460/presentation/effective_cpp_reading_09/what_is_template.pptx
+[template_pdf]: https://github.com/faithandbrave/presentations/blob/master/2012.11.23_effective_cpp_reading_09/what_is_template.pdf
+[template_pptx]: https://github.com/faithandbrave/presentations/blob/master/2012.11.23_effective_cpp_reading_09/what_is_template.pptx
 [template_slide]: http://www.slideshare.net/faithandbrave/what-is-template
-[boost_tour_1_53_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_11/boost_tour_1_53_0.pdf
-[boost_tour_1_53_pptx]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_11/boost_tour_1_53_0.pptx
+[boost_tour_1_53_pdf]: https://github.com/faithandbrave/presentations/blob/master/2013.06.01_boost_11/boost_tour_1_53_0.pdf
+[boost_tour_1_53_pptx]: https://github.com/faithandbrave/presentations/blob/master/2013.06.01_boost_11/boost_tour_1_53_0.pptx
 [boost_tour_1_53_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1530
-[boost_tour_1_53_merge_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_11/boost_tour_1_53_0_merge.pdf
-[boost_tour_1_53_merge_pptx]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_11/boost_tour_1_53_0_merge.pptx
+[boost_tour_1_53_merge_pdf]: https://github.com/faithandbrave/presentations/blob/master/2013.06.01_boost_11/boost_tour_1_53_0_merge.pdf
+[boost_tour_1_53_merge_pptx]: https://github.com/faithandbrave/presentations/blob/master/2013.06.01_boost_11/boost_tour_1_53_0_merge.pptx
 [boost_tour_1_53_merge_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1530-merge
-[cpp14_overview_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_11/cpp14_overview.pdf
-[cpp14_overview_pptx]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_11/cpp14_overview.pptx
+[cpp14_overview_pdf]: https://github.com/faithandbrave/presentations/blob/master/2013.06.01_boost_11/cpp14_overview.pdf
+[cpp14_overview_pptx]: https://github.com/faithandbrave/presentations/blob/master/2013.06.01_boost_11/cpp14_overview.pptx
 [cpp14_overview_slide]: http://www.slideshare.net/faithandbrave/c14-overview
-[cpp_community_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_12/development_cpp_community.pdf
-[cpp_community_pptx]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_12/development_cpp_community.pptx
+[cpp_community_pdf]: https://github.com/faithandbrave/presentations/blob/master/2013.06.22_boost_12/development_cpp_community.pdf
+[cpp_community_pptx]: https://github.com/faithandbrave/presentations/blob/master/2013.06.22_boost_12/development_cpp_community.pptx
 [cpp_community_slide]: http://www.slideshare.net/faithandbrave/development-c-community-23330248
-[boost_random_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_random/boost_random.pdf
-[boost_random_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_random/boost_random.key
+[boost_random_pdf]: https://github.com/faithandbrave/presentations/blob/master/2013.10.19_boost_random/boost_random.pdf
+[boost_random_key]: https://github.com/faithandbrave/presentations/blob/master/2013.10.19_boost_random/boost_random.key
 [boost_random_slide]: http://www.slideshare.net/faithandbrave/leanning-random-using-boost-random
-[cpp14_binary_literal_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/cpp14_binary_literals/cpp14_binary_literals.pdf
-[cpp14_binary_literal_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/cpp14_binary_literals/cpp14_binary_literals.key
+[cpp14_binary_literal_pdf]: https://github.com/faithandbrave/presentations/blob/master/2013.10.26_cpp14_binary_literals/cpp14_binary_literals.pdf
+[cpp14_binary_literal_key]: https://github.com/faithandbrave/presentations/blob/master/2013.10.26_cpp14_binary_literals/cpp14_binary_literals.key
 [cpp14_binary_literal_slide]: http://www.slideshare.net/faithandbrave/c14-binary-literals
-[cpp14_constexpr_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/cpp14_relaxing_constraints_on_constexpr/cpp14_relaxing_constraints_on_constexpr.pdf
-[cpp14_constexpr_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/cpp14_relaxing_constraints_on_constexpr/cpp14_relaxing_constraints_on_constexpr.key
+[cpp14_constexpr_pdf]: https://github.com/faithandbrave/presentations/blob/master/2013.10.26_cpp14_relaxing_constraints_on_constexpr/cpp14_relaxing_constraints_on_constexpr.pdf
+[cpp14_constexpr_key]: https://github.com/faithandbrave/presentations/blob/master/2013.10.26_cpp14_relaxing_constraints_on_constexpr/cpp14_relaxing_constraints_on_constexpr.key
 [cpp14_constexpr_slide]: http://www.slideshare.net/faithandbrave/c14-relaxing-constraints-on-constexpr
-[cpp14_variable_template_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/cpp14_variable_templates/cpp14_variable_templates.pdf
-[cpp14_variable_template_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/cpp14_variable_templates/cpp14_variable_templates.key
+[cpp14_variable_template_pdf]: https://github.com/faithandbrave/presentations/blob/master/2013.10.26_cpp14_variable_templates/cpp14_variable_templates.pdf
+[cpp14_variable_template_key]: https://github.com/faithandbrave/presentations/blob/master/2013.10.26_cpp14_variable_templates/cpp14_variable_templates.key
 [cpp14_variable_template_slide]: http://www.slideshare.net/faithandbrave/c14-variable-templates
-[concurrency_ts_future_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/cpp14ts_improvement_future_api/improvement_future_api.pdf
-[concurrency_ts_future_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/cpp14ts_improvement_future_api/improvement_future_api.key
+[concurrency_ts_future_pdf]: https://github.com/faithandbrave/presentations/blob/master/2013.12.14_cpp14ts_improvement_future_api/improvement_future_api.pdf
+[concurrency_ts_future_key]: https://github.com/faithandbrave/presentations/blob/master/2013.12.14_cpp14ts_improvement_future_api/improvement_future_api.key
 [concurrency_ts_future_slide]: http://www.slideshare.net/faithandbrave/improvement-future-api
-[concurrency_ts_executor_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/cpp14ts_executors_and_schedulers/executors_and_schedulers.pdf
-[concurrency_ts_executor_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/cpp14ts_executors_and_schedulers/executors_and_schedulers.key
+[concurrency_ts_executor_pdf]: https://github.com/faithandbrave/presentations/blob/master/2013.12.14_cpp14ts_executors_and_schedulers/executors_and_schedulers.pdf
+[concurrency_ts_executor_key]: https://github.com/faithandbrave/presentations/blob/master/2013.12.14_cpp14ts_executors_and_schedulers/executors_and_schedulers.key
 [concurrency_ts_executor_slide]: http://www.slideshare.net/faithandbrave/executors-and-schedulers
-[boost_graph_shortest_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_14/bgl_design_and_shortest_path.pdf
-[boost_graph_shortest_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_14/bgl_design_and_shortest_path.key
+[boost_graph_shortest_pdf]: https://github.com/faithandbrave/presentations/blob/master/2014.03.01_boost_14/bgl_design_and_shortest_path.pdf
+[boost_graph_shortest_key]: https://github.com/faithandbrave/presentations/blob/master/2014.03.01_boost_14/bgl_design_and_shortest_path.key
 [boost_graph_shortest_slide]: http://www.slideshare.net/faithandbrave/bgl-design-and-shortest-path
-[programmer_mind_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/kyon_kao_wedding/programmer_mind.pdf
-[programmer_mind_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/kyon_kao_wedding/programmer_mind.key
+[programmer_mind_pdf]: https://github.com/faithandbrave/presentations/blob/master/2014.03.29_kyon_kao_wedding/programmer_mind.pdf
+[programmer_mind_key]: https://github.com/faithandbrave/presentations/blob/master/2014.03.29_kyon_kao_wedding/programmer_mind.key
 [programmer_mind_slide]: http://www.slideshare.net/faithandbrave/programmer-mind
-[start_concurrent_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/gree_tech_talk_5/start_concurrent.pdf
-[start_concurrent_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/gree_tech_talk_5/start_concurrent.key
+[start_concurrent_pdf]: https://github.com/faithandbrave/presentations/blob/master/2014.05.14_gree_tech_talk_5/start_concurrent.pdf
+[start_concurrent_key]: https://github.com/faithandbrave/presentations/blob/master/2014.05.14_gree_tech_talk_5/start_concurrent.key
 [start_concurrent_slide]: http://www.slideshare.net/faithandbrave/start-concurrent
-[multi_paradigm_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_15/multi_paradigm_design.pdf
-[multi_paradigm_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_15/multi_paradigm_design.key
+[multi_paradigm_pdf]: https://github.com/faithandbrave/presentations/blob/master/2014.05.24_boost_15/multi_paradigm_design.pdf
+[multi_paradigm_key]: https://github.com/faithandbrave/presentations/blob/master/2014.05.24_boost_15/multi_paradigm_design.key
 [multi_paradigm_slide]: http://www.slideshare.net/faithandbrave/multi-paradigm-design
-[boost_tour_1_58_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_tour_1_58_0.pdf
-[boost_tour_1_58_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_tour_1_58_0.key
+[cpp14_enum_hash_pdf]: https://github.com/faithandbrave/presentations/blob/master/2014.06.27_cpp14_dis_review/cpp14_enum_hash.pdf
+[cpp14_enum_hash_key]: https://github.com/faithandbrave/presentations/blob/master/2014.06.27_cpp14_dis_review/cpp14_enum_hash.key
+[cpp14_enum_hash_slide]: https://www.slideshare.net/faithandbrave/c14-enum-hash
+[cpp14_explicit_default_ctor_pdf]: https://github.com/faithandbrave/presentations/blob/master/2014.06.27_cpp14_dis_review/cpp14_solve_explicit_default_constructor.pdf
+[cpp14_explicit_default_ctor_key]: https://github.com/faithandbrave/presentations/blob/master/2014.06.27_cpp14_dis_review/cpp14_solve_explicit_default_constructor.key
+[cpp14_explicit_default_ctor_slide]: https://www.slideshare.net/faithandbrave/c14-solve-explicitdefaultconstructor
+[boost_tour_1_58_pdf]: https://github.com/faithandbrave/presentations/blob/master/2015.05.30_boost_17/boost_tour_1_58_0.pdf
+[boost_tour_1_58_key]: https://github.com/faithandbrave/presentations/blob/master/2015.05.30_boost_17/boost_tour_1_58_0.key
 [boost_tour_1_58_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1580
-[boost_tour_1_58_merge_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_tour_1_58_0_merge.pdf
-[boost_tour_1_58_merge_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_tour_1_58_0_merge.key
+[boost_tour_1_58_merge_pdf]: https://github.com/faithandbrave/presentations/blob/master/2015.05.30_boost_17/boost_tour_1_58_0_merge.pdf
+[boost_tour_1_58_merge_key]: https://github.com/faithandbrave/presentations/blob/master/2015.05.30_boost_17/boost_tour_1_58_0_merge.key
 [boost_tour_1_58_merge_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1580-merge
-[boost_container_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_container_feature.pdf
-[boost_container_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_17/boost_container_feature.key
+[boost_container_pdf]: https://github.com/faithandbrave/presentations/blob/master/2015.05.30_boost_17/boost_container_feature.pdf
+[boost_container_key]: https://github.com/faithandbrave/presentations/blob/master/2015.05.30_boost_17/boost_container_feature.key
 [boost_container_slide]: http://www.slideshare.net/faithandbrave/boost-container-feature
-[boost_tour_1_60_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_19/boost_tour_1_60_0.pdf
-[boost_tour_1_60_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_19/boost_tour_1_60_0.key
+[boost_tour_1_60_pdf]: https://github.com/faithandbrave/presentations/blob/master/2015.12.05_boost_19/boost_tour_1_60_0.pdf
+[boost_tour_1_60_key]: https://github.com/faithandbrave/presentations/blob/master/2015.12.05_boost_19/boost_tour_1_60_0.key
 [boost_tour_1_60_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1600
-[boost_tour_1_60_merge_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_19/boost_tour_1_60_0_merge.pdf
-[boost_tour_1_60_merge_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_19/boost_tour_1_60_0_merge.key
+[boost_tour_1_60_merge_pdf]: https://github.com/faithandbrave/presentations/blob/master/2015.12.05_boost_19/boost_tour_1_60_0_merge.key
+[boost_tour_1_60_merge_key]: https://github.com/faithandbrave/presentations/blob/master/2015.12.05_boost_19/boost_tour_1_60_0_merge.pdf
 [boost_tour_1_60_merge_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1600-merge
-[expected_pdf]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_19/expected.pdf
-[expected_key]: https://dl.dropboxusercontent.com/u/1682460/presentation/boost_19/expected.key
+[expected_pdf]: https://github.com/faithandbrave/presentations/blob/master/2015.12.05_boost_19/expected.pdf
+[expected_key]: https://github.com/faithandbrave/presentations/blob/master/2015.12.05_boost_19/expected.key
 [expected_slide]: http://www.slideshare.net/faithandbrave/error-handling-using-expected
+[boost_tour_1_61_pdf]: https://github.com/faithandbrave/presentations/blob/master/2016.07.23_boost_20/boost_tour_1_61_0.pdf
+[boost_tour_1_61_key]: https://github.com/faithandbrave/presentations/blob/master/2016.07.23_boost_20/boost_tour_1_61_0.key
+[boost_tour_1_61_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1610
+[boost_tour_1_61_merge_pdf]: https://github.com/faithandbrave/presentations/blob/master/2016.07.23_boost_20/boost_tour_1_61_0_merge.pdf
+[boost_tour_1_61_merge_key]: https://github.com/faithandbrave/presentations/blob/master/2016.07.23_boost_20/boost_tour_1_61_0_merge.key
+[boost_tour_1_61_merge_slide]: http://www.slideshare.net/faithandbrave/boost-tour-1610-merge
+[cpp1z_overview_pdf]: https://github.com/faithandbrave/presentations/blob/master/2016.07.23_boost_20/cpp1z_draft.pdf
+[cpp1z_overview_key]: https://github.com/faithandbrave/presentations/blob/master/2016.07.23_boost_20/cpp1z_draft.key
+[cpp1z_overview_slide]: http://www.slideshare.net/faithandbrave/c1z-draft
+[cpprefjp_docs_pdf]: https://github.com/faithandbrave/presentations/blob/master/2017.11.18_oss_documentation/cpprefjp_documentation.pdf
+[cpprefjp_docs_key]: https://github.com/faithandbrave/presentations/blob/master/2017.11.18_oss_documentation/cpprefjp_documentation.key
+[cpprefjp_docs_slide]: https://www.slideshare.net/faithandbrave/cpprefjp-documentation-82258368
 
 [boost1]: http://boostjp.github.io/study_meeting/study1.html
 [boost2]: http://boostjp.github.io/study_meeting/study2.html
@@ -208,6 +233,7 @@
 [boost15]: http://boostjp.github.io/study_meeting/study15.html
 [boost17]: http://boostjp.github.io/study_meeting/study17.html
 [boost19]: http://boostjp.github.io/study_meeting/study19.html
+[boost20]: http://boostjp.github.io/study_meeting/study20.html
 [wankuma22]: http://www.wankuma.com/seminar/20080712tokyo22/Default.aspx
 [wankuma33]: http://www.wankuma.com/seminar/20090516tokyo33/Default.aspx
 [wankuma62]: http://www.wankuma.com/seminar/20110827tokyo62/
@@ -291,6 +317,9 @@
 - [Boost.StudyMeeting #10 Tokyo][boost10] July 28, 2012
 - [Boost.StudyMeeting #11 Tokyo][boost11] June, 01, 2013
 - [Boost.StudyMeeting #14 Tokyo][boost14] Match, 1, 2014
+- [Boost.StudyMeeting #17 Tokyo][boost17] May, 30, 2015
+- [Boost.StudyMeeting #19 Tokyo][boost19] December, 05, 2015
+- [Boost.StudyMeeting #20 Tokyo][boost20] July, 23, 2016
 
 [game_dev]: http://partake.in/events/ce57b266-069e-4feb-8a56-94bc4764b0e8
 [boost_adv_2011]: http://partake.in/events/597a0fc3-0e3a-47a3-8fc3-4f32ad846a3d
@@ -305,6 +334,7 @@
 - "C++ Pocket Reference" published by Gijutsu-Hyohron (May 2013)
 - "Programmers' Grimoire vol.3 Parallel, Concurrent, and Distributed Programming" published by LongGate (December 2013)
 - "C++ Template Techniques 2nd Edition" SB Creative (April 2014)
+- "C++ Pocket Reference 2nd Edition" published by Gijutsu-Hyohron (June 2015)
 
 
 ## Articles and Papers
