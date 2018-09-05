@@ -126,6 +126,11 @@ GCCと、libstdc++(GCC付属のC++標準ライブラリ + α)へのバグ報告
 1. [Bug 87227 - doesn't work `std::filesystem::directory_options::follow_directory_symlink`](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=87227)
 
 
+## LLVM
+
+1. [Bug 38837 - `doesn't work std::filesystem::directory_options::follow_directory_symlink`](https://bugs.llvm.org/show_bug.cgi?id=38837)
+
+
 ## vmg/sundown
 GitHubで使われていたMarkDownパーサー
 
