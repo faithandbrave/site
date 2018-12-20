@@ -54,6 +54,7 @@
 - \[[pdf][boost_tour_1_61_merge_pdf]\]\[[key][boost_tour_1_61_merge_key]\]\[[slide][boost_tour_1_61_merge_slide]\] "An Around-the-Boost Libraries Tour (1.61.0 merge ver.)" [Boost.StudyMeeting #20 Tokyo][boost20] (July, 23, 2016)
 - \[[pdf][cpp1z_overview_pdf]\]\[[key][cpp1z_overview_key]\]\[[slide][cpp1z_overview_slide]\] "C++1z Overview" [Boost.StudyMeeting #20 Tokyo][boost20] (July, 23, 2016)
 - \[[pdf][cpprefjp_docs_pdf]\]\[[key][cpprefjp_docs_key]\]\[[slide][cpprefjp_docs_slide]\] "cpprefjp documentation" [OSS documentation meeting][oss_docs] (November, 18, 2017)
+- \[[pdf][cppmix1_pdf]\]\[[pptx][cppmix1_pptx]\]\[[slide][cppmix1_slide]\] "C++ MIX #1 Opening" [C++ MIX #1][cppmix1] (December, 05, 2018)
 
 
 [cpp0x_future_pdf]: https://github.com/faithandbrave/presentations/blob/master/2008.07.12_cpp0x_future/cpp0x_future.pdf
@@ -216,6 +217,9 @@
 [cpprefjp_docs_pdf]: https://github.com/faithandbrave/presentations/blob/master/2017.11.18_oss_documentation/cpprefjp_documentation.pdf
 [cpprefjp_docs_key]: https://github.com/faithandbrave/presentations/blob/master/2017.11.18_oss_documentation/cpprefjp_documentation.key
 [cpprefjp_docs_slide]: https://www.slideshare.net/faithandbrave/cpprefjp-documentation-82258368
+[cppmix1_pdf]: https://github.com/faithandbrave/presentations/blob/master/2018.12.06_cppmix_01/cppmix_01.pdf
+[cppmix1_pptx]: https://github.com/faithandbrave/presentations/blob/master/2018.12.06_cppmix_01/cppmix_01.pptx
+[cppmix1_slide]: https://www.slideshare.net/faithandbrave/cppmix-01
 
 [boost1]: http://boostjp.github.io/study_meeting/study1.html
 [boost2]: http://boostjp.github.io/study_meeting/study2.html
@@ -253,6 +257,7 @@
 [cpp14_review2]: http://atnd.org/events/45289
 [kyon_kaori_wedding]: http://peatix.com/event/29745
 [gree_tech_talk5]: http://techtalk5.labs.gree.jp/
+[cppmix1]: https://cppmix.connpass.com/event/107576/
 
 
 ## Public Presentations (in English)
@@ -320,6 +325,7 @@
 - [Boost.StudyMeeting #17 Tokyo][boost17] May, 30, 2015
 - [Boost.StudyMeeting #19 Tokyo][boost19] December, 05, 2015
 - [Boost.StudyMeeting #20 Tokyo][boost20] July, 23, 2016
+- [C++ MIX #1][cppmix1] December, 06, 2018
 
 [game_dev]: http://partake.in/events/ce57b266-069e-4feb-8a56-94bc4764b0e8
 [boost_adv_2011]: http://partake.in/events/597a0fc3-0e3a-47a3-8fc3-4f32ad846a3d

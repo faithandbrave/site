@@ -94,9 +94,9 @@ enumerate_recursive_dir('.') {|md_path|
 
   filename = if md_path.start_with?('./') then md_path[2, md_path.length - 2] else md_path end
 
-  dest_directory = '../website/'
+  dest_directory = '../faithandbrave.github.io/'
   convert(filename, replace_extension(dest_directory + filename))
 }
 
-FileUtils.copy('theme.css', '../website/theme.css')
+FileUtils.copy('theme.css', '../faithandbrave.github.io/theme.css')
 
