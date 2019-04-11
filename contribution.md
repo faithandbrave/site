@@ -109,7 +109,7 @@ C++標準言語仕様のドラフト。
 1. [#286 `shared_ptr` : fix missing semicolon](https://github.com/cplusplus/draft/pull/286)
 1. [#345 fix missing `<T>` to `valarray::operator=(initializer_list<T>)`](https://github.com/cplusplus/draft/pull/345)
 1. [#1770 `shared_ptr` `operator<` : add missing typename](https://github.com/cplusplus/draft/pull/1770)
-
+1. [#2824 add forward declaration of `atomic` class for `atomic<shared_ptr<T>>` (P0718R2)](https://github.com/cplusplus/draft/pull/2824)
 
 ## GCC - GNU C++ Compiler
 GCCと、libstdc++(GCC付属のC++標準ライブラリ + α)へのバグ報告
