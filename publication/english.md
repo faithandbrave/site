@@ -55,6 +55,8 @@
 - \[[pdf][cpp1z_overview_pdf]\]\[[key][cpp1z_overview_key]\]\[[slide][cpp1z_overview_slide]\] "C++1z Overview" [Boost.StudyMeeting #20 Tokyo][boost20] (July, 23, 2016)
 - \[[pdf][cpprefjp_docs_pdf]\]\[[key][cpprefjp_docs_key]\]\[[slide][cpprefjp_docs_slide]\] "cpprefjp documentation" [OSS documentation meeting][oss_docs] (November, 18, 2017)
 - \[[pdf][cppmix1_pdf]\]\[[pptx][cppmix1_pptx]\]\[[slide][cppmix1_slide]\] "C++ MIX #1 Opening" [C++ MIX #1][cppmix1] (December, 05, 2018)
+- \[[pdf][cppmix2_pdf]\]\[[pptx][cppmix2_pptx]\]\[[slide][cppmix2_slide]\] "C++ MIX #2 Opening" [C++ MIX #2][cppmix2] (February, 20, 2019)
+- \[[pdf][cpp20lang_pdf]\]\[[pptx][cpp20lang_pptx]\]\[[slide][cpp20lang_slide]\] 「C++20 Overview #1 Core Language features」 [C++ MIX #3][cppmix3] (April, 16, 2019)
 
 
 [cpp0x_future_pdf]: https://github.com/faithandbrave/presentations/blob/master/2008.07.12_cpp0x_future/cpp0x_future.pdf
@@ -220,6 +222,12 @@
 [cppmix1_pdf]: https://github.com/faithandbrave/presentations/blob/master/2018.12.06_cppmix_01/cppmix_01.pdf
 [cppmix1_pptx]: https://github.com/faithandbrave/presentations/blob/master/2018.12.06_cppmix_01/cppmix_01.pptx
 [cppmix1_slide]: https://www.slideshare.net/faithandbrave/cppmix-01
+[cppmix2_pdf]: https://github.com/faithandbrave/presentations/blob/master/2019.02.20_cppmix_02/cppmix_02.pdf
+[cppmix2_pptx]: https://github.com/faithandbrave/presentations/blob/master/2019.02.20_cppmix_02/cppmix_02.pptx
+[cppmix2_slide]: https://www.slideshare.net/faithandbrave/cppmix-02
+[cpp20lang_pdf]: https://github.com/faithandbrave/presentations/blob/master/2019.04.16_cppmix_03/cpp20_overview_lang.pdf
+[cpp20lang_pptx]: https://github.com/faithandbrave/presentations/blob/master/2019.04.16_cppmix_03/cpp20_overview_lang.pptx
+[cpp20lang_slide]: https://www.slideshare.net/faithandbrave/cpp20-overview-language-features
 
 [boost1]: http://boostjp.github.io/study_meeting/study1.html
 [boost2]: http://boostjp.github.io/study_meeting/study2.html
@@ -258,6 +266,10 @@
 [kyon_kaori_wedding]: http://peatix.com/event/29745
 [gree_tech_talk5]: http://techtalk5.labs.gree.jp/
 [cppmix1]: https://cppmix.connpass.com/event/107576/
+[cppmix2]: https://cppmix.connpass.com/event/115640/
+[cppmix3]: https://cppmix.connpass.com/event/124862/
+[cpp20survey]: https://cpp20survey.connpass.com/event/124051/
+[cpp20survey2]: https://cpp20survey.connpass.com/event/126691/
 
 
 ## Public Presentations (in English)
@@ -326,6 +338,10 @@
 - [Boost.StudyMeeting #19 Tokyo][boost19] December, 05, 2015
 - [Boost.StudyMeeting #20 Tokyo][boost20] July, 23, 2016
 - [C++ MIX #1][cppmix1] December, 06, 2018
+- [C++ MIX #2][cppmix2] February, 20, 2019
+- [C++20 Survey][cpp20survey] April, 02, 2019
+- [C++ MIX #3][cppmix3] April, 16, 2019
+- [C++20 Survey #2][cpp20survey2] May, 17, 2019
 
 [game_dev]: http://partake.in/events/ce57b266-069e-4feb-8a56-94bc4764b0e8
 [boost_adv_2011]: http://partake.in/events/597a0fc3-0e3a-47a3-8fc3-4f32ad846a3d
