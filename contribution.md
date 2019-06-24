@@ -124,6 +124,7 @@ GCCと、libstdc++(GCC付属のC++標準ライブラリ + α)へのバグ報告
 1. [Bug 65790 - compilation error : receive `std::index_sequnece`](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=65790)
 1. [Bug 83891 - `std::filesystem::path::is_absolute` for Windows](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=83891)
 1. [Bug 87226 - doesn't work `std::filesystem::directory_options::follow_directory_symlink`](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=87226)
+1. [Bug 90455 - braced-init and incomplete type instantiation](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=90455)
 
 
 ## LLVM
