@@ -62,6 +62,7 @@
 - \[[pdf][cppmix1_pdf]\]\[[pptx][cppmix1_pptx]\]\[[slide][cppmix1_slide]\] 「C++ MIX #1 オープニング」 [C++ MIX #1][cppmix1] 2018/12/06
 - \[[pdf][cppmix2_pdf]\]\[[pptx][cppmix2_pptx]\]\[[slide][cppmix2_slide]\] 「C++ MIX #2 オープニング」 [C++ MIX #2][cppmix2] 2019/02/20
 - \[[pdf][cpp20lang_pdf]\]\[[pptx][cpp20lang_pptx]\]\[[slide][cpp20lang_slide]\] 「C++20の概要 #1 言語機能編」 [C++ MIX #3][cppmix3] 2019/04/16
+- \[[pdf][cpp20status_pdf]\]\[[pptx][cpp20status_pptx]\]\[[slide][cpp20status_slide]\] 「C++20ステータス」 [C++ MIX #5][cppmix5] 2019/09/04
 
 [cpp0x_future_pdf]: https://github.com/faithandbrave/presentations/blob/master/2008.07.12_cpp0x_future/cpp0x_future.pdf
 [cpp0x_future_pptx]: https://github.com/faithandbrave/presentations/blob/master/2008.07.12_cpp0x_future/cpp0x_future.pptx
@@ -232,6 +233,9 @@
 [cpp20lang_pdf]: https://github.com/faithandbrave/presentations/blob/master/2019.04.16_cppmix_03/cpp20_overview_lang.pdf
 [cpp20lang_pptx]: https://github.com/faithandbrave/presentations/blob/master/2019.04.16_cppmix_03/cpp20_overview_lang.pptx
 [cpp20lang_slide]: https://www.slideshare.net/faithandbrave/cpp20-overview-language-features
+[cpp20status_pdf]: https://github.com/faithandbrave/presentations/blob/master/2019.09.04_cppmix_05/cpp20_status.pdf
+[cpp20status_pptx]: https://github.com/faithandbrave/presentations/blob/master/2019.09.04_cppmix_05/cpp20_status.pptx
+[cpp20status_slide]: https://speakerdeck.com/faithandbrave/c-plus-plus-20-status
 
 [boost1]: http://boostjp.github.io/study_meeting/study1.html
 [boost2]: http://boostjp.github.io/study_meeting/study2.html
@@ -273,6 +277,7 @@
 [cppmix1]: https://cppmix.connpass.com/event/107576/
 [cppmix2]: https://cppmix.connpass.com/event/115640/
 [cppmix3]: https://cppmix.connpass.com/event/124862/
+[cppmix5]: https://cppmix.connpass.com/event/141908/
 [cpp20survey]: https://cpp20survey.connpass.com/event/124051/
 [cpp20survey2]: https://cpp20survey.connpass.com/event/126691/
 
