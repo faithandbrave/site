@@ -81,6 +81,7 @@ C++の準標準ライブラリBoost。
 1. [GitHub website #203 1.63.0 release note : fix link](https://github.com/boostorg/website/pull/203)
 1. [GitHub website #227 1.64.0 : fix typo s/booststamp/bootstamp/](https://github.com/boostorg/website/pull/227)
 1. [GitHub interprocess #36 fix typo history : s/booststamp/bootstamp/](https://github.com/boostorg/interprocess/pull/36)
+1. [GitHub website #492 1.73.0 fix lexical cast link](https://github.com/boostorg/website/pull/492)
 
 
 ### 機能のコミット(Commit features)
