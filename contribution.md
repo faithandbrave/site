@@ -82,6 +82,7 @@ C++の準標準ライブラリBoost。
 1. [GitHub website #227 1.64.0 : fix typo s/booststamp/bootstamp/](https://github.com/boostorg/website/pull/227)
 1. [GitHub interprocess #36 fix typo history : s/booststamp/bootstamp/](https://github.com/boostorg/interprocess/pull/36)
 1. [GitHub website #492 1.73.0 fix lexical cast link](https://github.com/boostorg/website/pull/492)
+1. [GitHub beast #2007 release note : fix typo](https://github.com/boostorg/beast/pull/2007)
 
 
 ### 機能のコミット(Commit features)
@@ -112,6 +113,8 @@ C++標準言語仕様のドラフト。
 1. [#1770 `shared_ptr` `operator<` : add missing typename](https://github.com/cplusplus/draft/pull/1770)
 1. [#2824 add forward declaration of `atomic` class for `atomic<shared_ptr<T>>` (P0718R2)](https://github.com/cplusplus/draft/pull/2824)
 1. [#3377 `day`'s `operator-` : add missing close bracket](https://github.com/cplusplus/draft/pull/3377)
+1. [#4304 `year_month_weekday` ctor : fix object name](https://github.com/cplusplus/draft/pull/4304)
+
 
 ## GCC - GNU C++ Compiler
 GCCと、libstdc++(GCC付属のC++標準ライブラリ + α)へのバグ報告
@@ -128,6 +131,7 @@ GCCと、libstdc++(GCC付属のC++標準ライブラリ + α)へのバグ報告
 1. [Bug 87226 - doesn't work `std::filesystem::directory_options::follow_directory_symlink`](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=87226)
 1. [Bug 90455 - braced-init and incomplete type instantiation](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=90455)
 1. [Bug 91748 - doesn't compile `std::for_each_n` with random access iterator range](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=91748)
+1. [Bug 97613 - `chrono::year_month_weekday` cast to `sys_days` : return bad value if `index() == 0`](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97613)
 
 
 ## LLVM
@@ -172,4 +176,8 @@ Elixirのリリースマネージャー
 
 1. [#126 fix changed output color](https://github.com/bitwalker/distillery/pull/126)
 
+## takasumasakazu/ChinaOpensourceResearch
+中国オープンソース研究
+
+1. [#1 README : 箇条書きの表示崩れを修正](https://github.com/takasumasakazu/ChinaOpensourceResearch/pull/1)
 
