@@ -83,6 +83,9 @@ C++の準標準ライブラリBoost。
 1. [GitHub interprocess #36 fix typo history : s/booststamp/bootstamp/](https://github.com/boostorg/interprocess/pull/36)
 1. [GitHub website #492 1.73.0 fix lexical cast link](https://github.com/boostorg/website/pull/492)
 1. [GitHub beast #2007 release note : fix typo](https://github.com/boostorg/beast/pull/2007)
+1. [GitHub website #565 1.75.0 release note : fix alphabetical order](https://github.com/boostorg/website/pull/565)
+1. [GitHub website #655 1.78.0 : fix regex issues URL](https://github.com/boostorg/website/pull/655)
+1. [GitHub website #656 1.78.0 : file link for changelog of log library](https://github.com/boostorg/website/pull/656)
 
 
 ### 機能のコミット(Commit features)
@@ -114,6 +117,7 @@ C++標準言語仕様のドラフト。
 1. [#2824 add forward declaration of `atomic` class for `atomic<shared_ptr<T>>` (P0718R2)](https://github.com/cplusplus/draft/pull/2824)
 1. [#3377 `day`'s `operator-` : add missing close bracket](https://github.com/cplusplus/draft/pull/3377)
 1. [#4304 `year_month_weekday` ctor : fix object name](https://github.com/cplusplus/draft/pull/4304)
+1. [#4391 `atomic` `wait`/`notify_one`/`notify_all` : add `volatile` constraints](https://github.com/cplusplus/draft/pull/4391)
 
 
 ## GCC - GNU C++ Compiler
@@ -181,3 +185,8 @@ Elixirのリリースマネージャー
 
 1. [#1 README : 箇条書きの表示崩れを修正](https://github.com/takasumasakazu/ChinaOpensourceResearch/pull/1)
 
+
+## melpon/wandbox-builder
+オンラインコンパイラWandbox
+
+1. [#74 clang >= 12.0 adds c++2b option](https://github.com/melpon/wandbox-builder/pull/74)
