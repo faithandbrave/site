@@ -86,6 +86,10 @@ C++の準標準ライブラリBoost。
 1. [GitHub website #565 1.75.0 release note : fix alphabetical order](https://github.com/boostorg/website/pull/565)
 1. [GitHub website #655 1.78.0 : fix regex issues URL](https://github.com/boostorg/website/pull/655)
 1. [GitHub website #656 1.78.0 : file link for changelog of log library](https://github.com/boostorg/website/pull/656)
+1. [GitHub website #674 1.79.0 : fix typo](https://github.com/boostorg/website/pull/674)
+1. [GitHub website #704 1.80.0 : fix typo of GIL function name](https://github.com/boostorg/website/pull/704)
+1. [Github website #737 1.82.0 : fix issue number](https://github.com/boostorg/website/pull/737)
+1. [GitHub website #749 1.82.0 variant : fix feature name](https://github.com/boostorg/website/pull/749)
 
 
 ### 機能のコミット(Commit features)
