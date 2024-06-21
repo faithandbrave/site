@@ -63,6 +63,13 @@
 - \[[pdf][cppmix2_pdf]\]\[[pptx][cppmix2_pptx]\]\[[slide][cppmix2_slide]\] 「C++ MIX #2 オープニング」 [C++ MIX #2][cppmix2] 2019/02/20
 - \[[pdf][cpp20lang_pdf]\]\[[pptx][cpp20lang_pptx]\]\[[slide][cpp20lang_slide]\] 「C++20の概要 #1 言語機能編」 [C++ MIX #3][cppmix3] 2019/04/16
 - \[[pdf][cpp20status_pdf]\]\[[pptx][cpp20status_pptx]\]\[[slide][cpp20status_slide]\] 「C++20ステータス」 [C++ MIX #5][cppmix5] 2019/09/04
+- \[[pdf][cpp20integer_pdf]\]\[[pptx][cpp20integer_pptx]\]\[[slide][cpp20integer_slide]\] 「C++20の整数」 [talk.cpp][talkcpp] 2021/08/15
+- \[[pdf][opencpp_pdf]\]\[[pptx][opencpp_pptx]\]\[[slide][opencpp_slide]\] 「オープン化が進むC++の現状と展望」 [OSS X Users Meeting #31][ossx31] 2021/08/25
+- \[[pdf][cpp2023_pdf]\]\[[pptx][cpp2023_pptx]\]\[[slide][cpp2023_slide]\] 「C++20からC++23までの変化」 [C++ MIX #8][cppmix8] 2023/12/06
+- \[[pdf][stdex_pdf]\]\[[pptx][stdex_pptx]\]\[[slide][stdex_slide]\] 「使いたい標準C++機能がない環境でいかに実装・設計するか」 [C++ MIX #9][cppmix9] 2024/02/09
+- \[[pdf][ifconstexpr_pdf]\]\[[pptx][ifconstexpr_pptx]\]\[[slide][ifconstexpr_slide]\] 「if constexpr文はテンプレート世界のラムダ式である」 [C++ MIX #10][cppmix10] 2024/04/19
+- \[[pdf][span_pdf]\]\[[pptx][span_pptx]\]\[[slide][span_slide]\] 「コンテナと文字列の中間インタフェース`span`と`string_view`」 [C++ MIX #11][cppmix11] 2024/06/14
+- \[[pdf][stacktrace_pdf]\]\[[pptx][stacktrace_pptx]\]\[[slide][stacktrace_slide]\] 「C++23 スタックトレースライブラリ」 [C++ MIX #11][cppmix11] 2024/06/14
 
 [cpp0x_future_pdf]: https://github.com/faithandbrave/presentations/blob/master/2008.07.12_cpp0x_future/cpp0x_future.pdf
 [cpp0x_future_pptx]: https://github.com/faithandbrave/presentations/blob/master/2008.07.12_cpp0x_future/cpp0x_future.pptx
@@ -236,6 +243,27 @@
 [cpp20status_pdf]: https://github.com/faithandbrave/presentations/blob/master/2019.09.04_cppmix_05/cpp20_status.pdf
 [cpp20status_pptx]: https://github.com/faithandbrave/presentations/blob/master/2019.09.04_cppmix_05/cpp20_status.pptx
 [cpp20status_slide]: https://speakerdeck.com/faithandbrave/c-plus-plus-20-status
+[cpp20integer_pdf]: https://github.com/faithandbrave/presentations/blob/master/2021.08.15_talk.cpp_2021_summer/cpp20_integer.pdf
+[cpp20integer_pptx]: https://github.com/faithandbrave/presentations/blob/master/2021.08.15_talk.cpp_2021_summer/cpp20_integer.pptx
+[cpp20integer_slide]: https://speakerdeck.com/faithandbrave/c-plus-plus-20nozheng-shu
+[opencpp_pdf]: https://github.com/faithandbrave/presentations/blob/master/2021.08.25_oss_x_users_meeting_31/cpp_oss.pdf
+[opencpp_pptx]: https://github.com/faithandbrave/presentations/blob/master/2021.08.25_oss_x_users_meeting_31/cpp_oss.pptx
+[opencpp_slide]: https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang
+[cpp2023_pdf]: https://github.com/faithandbrave/presentations/blob/master/2023.12.06_cppmix_08/cpp20_23.pdf
+[cpp2023_pptx]: https://github.com/faithandbrave/presentations/blob/master/2023.12.06_cppmix_08/cpp20_23.pptx
+[cpp2023_slide]: https://speakerdeck.com/faithandbrave/c-plus-plus-20karac-plus-plus-23madenobian-hua
+[stdex_pdf]: https://github.com/faithandbrave/presentations/blob/master/2024.02.09_cppmix_09/cpp_stdex_impl_design.pdf
+[stdex_pptx]: https://github.com/faithandbrave/presentations/blob/master/2024.02.09_cppmix_09/cpp_stdex_impl_design.pptx
+[stdex_slide]: https://speakerdeck.com/faithandbrave/shi-itaibiao-zhun-c-plus-plus-ji-neng-ganaihuan-jing-deikanishi-zhuang-she-ji-suruka-55e6f70a-5ff8-46f0-9cda-d7229c5e6d65
+[ifconstexpr_pdf]: https://github.com/faithandbrave/presentations/blob/master/2024.04.19_cppmix_10/if_constexpr.pdf
+[ifconstexpr_pptx]: https://github.com/faithandbrave/presentations/blob/master/2024.04.19_cppmix_10/if_constexpr.pptx
+[ifconstexpr_slide]: https://speakerdeck.com/faithandbrave/if-constexprwen-hatenpuretoshi-jie-noramudashi-dearu
+[span_pdf]: https://github.com/faithandbrave/presentations/blob/master/2024.06.14_cppmix_11/span_stringview.pdf
+[span_pptx]: https://github.com/faithandbrave/presentations/blob/master/2024.06.14_cppmix_11/span_stringview.pptx
+[span_slide]: https://speakerdeck.com/faithandbrave/kontenatowen-zi-lie-nozhong-jian-intahuesuspantostring-view
+[stacktrace_pdf]: https://github.com/faithandbrave/presentations/blob/master/2024.06.14_cppmix_11/cpp23_stacktrace.pdf
+[stacktrace_pptx]: https://github.com/faithandbrave/presentations/blob/master/2024.06.14_cppmix_11/cpp23_stacktrace.pptx
+[stacktrace_slide]: https://speakerdeck.com/faithandbrave/c-plus-plus-23-sutatukutoresuraiburari
 
 [boost1]: http://boostjp.github.io/study_meeting/study1.html
 [boost2]: http://boostjp.github.io/study_meeting/study2.html
@@ -278,8 +306,14 @@
 [cppmix2]: https://cppmix.connpass.com/event/115640/
 [cppmix3]: https://cppmix.connpass.com/event/124862/
 [cppmix5]: https://cppmix.connpass.com/event/141908/
+[cppmix8]: https://cppmix.connpass.com/event/301925/
+[cppmix9]: https://cppmix.connpass.com/event/305699/
+[cppmix10]: https://cppmix.connpass.com/event/311283/
+[cppmix11]: https://cppmix.connpass.com/event/319167/
 [cpp20survey]: https://cpp20survey.connpass.com/event/124051/
 [cpp20survey2]: https://cpp20survey.connpass.com/event/126691/
+[talkcpp]: https://talkcpp.connpass.com/event/219429/
+[ossx31]: https://oss-x-users-meeting.connpass.com/event/218793/
 
 
 ## 翻訳

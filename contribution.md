@@ -90,6 +90,7 @@ C++の準標準ライブラリBoost。
 1. [GitHub website #704 1.80.0 : fix typo of GIL function name](https://github.com/boostorg/website/pull/704)
 1. [Github website #737 1.82.0 : fix issue number](https://github.com/boostorg/website/pull/737)
 1. [GitHub website #749 1.82.0 variant : fix feature name](https://github.com/boostorg/website/pull/749)
+1. [Github website #798 1.84.0 : remove duplicate line](https://github.com/boostorg/website/pull/798)
 
 
 ### 機能のコミット(Commit features)
@@ -140,6 +141,7 @@ GCCと、libstdc++(GCC付属のC++標準ライブラリ + α)へのバグ報告
 1. [Bug 90455 - braced-init and incomplete type instantiation](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=90455)
 1. [Bug 91748 - doesn't compile `std::for_each_n` with random access iterator range](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=91748)
 1. [Bug 97613 - `chrono::year_month_weekday` cast to `sys_days` : return bad value if `index() == 0`](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97613)
+1. [Bug 115063 - compilation error: `std::basic_stracktrace::max_size()`](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=115063)
 
 
 ## LLVM

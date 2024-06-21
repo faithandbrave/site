@@ -15,6 +15,7 @@ Born March 1, 1985 Miyagi-ken. Japan
 - [P-Stade C++ Libraries](http://p-stade.sourceforge.net/) manager
 - [Boost Geometry Library](http://www.boost.org/libs/geometry/doc/html/index.html) contributor
 - [Boost.StudyMeeting](http://boostjp.github.io/study_meeting.html) organizer
+- [C++ MIX](https://cppmix.connpass.com/) organizer
 
 
 ## Blogs
@@ -33,25 +34,7 @@ Born March 1, 1985 Miyagi-ken. Japan
 
 
 ## Skill in Programming Language
-C++, Elixir, Ruby, Haskell, Scala, C#, Objective-C++, PHP.
-
-
-## Fields of Programming
-Metaprogramming, Object-Oriented Programming, Functional Programming, Generic Programming, Multi-Paradigm Design, EDSL, Domain Driven Development, Game Programming, Network Programming, Parallel Programming, Syntax Analysis, Image Processing, Testable Design, Syntactic Analysis, Asynchronous Processing, Coroutine.
-
-
-## Fields of Management
-Agile、Unified Process。
-
-
-## Interested in Programming Skills (2013/10/16)
-Parallel Program Abstraction, GPGPU, Functional Reactive Programming, Distribution Processing, Graph Theory, Image Recognition, Statistics。
-
-
-## Study Meeting Activities
-- [ATND](http://atnd.org/users/3333)
-- [PARTAKE](http://partake.in/users/05d895a6-5ca5-4777-b38f-c8a5a8c699d9)
-- [connpass](http://connpass.com/user/faithandbrave/)
+C++, Python, Elixir, Ruby, Haskell, Scala, C#, Objective-C++, PHP.
 
 
 ## Use Web Servies

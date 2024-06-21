@@ -4,7 +4,7 @@
 
 ![](./image/akira_face.png)
 
-高橋 晶(Akira Takahashi)
+cpprefjp代表 高橋 晶(Akira Takahashi)
 1985年3月1日生まれ。
 宮城県登米市出身、東京都在住。
 
@@ -16,6 +16,7 @@
 - [P-Stade C++ Libraries](http://p-stade.sourceforge.net/) 現マネージャ
 - [Boost Geometry Library](http://www.boost.org/libs/geometry/doc/html/index.html) コントリビュータ
 - [Boost.勉強会](http://boostjp.github.io/study_meeting.html) 主催者
+- [C++ MIX](https://cppmix.connpass.com/) 主催者
 
 
 ## ブログ
@@ -34,26 +35,45 @@
 
 
 ## 主に使用している言語
-C++, Elixir, Rubym C#, Objective-C++, PHP。
+C++, Python, Elixir, Ruby, C#, Objective-C++, PHP。
 Scala、Haskellなどもある程度使える。
 
 
-## 使用している技術・分野
-メタプログラミング、オブジェクト指向プログラミング、関数型プログラミング、ジェネリックプログラミング、マルチパラダイムデザイン、EDSL、ドメイン駆動開発、ゲームプログラミング、ネットワークプログラミング、並列処理、構文解析、画像処理、テスト可能な設計、構文解析、非同期処理、コルーチンなど。
+## 職歴
 
-
-## 使用しているマネジメント技術
-アジャイル、Unified Process。
-
-
-## 最近の技術的な関心(2013/10/16現在)
-並列処理の抽象化、GPGPU、Functional Reactive Programming、分散処理、グラフ理論、画像認識、統計。
-
-
-## 勉強会参加情報
-- [ATND](http://atnd.org/users/3333)
-- [PARTAKE](http://partake.in/users/05d895a6-5ca5-4777-b38f-c8a5a8c699d9)
-- [connpass](http://connpass.com/user/faithandbrave/)
+- 2005年〜2007年 運送会社向け配送管理システム
+    - Windows CE端末向けのクライアント (C++) および、Windows Server上でのサーバープログラム (C++)
+    - Windows CE向けはコンパイラがVisual C++ 6.0よりさらに制限された環境だったため、C++98標準のサブセット言語だった。その環境でBoost C++ Librariesの必要な機能を実装して使用していた
+    - サーバーとはTCPベースの通信プロトコルでリアルタイム通信を行い、Oracleデータベースとやりとりしていた
+- 2008年〜2009年 iOS向けゲーム開発
+    - スクウェア・エニックス様のiOS初タイトル『クリスタル・ディフェンダーズ』および第2作『国破れて山河あり』を開発
+    - iOS 2.1時代だったためNDAが厳しく、開発者間での情報交換も禁止されていた。英語の公式ドキュメントと少しのフォーラム情報しかないなかで、ドキュメントを日本語に翻訳してチーム内で共有、開発していた
+    - 開発言語はObjective-C++
+    - OpenGLでの描画、OpenALでの音楽再生
+- 2010年〜2017年
+    - 子供向け車育iPhoneアプリケーション (Objective-C)
+    - 電子書籍iPhoneアプリケーション (C++, OpenGL)
+    - ガンホー・オンライン・エンターテインメント社 『ラグナロク・オデッセイエース』 (C++, PlayStation Vita)
+        - モンスターおよび弾丸の動きを担当
+    - プロのプログラマ向けのトレーニング・教育
+        - 設計、開発プロセス、テスト駆動開発など
+    - 3Dブラウザゲーム (C++, Emscripten)
+        - OpenGLを使用したC++プログラムをEmscriptenでJavaScriptにコンパイルし、ブラウザ上での3Dゲームを開発した
+    - コーエーテクモ社 ガストブランド 『拡張少女トライナリー』
+        - Unity 3Dゲームエンジンによる、スマートフォン向け3Dゲームを開発
+        - クライアント (C#)、およびサーバー (Python, Django) を担当
+    - スマートフォン向けリアルタイム・ストラテジーゲーム
+        - Photonゲームエンジン (C#) とUnity 3Dによるリアルタイム通信対戦を開発
+    - スマートフォン向けクイズゲームのサーバー開発
+        - Elixirを使用してクイズゲームのサーバーを開発
+    - プログラミング雑誌『プログラミングの魔導書』をVol.1〜Vol.3まで刊行
+        - C++創始者Bjarne Stroustrup氏など著名人へのインタビューに加え、日本の各プログラミング言語の第一人者の方々に記事を書いていただいた
+        - 中・上級者向けのプログラミング書籍が少ない中で、高度な話題を集めたプログラミング雑誌を作ることができた
+- 2017年〜 株式会社Preferred Networks
+    - ディープラーニング向けアクセラレーターであるMN-Coreの開発に参加
+        - エミュレータやアセンブラなどを開発 (C++、Python)
+- 2023年〜 ゲーム開発
+    - 株式会社TVT様のP2P通信ゲームエンジン『Theory』の開発に参加
 
 
 ## その他利用サービス
