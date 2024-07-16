@@ -2,6 +2,23 @@
 
 [English version](./publication/english.html)
 
+## 書籍
+- [『C++テンプレートテクニック』](./books/cpptt.html) ソフトバンククリエイティブより出版 2009/04
+- 『プログラミングの魔導書 vol.1 Construct the World, C++』 株式会社ロングゲートより出版 2010/08
+-  書籍『100人のプロが選んだソフトウェア開発の名著 君のために選んだ1冊』中の記事「ジェネレーティブプログラマへの道」 翔泳社より出版 2012/02
+- 『C++ポケットリファレンス』 技術評論社より出版 2013/05
+- 『プログラミングの魔導書 vol.3 Parallel, Concurrent, and Distributed Programming』 株式会社ロングゲートより出版 2013/12
+- 『C++テンプレートテクニック 第2版』 SBクリエイティブより出版 2014/04
+- 『改訂新版 C++ポケットリファレンス』 技術評論社より出版 2015/06
+
+
+## 記事寄稿
+- 「まもなく訪れるC++0x」 [情報処理 【2011】Vol.52 No.7 通巻556号](http://www.bookpark.ne.jp/cm/ipsj/mokuji.asp?category1=Magazine&vol=52&no=7) 2011/06
+- 「Boost C++ Libraries」 [プログラミングの魔導少女](https://sites.google.com/site/sapporocpp/linguamagi) 2011/06
+- 「C++の新たなる世界」 [日経ソフトウエア 2011年12月号](http://www.amazon.co.jp/gp/product/B005STT0ZY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=faithandbrave-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B005STT0ZY) 2011/11
+- 「[より価値の高いソフトウェアを開発するために。C++エキスパート・高橋晶が薦める、C++の技術書5選](https://levtech.jp/media/article/column/detail_476/)」 [レバテックLAB](https://levtech.jp/media/) 2024/07
+
+
 ## 発表履歴
 - \[[pdf][cpp0x_future_pdf]\]\[[pptx][cpp0x_future_pdf]\]\[[slideshare][cpp0x_future_slide]\] 「C++0x 言語の未来を語る」 [わんくま同盟 東京勉強会 #22][wankuma22] 2008/07/12
 - \「C++ Dayパネル・ディスカッション」 パネラーとして登壇 [わんくま同盟 横浜勉強会 #1][wankuma_yokohama1] 2008/08/30
@@ -387,22 +404,6 @@
 [boost_adv_2011]: http://partake.in/events/597a0fc3-0e3a-47a3-8fc3-4f32ad846a3d
 [haskell_adv_2011]: http://partake.in/events/eaea52c2-61ef-46d5-a855-3a2dde459e3a
 [cpp_adv_2012]: http://partake.in/events/a02d7049-1473-4b69-b5ad-25ed416c5557
-
-
-## 書籍
-- [『C++テンプレートテクニック』](./books/cpptt.html) ソフトバンククリエイティブより出版 2009/04
-- 『プログラミングの魔導書 vol.1 Construct the World, C++』 株式会社ロングゲートより出版 2010/08
--  書籍『100人のプロが選んだソフトウェア開発の名著 君のために選んだ1冊』中の記事「ジェネレーティブプログラマへの道」 翔泳社より出版 2012/02
-- 『C++ポケットリファレンス』 技術評論社より出版 2013/05
-- 『プログラミングの魔導書 vol.3 Parallel, Concurrent, and Distributed Programming』 株式会社ロングゲートより出版 2013/12
-- 『C++テンプレートテクニック 第2版』 SBクリエイティブより出版 2014/04
-- 『改訂新版 C++ポケットリファレンス』 技術評論社より出版 2015/06
-
-
-## 記事寄稿
-- 「まもなく訪れるC++0x」 [情報処理 【2011】Vol.52 No.7 通巻556号](http://www.bookpark.ne.jp/cm/ipsj/mokuji.asp?category1=Magazine&vol=52&no=7) 2011/06
-- 「Boost C++ Libraries」 [プログラミングの魔導少女](https://sites.google.com/site/sapporocpp/linguamagi) 2011/06
-- 「C++の新たなる世界」 [日経ソフトウエア 2011年12月号](http://www.amazon.co.jp/gp/product/B005STT0ZY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=faithandbrave-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B005STT0ZY) 2011/11
 
 
 ## レビューへの参加

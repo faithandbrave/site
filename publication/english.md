@@ -1,5 +1,22 @@
 # Publication
 
+## Published Books
+- ["C++ Template Techniques"](./books/cpptt.html) published by SOFTBANK Creative (April 2009)
+- "Programmers' Grimoire vol.1 Construct the World, C++" published by LongGate (August 2010)
+- "Road to Generative Programmer" of "The Great Books of Software Development - 100 Professionals recommend for You" published by SHOEISHA (February 2012)
+- "C++ Pocket Reference" published by Gijutsu-Hyohron (May 2013)
+- "Programmers' Grimoire vol.3 Parallel, Concurrent, and Distributed Programming" published by LongGate (December 2013)
+- "C++ Template Techniques 2nd Edition" SB Creative (April 2014)
+- "C++ Pocket Reference 2nd Edition" published by Gijutsu-Hyohron (June 2015)
+- ["5 C++ technical books recommended by Akira Takahashi, C++ expert, to develop more valuable software"](https://levtech.jp/media/article/column/detail_476/) [LevTech Lab](https://levtech.jp/media/) (July 2024)
+
+
+## Articles and Papers
+- "Coming Soon C++0x" [ISPJ 2011 Vol.52 No.7](http://www.bookpark.ne.jp/cm/ipsj/mokuji.asp?category1=Magazine&vol=52&no=7) (June 2011)
+- "Boost C++ Libraries" [Puella Magi of Programming](https://sites.google.com/site/sapporocpp/linguamagi) (June 2011)
+- "C++ New World" [Nikkei Software December 2011](http://www.amazon.co.jp/gp/product/B005STT0ZY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=faithandbrave-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B005STT0ZY) (November 2011)
+
+
 ## Public Presentations (in Japanese)
 - \[[pdf][cpp0x_future_pdf]\]\[[pptx][cpp0x_future_pdf]\]\[[slideshare][cpp0x_future_slide]\] "C++0x - Talk about the future of language" at [Wankuma Study Meeting in Tokyo #22][wankuma22] (July 12, 2008)
 - A panelist of C++ Day panel discussion at [Wankuma Study Meeting in Yokohama #1][wankuma_yokohama1] (August 30, 2008)
@@ -386,22 +403,6 @@
 [boost_adv_2011]: http://partake.in/events/597a0fc3-0e3a-47a3-8fc3-4f32ad846a3d
 [haskell_adv_2011]: http://partake.in/events/eaea52c2-61ef-46d5-a855-3a2dde459e3a
 [cpp_adv_2012]: http://partake.in/events/a02d7049-1473-4b69-b5ad-25ed416c5557
-
-
-## Published Books
-- ["C++ Template Techniques"](./books/cpptt.html) published by SOFTBANK Creative (April 2009)
-- "Programmers' Grimoire vol.1 Construct the World, C++" published by LongGate (August 2010)
-- "Road to Generative Programmer" of "The Great Books of Software Development - 100 Professionals recommend for You" published by SHOEISHA (February 2012)
-- "C++ Pocket Reference" published by Gijutsu-Hyohron (May 2013)
-- "Programmers' Grimoire vol.3 Parallel, Concurrent, and Distributed Programming" published by LongGate (December 2013)
-- "C++ Template Techniques 2nd Edition" SB Creative (April 2014)
-- "C++ Pocket Reference 2nd Edition" published by Gijutsu-Hyohron (June 2015)
-
-
-## Articles and Papers
-- "Coming Soon C++0x" [ISPJ 2011 Vol.52 No.7](http://www.bookpark.ne.jp/cm/ipsj/mokuji.asp?category1=Magazine&vol=52&no=7) (June 2011)
-- "Boost C++ Libraries" [Puella Magi of Programming](https://sites.google.com/site/sapporocpp/linguamagi) (June 2011)
-- "C++ New World" [Nikkei Software December 2011](http://www.amazon.co.jp/gp/product/B005STT0ZY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=faithandbrave-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B005STT0ZY) (November 2011)
 
 
 ## Reviewed Books
