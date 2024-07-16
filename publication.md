@@ -16,6 +16,7 @@
 - 「まもなく訪れるC++0x」 [情報処理 【2011】Vol.52 No.7 通巻556号](http://www.bookpark.ne.jp/cm/ipsj/mokuji.asp?category1=Magazine&vol=52&no=7) 2011/06
 - 「Boost C++ Libraries」 [プログラミングの魔導少女](https://sites.google.com/site/sapporocpp/linguamagi) 2011/06
 - 「C++の新たなる世界」 [日経ソフトウエア 2011年12月号](http://www.amazon.co.jp/gp/product/B005STT0ZY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=faithandbrave-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B005STT0ZY) 2011/11
+- 「先取り！C++23 - C++の歴史と最新機能を徹底解説」 [Software Design 2023年3月号](https://gihyo.jp/magazine/SD/archive/2023/202303) 2023/03
 - 「[より価値の高いソフトウェアを開発するために。C++エキスパート・高橋晶が薦める、C++の技術書5選](https://levtech.jp/media/article/column/detail_476/)」 [レバテックLAB](https://levtech.jp/media/) 2024/07
 
 

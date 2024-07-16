@@ -8,13 +8,14 @@
 - "Programmers' Grimoire vol.3 Parallel, Concurrent, and Distributed Programming" published by LongGate (December 2013)
 - "C++ Template Techniques 2nd Edition" SB Creative (April 2014)
 - "C++ Pocket Reference 2nd Edition" published by Gijutsu-Hyohron (June 2015)
-- ["5 C++ technical books recommended by Akira Takahashi, C++ expert, to develop more valuable software"](https://levtech.jp/media/article/column/detail_476/) [LevTech Lab](https://levtech.jp/media/) (July 2024)
 
 
 ## Articles and Papers
 - "Coming Soon C++0x" [ISPJ 2011 Vol.52 No.7](http://www.bookpark.ne.jp/cm/ipsj/mokuji.asp?category1=Magazine&vol=52&no=7) (June 2011)
 - "Boost C++ Libraries" [Puella Magi of Programming](https://sites.google.com/site/sapporocpp/linguamagi) (June 2011)
 - "C++ New World" [Nikkei Software December 2011](http://www.amazon.co.jp/gp/product/B005STT0ZY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=faithandbrave-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B005STT0ZY) (November 2011)
+- "C++23 - A Thorough Explanation of the History and Latest Features of C++" [Software Design 2023/March](https://gihyo.jp/magazine/SD/archive/2023/202303) (March 2023)
+- ["5 C++ technical books recommended by Akira Takahashi, C++ expert, to develop more valuable software"](https://levtech.jp/media/article/column/detail_476/) [LevTech Lab](https://levtech.jp/media/) (July 2024)
 
 
 ## Public Presentations (in Japanese)
