@@ -18,6 +18,7 @@
 - 「C++の新たなる世界」 [日経ソフトウエア 2011年12月号](http://www.amazon.co.jp/gp/product/B005STT0ZY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=faithandbrave-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B005STT0ZY) 2011/11
 - 「先取り！C++23 - C++の歴史と最新機能を徹底解説」 [Software Design 2023年3月号](https://gihyo.jp/magazine/SD/archive/2023/202303) 2023/03
 - 「[より価値の高いソフトウェアを開発するために。C++エキスパート・高橋晶が薦める、C++の技術書5選](https://levtech.jp/media/article/column/detail_476/)」 [レバテックLAB](https://levtech.jp/media/) 2024/07
+- 「[書籍が開発者としての資質を強化する。C++エキスパート・高橋晶が選ぶ、人生に影響を与えた5冊](https://levtech.jp/media/article/column/detail_497/)」 [レバテックLAB](https://levtech.jp/media/) 2024/08
 
 
 ## 発表履歴

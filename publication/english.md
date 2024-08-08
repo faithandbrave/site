@@ -16,6 +16,7 @@
 - "C++ New World" [Nikkei Software December 2011](http://www.amazon.co.jp/gp/product/B005STT0ZY/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=faithandbrave-22&linkCode=as2&camp=247&creative=1211&creativeASIN=B005STT0ZY) (November 2011)
 - "C++23 - A Thorough Explanation of the History and Latest Features of C++" [Software Design 2023/March](https://gihyo.jp/magazine/SD/archive/2023/202303) (March 2023)
 - ["5 C++ technical books recommended by Akira Takahashi, C++ expert, to develop more valuable software"](https://levtech.jp/media/article/column/detail_476/) [LevTech Lab](https://levtech.jp/media/) (July 2024)
+- ["Books strengthen your qualities as a developer; C++ expert Akira Takahashi chooses 5 books that have influenced his life"](https://levtech.jp/media/article/column/detail_476/) [LevTech Lab](https://levtech.jp/media/) (August 2024)
 
 
 ## Public Presentations (in Japanese)
