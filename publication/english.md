@@ -17,6 +17,7 @@
 - "C++23 - A Thorough Explanation of the History and Latest Features of C++" [Software Design 2023/March](https://gihyo.jp/magazine/SD/archive/2023/202303) (March 2023)
 - ["5 C++ technical books recommended by Akira Takahashi, C++ expert, to develop more valuable software"](https://levtech.jp/media/article/column/detail_476/) [LevTech Lab](https://levtech.jp/media/) (July 2024)
 - ["Books strengthen your qualities as a developer; C++ expert Akira Takahashi chooses 5 books that have influenced his life"](https://levtech.jp/media/article/column/detail_476/) [LevTech Lab](https://levtech.jp/media/) (August 2024)
+- ["To remain a responsible communicator, C++ Akira Takahashi considers the real relationship between money and information dissemination."](https://levtech.jp/media/article/column/detail_525/) [LevTech Lab](https://levtech.jp/media/) (September 2024)
 
 
 ## Public Presentations (in Japanese)
