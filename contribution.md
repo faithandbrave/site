@@ -147,6 +147,7 @@ GCCと、libstdc++(GCC付属のC++標準ライブラリ + α)へのバグ報告
 ## LLVM
 
 1. [Bug 38837 - `doesn't work std::filesystem::directory_options::follow_directory_symlink`](https://bugs.llvm.org/show_bug.cgi?id=38837)
+1. [clang++ outputs wrong warning for if constexpr and lambda capture combination #110080](https://github.com/llvm/llvm-project/issues/110080)
 
 
 ## vmg/sundown
