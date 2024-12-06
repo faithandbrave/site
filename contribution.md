@@ -90,7 +90,8 @@ C++の準標準ライブラリBoost。
 1. [GitHub website #704 1.80.0 : fix typo of GIL function name](https://github.com/boostorg/website/pull/704)
 1. [Github website #737 1.82.0 : fix issue number](https://github.com/boostorg/website/pull/737)
 1. [GitHub website #749 1.82.0 variant : fix feature name](https://github.com/boostorg/website/pull/749)
-1. [Github website #798 1.84.0 : remove duplicate line](https://github.com/boostorg/website/pull/798)
+1. [GitHub website #798 1.84.0 : remove duplicate line](https://github.com/boostorg/website/pull/798)
+1. [GitHub website #894 1.87.0: fix contributor name](https://github.com/boostorg/website/pull/894)
 
 
 ### 機能のコミット(Commit features)
