@@ -90,6 +90,10 @@
 - \[[pdf][ifconstexpr_pdf]\]\[[pptx][ifconstexpr_pptx]\]\[[slide][ifconstexpr_slide]\] 「if constexpr文はテンプレート世界のラムダ式である」 [C++ MIX #10][cppmix10] 2024/04/19
 - \[[pdf][span_pdf]\]\[[pptx][span_pptx]\]\[[slide][span_slide]\] 「コンテナと文字列の中間インタフェース`span`と`string_view`」 [C++ MIX #11][cppmix11] 2024/06/14
 - \[[pdf][stacktrace_pdf]\]\[[pptx][stacktrace_pptx]\]\[[slide][stacktrace_slide]\] 「C++23 スタックトレースライブラリ」 [C++ MIX #11][cppmix11] 2024/06/14
+- \[[pdf][erroneous_behavior_pdf]\]\[[pptx][erroneous_behavior_pptx]\]\[[slide][erroneous_behavior_slide]\] 「C++26 エラー性動作」 [C++ MIX #12][cppmix12] 2024/12/20
+- \[[pdf][cpp26_update_202503_pdf]\]\[[pptx][cpp26_update_202503_pptx]\]\[[slide][cpp26_update_202503_slide]\] 「C++26 アップデート 2025-03」 [C++ MIX #14][cppmix14] 2025/04/25
+- \[[pdf][cpp20_projection_pdf]\]\[[pptx][cpp20_projection_pptx]\]\[[slide][cpp20_projection_slide]\] 「C++20 射影変換」 [C++ breaktime 2025/Summer][cpp_breaktime_2025_summer] 2025/06/20
+
 
 [cpp0x_future_pdf]: https://github.com/faithandbrave/presentations/blob/master/2008.07.12_cpp0x_future/cpp0x_future.pdf
 [cpp0x_future_pptx]: https://github.com/faithandbrave/presentations/blob/master/2008.07.12_cpp0x_future/cpp0x_future.pptx
@@ -284,6 +288,15 @@
 [stacktrace_pdf]: https://github.com/faithandbrave/presentations/blob/master/2024.06.14_cppmix_11/cpp23_stacktrace.pdf
 [stacktrace_pptx]: https://github.com/faithandbrave/presentations/blob/master/2024.06.14_cppmix_11/cpp23_stacktrace.pptx
 [stacktrace_slide]: https://speakerdeck.com/faithandbrave/c-plus-plus-23-sutatukutoresuraiburari
+[erroneous_behavior_pdf]: https://github.com/faithandbrave/presentations/blob/master/2024.12.20_cppmix_12/erroneous_behavior.pdf
+[erroneous_behavior_pptx]: https://github.com/faithandbrave/presentations/blob/master/2024.12.20_cppmix_12/erroneous_behavior.pptx
+[erroneous_behavior_slide]: https://speakerdeck.com/faithandbrave/c-plus-plus-26-eraxing-dong-zuo
+[cpp26_update_202503_pdf]: https://github.com/faithandbrave/presentations/blob/master/2025.04.25_cppmix_14/cpp26_update_202503.pdf
+[cpp26_update_202503_pptx]: https://github.com/faithandbrave/presentations/blob/master/2025.04.25_cppmix_14/cpp26_update_202503.pptx
+[cpp26_update_202503_slide]: https://speakerdeck.com/faithandbrave/c-plus-plus-26atupudeto-2025-03
+[cpp20_projection_pdf]: https://github.com/faithandbrave/presentations/blob/master/2025.06.20_cpp_breaktime_2025_summer/cpp20_algorithm_projection.pdf
+[cpp20_projection_pptx]: https://github.com/faithandbrave/presentations/blob/master/2025.06.20_cpp_breaktime_2025_summer/cpp20_algorithm_projection.pptx
+[cpp20_projection_slide]: https://speakerdeck.com/faithandbrave/c-plus-plus-20-she-ying-bian-huan
 
 [boost1]: http://boostjp.github.io/study_meeting/study1.html
 [boost2]: http://boostjp.github.io/study_meeting/study2.html
@@ -330,10 +343,13 @@
 [cppmix9]: https://cppmix.connpass.com/event/305699/
 [cppmix10]: https://cppmix.connpass.com/event/311283/
 [cppmix11]: https://cppmix.connpass.com/event/319167/
+[cppmix12]: https://cppmix.connpass.com/event/337028/
+[cppmix14]: https://cppmix.connpass.com/event/349703/
 [cpp20survey]: https://cpp20survey.connpass.com/event/124051/
 [cpp20survey2]: https://cpp20survey.connpass.com/event/126691/
 [talkcpp]: https://talkcpp.connpass.com/event/219429/
 [ossx31]: https://oss-x-users-meeting.connpass.com/event/218793/
+[cpp_breaktime_2025_summer]: https://cpp-osaka.connpass.com/event/356031/
 
 
 ## 翻訳
