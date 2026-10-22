@@ -10,6 +10,9 @@
 - 『プログラミングの魔導書 vol.3 Parallel, Concurrent, and Distributed Programming』 株式会社ロングゲートより出版 2013/12
 - 『C++テンプレートテクニック 第2版』 SBクリエイティブより出版 2014/04
 - 『改訂新版 C++ポケットリファレンス』 技術評論社より出版 2015/06
+- 『［改訂第3版］C++ポケットリファレンス』 技術評論社より出版 2018/02
+- 『［改訂第4版］C++ポケットリファレンス』 技術評論社より出版 2021/04
+- 『［改訂第5版］C++ポケットリファレンス』 技術評論社より出版 2024/04
 
 
 ## 記事寄稿
@@ -23,7 +26,7 @@
 
 
 ## 発表履歴
-- \[[pdf][cpp0x_future_pdf]\]\[[pptx][cpp0x_future_pdf]\]\[[slideshare][cpp0x_future_slide]\] 「C++0x 言語の未来を語る」 [わんくま同盟 東京勉強会 #22][wankuma22] 2008/07/12
+- \[[pdf][cpp0x_future_pdf]\]\[[pptx][cpp0x_future_pptx]\]\[[slideshare][cpp0x_future_slide]\] 「C++0x 言語の未来を語る」 [わんくま同盟 東京勉強会 #22][wankuma22] 2008/07/12
 - \「C++ Dayパネル・ディスカッション」 パネラーとして登壇 [わんくま同盟 横浜勉強会 #1][wankuma_yokohama1] 2008/08/30
 - \[[pdf][cpp0x_tmp_pdf]\]\[[pptx][cpp0x_tmp_pptx]\]\[[slideshare][cpp0x_tmp_slide]\] 「C++テンプレートメタプログラミング」 [型レベルプログラミングの会][type_level] 2009/04/18
 - \[[pdf][cpp0x_typelist_pdf]\]\[[pptx][cpp0x_typelist_pptx]\]\[[slideshare][cpp0x_typelist_slide]\] 「C++0x 可変引数テンプレートでの型リスト」 [型レベルプログラミングの会][type_level] 2009/04/18
@@ -79,8 +82,6 @@
 - \[[pdf][boost_tour_1_61_merge_pdf]\]\[[key][boost_tour_1_61_merge_key]\]\[[slide][boost_tour_1_61_merge_slide]\] 「Boostライブラリ一周の旅 1.61.0 merge」 [Boost.勉強会 #20 東京][boost20] 2016/07/23
 - \[[pdf][cpp1z_overview_pdf]\]\[[key][cpp1z_overview_key]\]\[[slide][cpp1z_overview_slide]\] 「C++1zに現状入る予定の言語拡張」 [Boost.勉強会 #20 東京][boost20] 2016/07/23
 - \[[pdf][cpprefjp_docs_pdf]\]\[[key][cpprefjp_docs_key]\]\[[slide][cpprefjp_docs_slide]\] 「C++リファレンスサイトcpprefjpでのドキュメンテーション」 [OSSドキュメンテーション勉強会][oss_docs] 2017/11/18
-- \[[pdf][cppmix1_pdf]\]\[[pptx][cppmix1_pptx]\]\[[slide][cppmix1_slide]\] 「C++ MIX #1 オープニング」 [C++ MIX #1][cppmix1] 2018/12/06
-- \[[pdf][cppmix2_pdf]\]\[[pptx][cppmix2_pptx]\]\[[slide][cppmix2_slide]\] 「C++ MIX #2 オープニング」 [C++ MIX #2][cppmix2] 2019/02/20
 - \[[pdf][cpp20lang_pdf]\]\[[pptx][cpp20lang_pptx]\]\[[slide][cpp20lang_slide]\] 「C++20の概要 #1 言語機能編」 [C++ MIX #3][cppmix3] 2019/04/16
 - \[[pdf][cpp20status_pdf]\]\[[pptx][cpp20status_pptx]\]\[[slide][cpp20status_slide]\] 「C++20ステータス」 [C++ MIX #5][cppmix5] 2019/09/04
 - \[[pdf][cpp20integer_pdf]\]\[[pptx][cpp20integer_pptx]\]\[[slide][cpp20integer_slide]\] 「C++20の整数」 [talk.cpp][talkcpp] 2021/08/15
@@ -93,6 +94,7 @@
 - \[[pdf][erroneous_behavior_pdf]\]\[[pptx][erroneous_behavior_pptx]\]\[[slide][erroneous_behavior_slide]\] 「C++26 エラー性動作」 [C++ MIX #12][cppmix12] 2024/12/20
 - \[[pdf][cpp26_update_202503_pdf]\]\[[pptx][cpp26_update_202503_pptx]\]\[[slide][cpp26_update_202503_slide]\] 「C++26 アップデート 2025-03」 [C++ MIX #14][cppmix14] 2025/04/25
 - \[[pdf][cpp20_projection_pdf]\]\[[pptx][cpp20_projection_pptx]\]\[[slide][cpp20_projection_slide]\] 「C++20 射影変換」 [C++ breaktime 2025/Summer][cpp_breaktime_2025_summer] 2025/06/20
+- \[[pdf][webrtc_pdf]\]\[[pptx][webrtc_pptx]\]\[[slide][webrtc_slide]\] 「P2P通信の標準化 WebRTCを知ろう」 [C++ MIX #15][cppmix15] 2025/07/18
 
 
 [cpp0x_future_pdf]: https://github.com/faithandbrave/presentations/blob/master/2008.07.12_cpp0x_future/cpp0x_future.pdf
@@ -255,12 +257,6 @@
 [cpprefjp_docs_pdf]: https://github.com/faithandbrave/presentations/blob/master/2017.11.18_oss_documentation/cpprefjp_documentation.pdf
 [cpprefjp_docs_key]: https://github.com/faithandbrave/presentations/blob/master/2017.11.18_oss_documentation/cpprefjp_documentation.key
 [cpprefjp_docs_slide]: https://www.slideshare.net/faithandbrave/cpprefjp-documentation-82258368
-[cppmix1_pdf]: https://github.com/faithandbrave/presentations/blob/master/2018.12.06_cppmix_01/cppmix_01.pdf
-[cppmix1_pptx]: https://github.com/faithandbrave/presentations/blob/master/2018.12.06_cppmix_01/cppmix_01.pptx
-[cppmix1_slide]: https://www.slideshare.net/faithandbrave/cppmix-01
-[cppmix2_pdf]: https://github.com/faithandbrave/presentations/blob/master/2019.02.20_cppmix_02/cppmix_02.pdf
-[cppmix2_pptx]: https://github.com/faithandbrave/presentations/blob/master/2019.02.20_cppmix_02/cppmix_02.pptx
-[cppmix2_slide]: https://www.slideshare.net/faithandbrave/cppmix-02
 [cpp20lang_pdf]: https://github.com/faithandbrave/presentations/blob/master/2019.04.16_cppmix_03/cpp20_overview_lang.pdf
 [cpp20lang_pptx]: https://github.com/faithandbrave/presentations/blob/master/2019.04.16_cppmix_03/cpp20_overview_lang.pptx
 [cpp20lang_slide]: https://www.slideshare.net/faithandbrave/cpp20-overview-language-features
@@ -297,6 +293,9 @@
 [cpp20_projection_pdf]: https://github.com/faithandbrave/presentations/blob/master/2025.06.20_cpp_breaktime_2025_summer/cpp20_algorithm_projection.pdf
 [cpp20_projection_pptx]: https://github.com/faithandbrave/presentations/blob/master/2025.06.20_cpp_breaktime_2025_summer/cpp20_algorithm_projection.pptx
 [cpp20_projection_slide]: https://speakerdeck.com/faithandbrave/c-plus-plus-20-she-ying-bian-huan
+[webrtc_pdf]: https://github.com/faithandbrave/presentations/blob/master/2025.07.18_cppmix_15/webrtc.pdf
+[webrtc_pptx]: https://github.com/faithandbrave/presentations/blob/master/2025.07.18_cppmix_15/webrtc.pptx
+[webrtc_slide]: https://speakerdeck.com/faithandbrave/p2ptong-xin-nobiao-zhun-hua-webrtcwozhi-rou
 
 [boost1]: http://boostjp.github.io/study_meeting/study1.html
 [boost2]: http://boostjp.github.io/study_meeting/study2.html
@@ -338,15 +337,23 @@
 [cppmix1]: https://cppmix.connpass.com/event/107576/
 [cppmix2]: https://cppmix.connpass.com/event/115640/
 [cppmix3]: https://cppmix.connpass.com/event/124862/
+[cppmix4]: https://cppmix.connpass.com/event/132145/
 [cppmix5]: https://cppmix.connpass.com/event/141908/
+[cppmix6]: https://cppmix.connpass.com/event/150527/
+[cppmix7]: https://cppmix.connpass.com/event/160166/
 [cppmix8]: https://cppmix.connpass.com/event/301925/
 [cppmix9]: https://cppmix.connpass.com/event/305699/
 [cppmix10]: https://cppmix.connpass.com/event/311283/
 [cppmix11]: https://cppmix.connpass.com/event/319167/
 [cppmix12]: https://cppmix.connpass.com/event/337028/
+[cppmix13]: https://cppmix.connpass.com/event/343088/
 [cppmix14]: https://cppmix.connpass.com/event/349703/
+[cppmix15]: https://cppmix.connpass.com/event/359098/
+[cppmix16]: https://cppmix.connpass.com/event/369191/
+[cppmix17]: https://cppmix.connpass.com/event/381312/
 [cpp20survey]: https://cpp20survey.connpass.com/event/124051/
 [cpp20survey2]: https://cpp20survey.connpass.com/event/126691/
+[cpp20survey3]: https://cpp20survey.connpass.com/event/147002/
 [talkcpp]: https://talkcpp.connpass.com/event/219429/
 [ossx31]: https://oss-x-users-meeting.connpass.com/event/218793/
 [cpp_breaktime_2025_summer]: https://cpp-osaka.connpass.com/event/356031/
@@ -363,7 +370,7 @@
 - \[[pdf][n2778_pdf]\]\[[origin][n2778_org]\] 「N2778 Working for Range-based for-loop (revision 4)」
 - \[[pdf][n2927_pdf]\]\[[origin][n2927_org]\] 「N2927 New wording for C++0x Lambdas(rev.2)」
 - \[[pdf][tr542_pdf]\]\[[origin][tr542_org]\] 「TR542 C++による科学計算のためのテクニック」
-- \[[slideshare][iter_must_go_slide]\]\[[origin][iter_must_go_org]\] 「Iterators Must Go」 BoostCon 2009 Andrei Alexandrescu
+- \[[pdf][iter_must_go_pdf]\]\[[pptx][iter_must_go_pptx]\]\[[slideshare][iter_must_go_slide]\]\[[origin][iter_must_go_org]\] 「Iterators Must Go」 BoostCon 2009 Andrei Alexandrescu
 - \[[slideshare][boost_simd_slide]\]\[[origin][boost_simd_org]\] 「Boost.SIMDによる実用的なSIMDアクセラレーション」 BoostCon 2011, Joel Falcou
 - \[[pdf][frp_pdf]\]\[[pptx][frp_pptx]\]\[[slideshare][frp_slide]\]\[[origin][frp_org]\] 「Functional Reactive Programming (FRP)」 HaL7, Heinrich Apfelmus
 
@@ -387,12 +394,14 @@
 [n2927_org]: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2009/n2927.pdf
 [tr542_pdf]: http://dl.dropbox.com/u/1682460/translation/TR542%28jp%29.pdf
 [tr542_org]: http://www.cs.indiana.edu/cgi-bin/techreports/TRNNN.cgi?trnum=TR542
+[iter_must_go_pdf]: https://github.com/faithandbrave/presentations/blob/master/iterators-must-go/iterators-must-go%28ja%29.pdf
+[iter_must_go_pptx]: https://github.com/faithandbrave/presentations/blob/master/iterators-must-go/iterators-must-go%28ja%29.pptx
 [iter_must_go_slide]: http://www.slideshare.net/faithandbrave/iterators-mustgoja
 [iter_must_go_org]: http://www.boostcon.com/site-media/var/sphene/sphwiki/attachment/2009/05/08/iterators-must-go.pdf
 [boost_simd_slide]: http://www.slideshare.net/faithandbrave/boostsimd
 [boost_simd_org]: https://github.com/boostcon/2011_presentations/raw/master/thu/simd.pdf
-[frp_pdf]: https://dl.dropbox.com/u/1682460/presentation/frp_tutorial/frp_tutorial.pdf
-[frp_pptx]: https://dl.dropbox.com/u/1682460/presentation/frp_tutorial/frp_tutorial.pptx
+[frp_pdf]: https://github.com/faithandbrave/presentations/blob/master/frp_tutorial/frp_tutorial.pdf
+[frp_pptx]: https://github.com/faithandbrave/presentations/blob/master/frp_tutorial/frp_tutorial.pptx
 [frp_slide]: http://www.slideshare.net/faithandbrave/frp-tutorial
 [frp_org]: http://apfelmus.nfshost.com/blog/2012/07/15-frp-tutorial-slides.html
 
@@ -418,6 +427,21 @@
 - [C++20を相談しながら調べる会][cpp20survey] 2019/04/02
 - [C++ MIX #3][cppmix3] 2019/04/16
 - [C++20を相談しながら調べる会 #2][cpp20survey2] 2019/05/17
+- [C++ MIX #4][cppmix4] 2019/06/26
+- [C++ MIX #5][cppmix5] 2019/09/04
+- [C++20を相談しながら調べる会 #3][cpp20survey3] 2019/10/04
+- [C++ MIX #6][cppmix6] 2019/11/20
+- [C++ MIX #7][cppmix7] 2020/01/29
+- [C++ MIX #8][cppmix8] 2023/12/06
+- [C++ MIX #9][cppmix9] 2024/02/09
+- [C++ MIX #10][cppmix10] 2024/04/19
+- [C++ MIX #11][cppmix11] 2024/06/14
+- [C++ MIX #12][cppmix12] 2024/12/20
+- [C++ MIX #13][cppmix13] 2025/02/21
+- [C++ MIX #14][cppmix14] 2025/04/25
+- [C++ MIX #15][cppmix15] 2025/07/18
+- [C++ MIX #16][cppmix16] 2025/10/17
+- [C++ MIX #17][cppmix17] 2026/03/13
 
 [game_dev]: http://partake.in/events/ce57b266-069e-4feb-8a56-94bc4764b0e8
 [boost_adv_2011]: http://partake.in/events/597a0fc3-0e3a-47a3-8fc3-4f32ad846a3d
