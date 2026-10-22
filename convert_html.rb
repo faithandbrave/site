@@ -25,6 +25,32 @@ def set_root_path(src_filename, dst_data)
   return dst_data.gsub('META_ROOT_PATH', root_path)
 end
 
+def get_nav_items(src_filename)
+  if src_filename.start_with?('en/')
+    return [
+      ['en/index.html',       'Home / Profile'],
+      ['en/publication.html', 'Publication'],
+    ]
+  else
+    return [
+      ['index.html',        'ホーム / プロフィール'],
+      ['publication.html',  '発表資料や出版物'],
+      ['books.html',        '書籍紹介'],
+      ['contribution.html', 'コントリビューション履歴'],
+      ['article.html',      '技術文書'],
+    ]
+  end
+end
+
+def set_nav(src_filename, dst_data)
+  items = get_nav_items(src_filename)
+  nav = items.each_with_index.map {|(path, label), i|
+    klass = if i == 0 then ' class="active"' else '' end
+    "          <li#{klass}><a href=\"META_ROOT_PATH/#{path}\">#{label}</a></li>"
+  }.join("\n")
+  return dst_data.gsub('META_NAV', nav)
+end
+
 def set_site_name(dst_data)
   return dst_data.gsub('META_SITE_NAME', get_site_name)
 end
@@ -41,6 +67,7 @@ def convert_after(src_filename, dst_filename)
   src_data = File.open(src_filename).read
   dst_data = File.open(dst_filename).read
 
+  dst_data = set_nav(src_filename, dst_data)
   dst_data = set_root_path(src_filename, dst_data)
   dst_data = set_site_name(dst_data)
   dst_data = set_project(dst_data)

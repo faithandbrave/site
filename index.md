@@ -1,6 +1,6 @@
 # 高橋 晶 (Akira Takahashi)
 
-[English version](./english.html)
+[English version](./en/index.html)
 
 ここは、プログラマ高橋 晶の個人サイトです。
 プロフィール、プレゼンテーション資料、出版物、技術文書などを置いてあります。

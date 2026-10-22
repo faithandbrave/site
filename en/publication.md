@@ -1,7 +1,9 @@
 # Publication
 
+[Japanese version (日本語バージョン)](../publication.html)
+
 ## Published Books
-- ["C++ Template Techniques"](./books/cpptt.html) published by SOFTBANK Creative (April 2009)
+- ["C++ Template Techniques"](../books/cpptt.html) published by SOFTBANK Creative (April 2009)
 - "Programmers' Grimoire vol.1 Construct the World, C++" published by LongGate (August 2010)
 - "Road to Generative Programmer" of "The Great Books of Software Development - 100 Professionals recommend for You" published by SHOEISHA (February 2012)
 - "C++ Pocket Reference" published by Gijutsu-Hyohron (May 2013)

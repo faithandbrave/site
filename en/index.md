@@ -1,12 +1,12 @@
 # Akira Takahashi
 
-[Japanese version (日本語バージョン)](./index.html)
+[Japanese version (日本語バージョン)](../index.html)
 
 This is Akira Takahashi's personal site.
 It includes his profile, public presentations, published books, technical articles, etc.
 For work inquiries, please use one of the mail addresses in [Contact](#contact).
 
-![](./image/akira_face.png)
+![](../image/akira_face.png)
 
 Akira Takahashi
 Born March 1, 1985 Miyagi-ken. Japan
@@ -80,27 +80,27 @@ C++, Python, TypeScript, JavaScript, Elixir, Ruby, C#, Objective-C++, PHP.
 
 ## Pictures
 
-<img src="./image/akira_wankuma_photo1.jpg">
+<img src="../image/akira_wankuma_photo1.jpg">
 
-<img src="./image/akira_wankuma_photo2.jpg">
+<img src="../image/akira_wankuma_photo2.jpg">
 
 Wankuma Study Meeting in Tokyo #22 - "C++0x - Talking about the future of the language"
 
 
-<img src="./image/akira_devsumi_photo1.jpg">
+<img src="../image/akira_devsumi_photo1.jpg">
 
-<img src="./image/akira_devsumi_photo2.jpg">
+<img src="../image/akira_devsumi_photo2.jpg">
 
-<img src="./image/akira_devsumi_photo3.jpg">
+<img src="../image/akira_devsumi_photo3.jpg">
 
 Developers Summit 2010 "C++0x, Ruby, ECMAScript5 About International Standardization"
 
 
-<img src="./image/akira_boost_study_photo1.jpg">
+<img src="../image/akira_boost_study_photo1.jpg">
 
 Boost.StudyMeeting #6 in Sapporo
 
 
-<img src="./image/akira_gree_tech_talk_photo1.jpg" width="90%">
+<img src="../image/akira_gree_tech_talk_photo1.jpg" width="90%">
 
 GREE Tech Talk #05

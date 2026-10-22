@@ -1,6 +1,6 @@
 # 発表資料や出版物
 
-[English version](./publication/english.html)
+[English version](./en/publication.html)
 
 ## 書籍
 - [『C++テンプレートテクニック』](./books/cpptt.html) ソフトバンククリエイティブより出版 2009/04
